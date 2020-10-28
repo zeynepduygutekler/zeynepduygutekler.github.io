@@ -23,7 +23,7 @@ author_profile: true
 
 
 
-## Manuscript
+## Manuscript (In-Progress)
 ---
 
 ### User Perceptions and Adoption of Plug Load Management Systems in the Workplace
@@ -41,7 +41,8 @@ ___
 
 ### Near-real-time plug load identification using low-frequency power data in office spaces: Experiments and applications
 (with Raymond Low, Yuren Zhou, Lucienne Blessing and Costas Spanos) <br/>
-*Applied Energy* :closed_book: [[PDF]](http://zeynepduygutekler.github.io/files/AppliedEnergy_Published)
+*Applied Energy* :closed_book:[View on ResearchGate](https://www.researchgate.net/publication/342567838_Near-real-time_plug_load_identification_using_low-frequency_power_data_in_office_spaces_Experiments_and_applications)
+[[PDF]](http://zeynepduygutekler.github.io/files/AppliedEnergy_Published)
 
 
 ### Predicting Commercial Vehicle Parking Duration using Generative Adversarial Multiple Imputation Networks
