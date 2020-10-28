@@ -11,7 +11,7 @@ redirect_from:
 --->
 
 ---
-permalink: /
+permalink: /publications/
 collection: publications
 excerpt: 'A Waste Management Behavioural Framework of Singapore’s Food Manufacturing Industry using Factor Analysis'
 date: Jan 2019
