@@ -11,9 +11,7 @@ redirect_from:
 --->
 
 ---
-title: "A Waste Management Behavioural Framework of Singapore’s Food Manufacturing Industry using Factor Analysis"
 collection: publications
-permalink: /publication/Procedia_Waste_Management_Framework_ZeynepDuyguTekler
 excerpt: 'A Waste Management Behavioural Framework of Singapore’s Food Manufacturing Industry using Factor Analysis'
 date: Jan 2019
 venue: 'Procedia CIRP'
