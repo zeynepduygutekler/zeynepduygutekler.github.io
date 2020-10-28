@@ -36,7 +36,7 @@ author_profile: true
 *Energy Policy* :pencil2: [Soon!]
 
 
-## 2020
+# 2020
 ___
 
 ### Near-real-time plug load identification using low-frequency power data in office spaces: Experiments and applications
@@ -48,7 +48,7 @@ ___
 ### Predicting Commercial Vehicle Parking Duration using Generative Adversarial Multiple Imputation Networks
 (with Raymond Low and Lynette Cheah) <br/>
 *Transportation Research Record* :closed_book: [[View on ResearchGate]](https://www.researchgate.net/publication/342610218_Predicting_Commercial_Vehicle_Parking_Duration_using_Generative_Adversarial_Multiple_Imputation_Networks)
-([[PDF]](http://zeynepduygutekler.github.io/files/TRB_Published)
+[[PDF]](http://zeynepduygutekler.github.io/files/TRB_Published)
 
 
 ### A scalable Bluetooth Low Energy approach to identify occupancy patterns and profiles in office spaces
@@ -57,7 +57,7 @@ ___
 [[PDF]](http://zeynepduygutekler.github.io/files/BuildingandEnvironment_Published)
 
 
-## 2019
+# 2019
 ___
 
 ### An alternative approach to monitor occupancy using bluetooth low energy technology in an office environment
