@@ -1,22 +1,11 @@
 
-
-<!---
-permalink: /
-title: "About Me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
---->
-
 ---
-permalink: /publications/
+title: "A Waste Management Behavioural Framework of Singapore’s Food Manufacturing Industry using Factor Analysis"
 collection: publications
-excerpt: 'A Waste Management Behavioural Framework of Singapore’s Food Manufacturing Industry using Factor Analysis'
+permalink: /publication/Procedia_Waste_Management_Framework_ZeynepDuyguTekler
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: Jan 2019
 venue: 'Procedia CIRP'
-redirect_from: /publications.html
 ---
 
 A Waste Management Behavioural Framework of Singapore’s Food Manufacturing Industry using Factor Analysis
@@ -30,20 +19,11 @@ A Waste Management Behavioural Framework of Singapore’s Food Manufacturing Ind
 
 
 
-<!---
-title: "A Waste Management Behavioural Framework of Singapore’s Food Manufacturing Industry using Factor Analysis"
-collection: publications
-permalink: /publication/Procedia_Waste_Management_Framework_ZeynepDuyguTekler
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: Jan 2019
-venue: 'Procedia CIRP'
+
+<!--
 paperurl: 'http://zeynepduygutekler.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 --->
-
-
-
-
 
 
 
