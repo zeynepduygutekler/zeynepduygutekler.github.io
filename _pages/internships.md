@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div>
-<img align="left" width="50" height="50" src="/images/astar.png" style="margin-right: 10px"> 
+<img align="left" width="45" height="45" src="/images/astar.png" style="margin-right: 10px"> 
 <h2>
 Agency for Science Technology and Research
 </h2> 
