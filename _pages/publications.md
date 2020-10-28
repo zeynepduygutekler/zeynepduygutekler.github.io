@@ -21,7 +21,7 @@ author_profile: true
 <i>Recommended citation: Tekler, Z. D., Low, R., Chung, S. Y., Low, J. S. C., & Blessing, L. (2019). A Waste Management Behavioural Framework of Singapore’s Food Manufacturing Industry using Factor Analysis. Procedia CIRP, 80, 578-583. </i> 
 -->
 
-#Manuscript
+# Manuscript
 ---
 
 ### User Perceptions and Adoption of Plug Load Management Systems in the Workplace
@@ -66,7 +66,7 @@ ___
 
 
 ### A Waste Management Behavioural Framework of Singapore’s Food Manufacturing Industry using Factor Analysis
-(with Raymond Low, Si Ying Chung, Jonathan Sze Choong Low and Lucienne Blessing) </br>
+(with Raymond Low, Si Ying Chung, Jonathan Sze Choong Low and Lucienne Blessing) <br/>
 *26th CIRP Conference on Life Cycle Engineering (LCE), Purdue University, USA* :rocket: [[PDF]](http://zeynepduygutekler.github.io/files/CIRP_Published.pdf)
 
 
