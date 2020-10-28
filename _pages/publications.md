@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "PUBLICATIONS"
 permalink: /publications/
 author_profile: true
 ---
@@ -21,7 +21,9 @@ author_profile: true
 <i>Recommended citation: Tekler, Z. D., Low, R., Chung, S. Y., Low, J. S. C., & Blessing, L. (2019). A Waste Management Behavioural Framework of Singapore’s Food Manufacturing Industry using Factor Analysis. Procedia CIRP, 80, 578-583. </i> 
 -->
 
-# Manuscript
+
+
+## Manuscript
 ---
 
 ### User Perceptions and Adoption of Plug Load Management Systems in the Workplace
@@ -34,7 +36,7 @@ author_profile: true
 *Energy Policy* :pencil2: [Soon!]
 
 
-# 2020
+## 2020
 ___
 
 ### Near-real-time plug load identification using low-frequency power data in office spaces: Experiments and applications
@@ -52,7 +54,7 @@ ___
 *Building and Environment* :closed_book: [[PDF]](http://zeynepduygutekler.github.io/files/BuildingandEnvironment_Published)
 
 
-# 2019
+## 2019
 ___
 
 ### An alternative approach to monitor occupancy using bluetooth low energy technology in an office environment
