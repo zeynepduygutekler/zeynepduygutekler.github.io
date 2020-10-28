@@ -1,4 +1,3 @@
-
 ---
 title: "A Waste Management Behavioural Framework of Singapore’s Food Manufacturing Industry using Factor Analysis"
 collection: publications
