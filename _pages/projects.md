@@ -31,9 +31,9 @@ of the game involves the degraded world around the players.
 
 Add Images. View This Game Here.
 
-![This is a alt text.](/images/game1.jpg "This is a sample image.")
+![This is a alt text.](/images/game1.jpg "This is a sample image.") ![This is a alt text.](/images/game2.png "This is a sample image.")
 
-![This is a alt text.](/images/game2.jpg "This is a sample image.")
+
 
 
 
