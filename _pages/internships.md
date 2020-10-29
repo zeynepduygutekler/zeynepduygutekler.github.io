@@ -14,7 +14,7 @@ Berkeley Education Alliance for Research (SinBerBest)
 </div>
 
 **Location**: Singapore\
-**Period**: Jan 20 to Oct 20 \ (8 months)
+**Period**: Jan 20 to Oct 20 \ (8 months) </br>
 *Visiting Researcher*
 * Developed an occupant-driven smart plug load control system in office spaces using machine learning and IoT approaches.
 
