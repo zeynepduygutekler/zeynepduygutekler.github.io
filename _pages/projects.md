@@ -16,12 +16,15 @@ to detect plug load interaction.
 * Developed a real-time plug load identification module that performs device-type classification
 using machine learning techniques.
 
-![Alt Text](/images/plugmate.png)
 
-:movie_camera: **Click the image below to watch our Plug-Mate Video!** :arrow_down:
+
+<img src="/images/plugmate.png" width="70%; height="70%;"> 
+
+:movie_camera: <span style="color:red">*[Click HERE to watch our Plug-Mate Video!](http://www.youtube.com/watch?feature=player_embedded&v=2Ud_u6VYUVo&ab_channel=LucasNg)* text</span> :arrow_down:
+
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=2Ud_u6VYUVo&ab_channel=LucasNg
-" target="_blank"><img src="http://img.youtube.com/vi/2Ud_u6VYUVo&ab_channel=LucasNg0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/2Ud_u6VYUVo&ab_channel=LucasNg/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
