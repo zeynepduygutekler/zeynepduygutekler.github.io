@@ -16,14 +16,10 @@ to detect plug load interaction.
 * Developed a real-time plug load identification module that performs device-type classification
 using machine learning techniques.
 
-
-<img  width="70%" height="70%" src="/images/plugmate.png"> 
-
-:movie_camera: <span style="color:red">*[Click HERE to watch our Plug-Mate Video!](http://www.youtube.com/watch?feature=player_embedded&v=2Ud_u6VYUVo&ab_channel=LucasNg)* text</span> :arrow_down:
-
+:movie_camera: <span style="color:red">**Click the image to watch our Plug-Mate Video below** </span> :arrow_down:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=2Ud_u6VYUVo&ab_channel=LucasNg
-" target="_blank"><img src="http://img.youtube.com/vi/2Ud_u6VYUVo&ab_channel=LucasNg/0.jpg" 
+" target="_blank"><img width="70%" height="70%" src="/images/plugmate.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
@@ -39,17 +35,11 @@ designed to provide not only an educational and engaging game to raise awareness
 but to also get people to explore their environment and provide an immersive experience in which the story 
 of the game involves the degraded world around the players.
 
-![This is a alt text.](/images/game1.jpg "This is a sample image.") ![This is a alt text.](/images/game2.png "This is a sample image.")
-
-
-
-:movie_camera: **To check our game video, click the image below** :arrow_down:
-
 :movie_camera: <span style="color:red">**To check our game video, click the image below**</span> :arrow_down:
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=d3bd8sSuG7E
-" target="_blank"><img src="img src="/images/logo.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=
+" target="_blank"><img src="http://img.youtube.com/vi/d3bd8sSuG7E/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
@@ -62,28 +52,19 @@ dashboard.
 * Integrated **React applications** to capture user preferred settings for different control features.
 
 
-
-
-
-
-
-
-
-
-![Alt Text](/images/dashboard.png)![Alt Text](/images/control.png)
-
 <img  width="46%" height="70%" src="/images/dashboard.png"><img  width="50%" height="70%" src="/images/control.png"> 
 
 
-:movie_camera: **To check our game video, click the image below** :arrow_down:
+:movie_camera: **To check our Plug-Mate DEMO, click our logo below** :arrow_down:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6dTeSbOc6V0
 " target="_blank"><img src="/images/logo.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+:camera: **BONUS: Meet my amazing team who I have led for this project!**
 
 ![Alt Text](/images/team.png)
-:balloon: My amazing team who I have supervised!
+
 
 ## Waste Management Behavioural Framework for Singapore’s Food Manufacturing Industry
 *May 18 – Jan 19* 
