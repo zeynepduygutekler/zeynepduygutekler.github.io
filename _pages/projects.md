@@ -16,7 +16,15 @@ to detect plug load interaction.
 * Developed a real-time plug load identification module that performs device-type classification
 using machine learning techniques.
 
-Add Images. View This Game Here.
+![Alt Text](/images/plugmate.png)
+
+:movie_camera: **Click the image below to watch our Plug-Mate Video!** :arrow_down:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=2Ud_u6VYUVo&ab_channel=LucasNg
+" target="_blank"><img src="http://img.youtube.com/vi/2Ud_u6VYUVo&ab_channel=LucasNg0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
 
 ## Geolocation-based AR Game for Climate Change Awareness and Action 
 *Aug 20-Present*
@@ -31,13 +39,11 @@ of the game involves the degraded world around the players.
 
 ![This is a alt text.](/images/game1.jpg "This is a sample image.") ![This is a alt text.](/images/game2.png "This is a sample image.")
 
-:space_invader:**To check our game video, click the image below** :arrow_down:
+:movie_camera:**To check our game video, click the image below** :arrow_down:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=d3bd8sSuG7E
 " target="_blank"><img src="http://img.youtube.com/vi/d3bd8sSuG7E/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-
 
 
 ## Plug-mate Interface: A Web-based User Interface for a Smart Plug Load Management System
@@ -47,9 +53,19 @@ using the **Django Web Framework, HTML, CSS and Javascript.**
 * Integrated **Dash-Plotly applications** to visualise the user’s energy consumption on a smart energy
 dashboard.
 * Integrated **React applications** to capture user preferred settings for different control features.
-* Led and supervised a amazing team of 5.
 
-Add images. View This Game Here.
+![Alt Text](/images/pm1.png)![Alt Text](/images/pm2.png)
+
+
+:movie_camera: **To check our game video, click the image below** :arrow_down:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=6dTeSbOc6V0
+" target="_blank"><img src="http://img.youtube.com/vi/6dTeSbOc6V0/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
+![Alt Text](/images/team.png)
+:balloon: My amazing team who I have supervised!
 
 ## Waste Management Behavioural Framework for Singapore’s Food Manufacturing Industry
 *May 18 – Jan 19* 
