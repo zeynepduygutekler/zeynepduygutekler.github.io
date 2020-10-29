@@ -14,7 +14,8 @@ Berkeley Education Alliance for Research (SinBerBest)
 </div>
 
 **Location**: Singapore\
-**Period**: Jan 20 to Oct 20 \ (8 months) </br>
+**Period**: Jan 20 to Oct 20 \ (8 months) 
+
 *Visiting Researcher*
 * Developed an occupant-driven smart plug load control system in office spaces using machine learning and IoT approaches.
 
@@ -28,6 +29,7 @@ Agency for Science Technology and Research (A*STAR)
 
 **Location**: Singapore\
 **Period**: Jan 19 to June 19 \ (6 months)
+
 *Visiting Researcher, Singapore Institute of Manufacturing Technology*
 * Led an exploratory study to gain insights into food manufacturers’ waste management decision-making 
 process and used statistical analysis to translate these insights into a behaviour framework.
@@ -41,6 +43,7 @@ Turkish Airlines Technic
 
 **Location**: Turkey\
 **Period**: Jun 14 to Aug 14 \ (3 months)
+
 *Intern, Production Planning Department*
 * Assisted in the development of production plans aimed at utilizing resources for maximum
 output, and minimizing discrepancies between actual production and forecast requisite.
@@ -54,6 +57,7 @@ Koc Financial Services AS
 
 **Location**: Turkey\
 **Period**: Jul 13 to Sep 13 \ (3 months)
+
 *Intern, Human Resources Department*
 * Assisted the Human Resource Manager in a wide range of projects including HR compliance,
 recruitment, as well as onboarding and orientation of new hires.
