@@ -47,10 +47,10 @@ alt="IMAGE ALT TEXT HERE" width="400" height="180" border="10" /></a>
 ## Plug-mate Interface: A Web-based User Interface for a Smart Plug Load Management System
 *Apr 20 – Sep 20*
 * Designed and developed a web-based user interface for a smart plug load management system
-using the **Django Web Framework, HTML, CSS and Javascript.**
-* Integrated **Dash-Plotly applications** to visualise the user’s energy consumption on a smart energy
+using the Django Web Framework, HTML, CSS and Javascript.
+* Integrated Dash-Plotly applications to visualise the user’s energy consumption on a smart energy
 dashboard.
-* Integrated **React applications** to capture user preferred settings for different control features.
+* Integrated React applications to capture user preferred settings for different control features.
 
 
 <img  width="46%" height="70%" src="/images/dashboard.png"><img  width="50%" height="70%" src="/images/control.png"> 
@@ -64,12 +64,12 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 :camera: <span style="color:blue">**BONUS: Meet my amazing team who I have supervised for this project!**</span> 
 
-<img  width="50%" height="50%" src="/images/team.png">
+<img  width="60%" height="50%" src="/images/team.png">
 
 ---
 
 ## Waste Management Behavioural Framework for Singapore’s Food Manufacturing Industry
 *May 18 – Jan 19* 
-* Proposed a waste management behavioral framework for Singapore's food manufacturing industry. 
+* Developed a waste management behavioral framework for Singapore's food manufacturing industry. 
 
 :bell: [Find the details here!](../files/CIRP_Published.pdf)
