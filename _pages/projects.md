@@ -17,8 +17,7 @@ to detect plug load interaction.
 using machine learning techniques.
 
 
-
-<img src="/images/plugmate.png" width="70%; height="70%;"> 
+<img  width="70%" height="70%" src="/images/plugmate.png"> 
 
 :movie_camera: <span style="color:red">*[Click HERE to watch our Plug-Mate Video!](http://www.youtube.com/watch?feature=player_embedded&v=2Ud_u6VYUVo&ab_channel=LucasNg)* text</span> :arrow_down:
 
@@ -42,7 +41,10 @@ of the game involves the degraded world around the players.
 
 ![This is a alt text.](/images/game1.jpg "This is a sample image.") ![This is a alt text.](/images/game2.png "This is a sample image.")
 
-:movie_camera:**To check our game video, click the image below** :arrow_down:
+:movie_camera: **To check our game video, click the image below** :arrow_down:
+
+:movie_camera: <span style="color:red">**To check our game video, click the image below**</span> :arrow_down:
+
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=d3bd8sSuG7E
 " target="_blank"><img src="http://img.youtube.com/vi/d3bd8sSuG7E/0.jpg" 
