@@ -16,12 +16,11 @@ to detect plug load interaction.
 * Developed a real-time plug load identification module that performs device-type classification
 using machine learning techniques.
 
-:movie_camera: <span style="color:red">**Click the image to watch our Plug-Mate Video below** </span> :arrow_down:
+:movie_camera: <span style="color:red">**Click the image below to watch our Plug-Mate Video!** </span>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=2Ud_u6VYUVo&ab_channel=LucasNg
 " target="_blank"><img width="70%" height="70%" src="/images/plugmate.png" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
+alt="IMAGE ALT TEXT HERE" width="700" height="180" border="10" /></a>
 
 
 ## Geolocation-based AR Game for Climate Change Awareness and Action 
@@ -35,12 +34,12 @@ designed to provide not only an educational and engaging game to raise awareness
 but to also get people to explore their environment and provide an immersive experience in which the story 
 of the game involves the degraded world around the players.
 
-:movie_camera: <span style="color:red">**To check our game video, click the image below**</span> :arrow_down:
+:movie_camera: <span style="color:red">**To check our game video, click the image below**</span> 
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=
-" target="_blank"><img src="http://img.youtube.com/vi/d3bd8sSuG7E/0.jpg"
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+" target="_blank"><img src="/images/pear.jpg"
+alt="IMAGE ALT TEXT HERE" width="350" height="180" border="10" /></a>
 
 
 ## Plug-mate Interface: A Web-based User Interface for a Smart Plug Load Management System
@@ -55,16 +54,16 @@ dashboard.
 <img  width="46%" height="70%" src="/images/dashboard.png"><img  width="50%" height="70%" src="/images/control.png"> 
 
 
-:movie_camera: **To check our Plug-Mate DEMO, click our logo below** :arrow_down:
+:movie_camera: <span style="color:red">**To check the Plug-Mate DEMO, click the our logo below!**</span> 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6dTeSbOc6V0
 " target="_blank"><img src="/images/logo.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-:camera: **BONUS: Meet my amazing team who I have led for this project!**
+:camera: <span style="color:red">**BONUS: Meet my amazing team who I have supervised for this project!**</span> 
 
-![Alt Text](/images/team.png)
 
+<img  width="50%" height="50%" src="/images/team.png">
 
 ## Waste Management Behavioural Framework for Singapore’s Food Manufacturing Industry
 *May 18 – Jan 19* 
