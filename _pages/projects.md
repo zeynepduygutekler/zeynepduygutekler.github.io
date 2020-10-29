@@ -22,6 +22,7 @@ using machine learning techniques.
 " target="_blank"><img width="70%" height="70%" src="/images/plugmate.png" 
 alt="IMAGE ALT TEXT HERE" width="700" height="180" border="10" /></a>
 
+---
 
 ## Geolocation-based AR Game for Climate Change Awareness and Action 
 *Aug 20-Present*
@@ -39,8 +40,9 @@ of the game involves the degraded world around the players.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=
 " target="_blank"><img src="/images/pear.jpg"
-alt="IMAGE ALT TEXT HERE" width="350" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="400" height="180" border="10" /></a>
 
+---
 
 ## Plug-mate Interface: A Web-based User Interface for a Smart Plug Load Management System
 *Apr 20 – Sep 20*
@@ -54,16 +56,17 @@ dashboard.
 <img  width="46%" height="70%" src="/images/dashboard.png"><img  width="50%" height="70%" src="/images/control.png"> 
 
 
-:movie_camera: <span style="color:red">**To check the Plug-Mate DEMO, click the our logo below!**</span> 
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=6dTeSbOc6V0
+:movie_camera: <span style="color:red">**To check the Plug-Mate DEMO, click the our logo!**</span> :point_right: <a href="http://www.youtube.com/watch?feature=player_embedded&v=6dTeSbOc6V0
 " target="_blank"><img src="/images/logo.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+
+
 :camera: <span style="color:red">**BONUS: Meet my amazing team who I have supervised for this project!**</span> 
 
-
 <img  width="50%" height="50%" src="/images/team.png">
+
+---
 
 ## Waste Management Behavioural Framework for Singapore’s Food Manufacturing Industry
 *May 18 – Jan 19* 
