@@ -47,7 +47,7 @@ of the game involves the degraded world around the players.
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=d3bd8sSuG7E
-" target="_blank"><img src="http://img.youtube.com/vi/d3bd8sSuG7E/0.jpg" 
+" target="_blank"><img src="img src="/images/logo.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
@@ -74,7 +74,7 @@ dashboard.
 :movie_camera: **To check our game video, click the image below** :arrow_down:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6dTeSbOc6V0
-" target="_blank"><img src="http://img.youtube.com/vi/6dTeSbOc6V0/0.jpg" 
+" target="_blank"><img src="/images/logo.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
