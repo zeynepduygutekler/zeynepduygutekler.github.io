@@ -25,7 +25,7 @@ Singapore University of Technology and Design, Singapore
 ___
 
 <div>
-<img align="left" width="105" height="45" src="/images/isik2.jpg.jpg" style="margin-right: 10px"> 
+<img align="left" width="105" height="45" src="/images/isik2.jpg" style="margin-right: 10px"> 
 <h3>
 Isik University, Turkey
 </h3> 

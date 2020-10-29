@@ -7,7 +7,7 @@ author_profile: true
 
 
 <div>
-<img align="left" width="45" height="45" src="/images/sinberbest.jpg" style="margin-right: 10px"> 
+<img align="left" width="45" height="65" src="/images/sinberbest.jpg" style="margin-right: 10px"> 
 <h2>
 Berkeley Education Alliance for Research (SinBerBest)
 </h2> 
@@ -46,7 +46,7 @@ Turkish Airlines Technic
 output, and minimizing discrepancies between actual production and forecast requisite.
 
 <div>
-<img align="left" width="45" height="45" src="/images/kocfinance.png" style="margin-right: 10px"> 
+<img align="left" width="55" height="45" src="/images/kocfinance.png" style="margin-right: 10px"> 
 <h2>
 Koc Financial Services AS
 </h2> 
