@@ -41,13 +41,15 @@ of the game involves the degraded world around the players.
 
 ![This is a alt text.](/images/game1.jpg "This is a sample image.") ![This is a alt text.](/images/game2.png "This is a sample image.")
 
+
+
 :movie_camera: **To check our game video, click the image below** :arrow_down:
 
 :movie_camera: <span style="color:red">**To check our game video, click the image below**</span> :arrow_down:
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=d3bd8sSuG7E
-" target="_blank"><img src="img src="/images/logo.png" 
+" target="_blank"><img src="img src="/images/logo.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
@@ -70,11 +72,13 @@ dashboard.
 
 ![Alt Text](/images/dashboard.png)![Alt Text](/images/control.png)
 
+<img  width="46%" height="70%" src="/images/dashboard.png"><img  width="50%" height="70%" src="/images/control.png"> 
+
 
 :movie_camera: **To check our game video, click the image below** :arrow_down:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6dTeSbOc6V0
-" target="_blank"><img src="/images/logo.png" 
+" target="_blank"><img src="/images/logo.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
