@@ -59,7 +59,16 @@ using the **Django Web Framework, HTML, CSS and Javascript.**
 dashboard.
 * Integrated **React applications** to capture user preferred settings for different control features.
 
-![Alt Text](/images/pm1.png)![Alt Text](/images/pm2.png)
+
+
+
+
+
+
+
+
+
+![Alt Text](/images/dashboard.png)![Alt Text](/images/control.png)
 
 
 :movie_camera: **To check our game video, click the image below** :arrow_down:
@@ -76,4 +85,4 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 *May 18 – Jan 19* 
 * Proposed a waste management behavioral framework for Singapore's food manufacturing industry. 
 
-[Find the details here!](../files/CIRP_Published.pdf)
+:bell: [Find the details here!](../files/CIRP_Published.pdf)
