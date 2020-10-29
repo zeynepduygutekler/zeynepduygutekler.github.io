@@ -29,15 +29,9 @@ designed to provide not only an educational and engaging game to raise awareness
 but to also get people to explore their environment and provide an immersive experience in which the story 
 of the game involves the degraded world around the players.
 
-Add Images. View This Game Here.
-
 ![This is a alt text.](/images/game1.jpg "This is a sample image.") ![This is a alt text.](/images/game2.png "This is a sample image.")
 
-
-
-
-
-**Check Our Game Here**
+:space_invader:**To check our game video, click the image below** :arrow_down:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=d3bd8sSuG7E
 " target="_blank"><img src="http://img.youtube.com/vi/d3bd8sSuG7E/0.jpg" 
