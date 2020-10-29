@@ -15,5 +15,4 @@ author_profile: true
 
 
 ## Singapore International Graduate Award (SINGA) 
-* Awarded to international students with a passion for STEM research to purse PhD studies in Singapore.
-* Selected as one of the 12 awardees among 600+ applicants in 2017. (Sep 17- Present)
+* Awarded to international students with a passion for STEM research to purse PhD studies in Singapore. (Sep 17- Present)
