@@ -61,7 +61,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 :camera: <span style="color:blue">**BONUS: Meet my amazing team who I have supervised for this project! 
-Click the image to know more about our interview!**</span> 
+Click the image to know more about our interview!**</span> :point_down:
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6dTeSbOc6V0&ab_channel=ZeynepDuyguTekler
