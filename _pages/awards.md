@@ -32,7 +32,8 @@ alt="IMAGE ALT TEXT HERE" width="200" height="180" border="10" /></a>
 * Presented my work to the SUTD graduate community. (Dec 19)
 
 :bell: **[See the details HERE](https://www.facebook.com/SUTDGSA/photos/a.644179162765303/759548091228409/?type=3)**
-:camera: **BONUS: Receiving a token of appreciation :)
+
+:camera: **BONUS: Receiving a token of appreciation :)**
 <img width="405" height="45" src="/images/award3.jpg"> 
 
 ## Singapore International Graduate Award (SINGA) 
