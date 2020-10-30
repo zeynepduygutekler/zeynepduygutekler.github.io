@@ -56,15 +56,14 @@ dashboard.
 <img  width="46%" height="70%" src="/images/dashboard.png"><img  width="50%" height="70%" src="/images/control.png"> 
 
 
-:movie_camera: <span style="color:blue">**To check the Plug-Mate DEMO, click the our logo!**</span> :point_right: <a href="http://www.youtube.com/watch?feature=player_embedded&v=6dTeSbOc6V0
-" target="_blank"><img src="/images/logo.jpg" 
+:movie_camera: <span style="color:blue">**To check the Plug-Mate DEMO, click the our logo!**</span> :point_right: <a href="https://plugmate.herokuapp.com/" target="_blank"><img src="/images/logo.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
+:camera: <span style="color:blue">**BONUS: Meet my amazing team who I have supervised for this project! Click the image to know more about our interview!**</span> 
 
-:camera: <span style="color:blue">**BONUS: Meet my amazing team who I have supervised for this project!**</span> 
-
-<img  width="60%" height="50%" src="/images/team.png">
+" target="_blank"><img width="60%" height="50%" src="/images/team.png" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ---
 
