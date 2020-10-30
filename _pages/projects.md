@@ -60,10 +60,10 @@ dashboard.
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
-:camera: <span style="color:blue">**BONUS: Meet my amazing team who I have supervised for this project! Click the image to know more about our interview!**</span> 
+:camera: <span style="color:blue">**BONUS: Meet my amazing team who I have supervised for this project! 
+Click the image to know more about our interview!**</span> 
 
-" target="_blank"><img width="60%" height="50%" src="/images/team.png" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<img width="60%" height="50%"src="/images/team.png" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ---
 
