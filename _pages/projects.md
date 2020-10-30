@@ -63,8 +63,10 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 :camera: <span style="color:blue">**BONUS: Meet my amazing team who I have supervised for this project! 
 Click the image to know more about our interview!**</span> 
 
-<img width="60%" height="50%"src="/images/team.png" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=6dTeSbOc6V0&ab_channel=ZeynepDuyguTekler
+" target="_blank"><img src="/images/team.png"
+alt="IMAGE ALT TEXT HERE" width="400" height="180" border="10" /></a>
 ---
 
 ## Waste Management Behavioural Framework for Singapore’s Food Manufacturing Industry
