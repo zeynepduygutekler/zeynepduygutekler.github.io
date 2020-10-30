@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final year **Ph.D. Candidate in the **Engineering Product Development** pillar,
+I am currently a final year **Ph.D. Candidate** in the **Engineering Product Development** pillar,
 under **SUTD-MIT International Design Centre** at **Singapore University of Technology and Design (SUTD).**
 
 I received my Master's and Bachelor's Degree in Industrial Engineering and Economics as a double major from Isik University,
