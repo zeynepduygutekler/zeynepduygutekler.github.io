@@ -12,7 +12,7 @@ I am currently a final year **Ph.D. Candidate** in the **Engineering Product Dev
 under **SUTD-MIT International Design Centre** at **Singapore University of Technology and Design (SUTD).**
 
 I received my Master's and Bachelor's Degree in Industrial Engineering and Economics as a double major from Isik University,
-where I respectively nominated the Valedictorian and and Salutatorian in 2015.
+where I respectively nominated the **Valedictorian and and Salutatorian** in 2015.
 
 Broadly, my research interests are
 * IoT Applications
