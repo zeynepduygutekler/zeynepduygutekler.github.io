@@ -19,7 +19,7 @@ International 3 Minutes Thesis (3MT) 2020 Competition: First Prize
   <img width="355" height="445" src="/images/3MT_poster.jpg">
   </div>
   <div class="grid-item">
-  <a href="https://youtu.be/s-hTj0XCy5I
+  <a href="https://www.youtube.com/watch?v=s-hTj0XCy5I&feature=youtu.be&ab_channel=ZeynepDuyguTekler
 " target="_blank"><img src="/images/3MT_video2.PNG"
 alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
       <div>
