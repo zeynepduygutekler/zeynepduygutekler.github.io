@@ -14,7 +14,7 @@ International 3 Minutes Thesis (3MT) 2020 Competition: First Prize
 
 * Winner of the SUTD 3MT Competition and Semi-finalist of the Asia-Pacific 3MT Competition. (Jun 20)
 
-<img width="405" height="45" src="/images/3MT_poster.jpg.jpg"> 
+<img width="405" height="45" src="/images/3MT_poster.jpg"> 
 
 :bell: **[See the details about SUTD Comptetition HERE](https://www.facebook.com/SUTDGSA/posts/903648743485009)**
 
