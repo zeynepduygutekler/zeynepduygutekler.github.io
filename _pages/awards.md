@@ -14,7 +14,7 @@ International 3 Minutes Thesis (3MT) 2020 Competition: First Prize
 
 * Winner of the SUTD 3MT Competition and Semi-finalist of the Asia-Pacific 3MT Competition. (Jun 20)
 
-<div id="wrapper">
+
 :movie_camera: <span style="color:blue">**Check my 3MT video below**</span> 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=sZr9oafkFgc&t=1s
@@ -28,9 +28,8 @@ alt="IMAGE ALT TEXT HERE" width="200" height="180" border="10" /></a>
 
 :bell: **[See the details about Singapore Comptetion HERE](https://www.facebook.com/SUTDGSA/posts/963077754208774)**
 
-</div>
-
 ---
+
 <div class="grid-container">
   <div class="grid-item item1">
   <img width="305" height="445" src="https://images.samsung.com/is/image/samsung/sg-fhd-t5300-ua43t6000akxxs-frontblack-220764447?$PD_GALLERY_L_JPG$">
@@ -43,9 +42,13 @@ alt="IMAGE ALT TEXT HERE" width="200" height="180" border="10" /></a>
   <div class="grid-item">
     
   <div>
-       <a href="https://www.facebook.com/SUTDGSA/posts/903648743485009" >See the details of SUTD Competition HERE</a>
+       <a href="https://www.facebook.com/SUTDGSA/posts/903648743485009">See the details of SUTD Competition HERE</a>
     </div>
  </div>
+ </div>
+ 
+ ----
+
 
 
 ## SUTD Research Fest 2020: Best Research Project Award 
