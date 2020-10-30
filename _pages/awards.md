@@ -32,17 +32,19 @@ alt="IMAGE ALT TEXT HERE" width="200" height="180" border="10" /></a>
 
 <div class="grid-container">
   <div class="grid-item item1">
-  <img width="305" height="445" src="https://images.samsung.com/is/image/samsung/sg-fhd-t5300-ua43t6000akxxs-frontblack-220764447?$PD_GALLERY_L_JPG$">
+  <img width="305" height="445" src="/images/3MT_poster.jpg">
   </div>
   <div class="grid-item">
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=sZr9oafkFgc&t=1s
-" target="_blank"><img src="https://images.samsung.com/is/image/samsung/sg-fhd-t5300-ua43t6000akxxs-frontblack-220764447?$PD_GALLERY_L_JPG$"
+  <a href="https://vimeo.com/455688552
+" target="_blank"><img src="/images/3MT_video2.PNG"
 alt="IMAGE ALT TEXT HERE" width="200" height="180" border="10" /></a>
   </div>
   <div class="grid-item">
-    
   <div>
-       <a href="https://www.facebook.com/SUTDGSA/posts/903648743485009">See the details of SUTD Competition HERE</a>
+       <a href="https://www.facebook.com/SUTDGSA/posts/903648743485009" style="font-weight:bold">See the details of SUTD Competition HERE</a>
+    </div>
+     <div>
+       <a href="https://www.facebook.com/SUTDGSA/posts/963077754208774" style="font-weight:bold">See the details of SUTD Competition HERE</a>
     </div>
  </div>
  </div>
