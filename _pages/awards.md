@@ -21,13 +21,13 @@ International 3 Minutes Thesis (3MT) 2020 Competition: First Prize
 alt="IMAGE ALT TEXT HERE" width="200" height="180" border="10" /></a>
 
 
-<img width="405" height="45" src="/images/3MT_poster.jpg"> 
+<img width="305" height="45" src="/images/3MT_poster.jpg"> 
 
 :bell: **[See the details about SUTD Comptetition HERE](https://www.facebook.com/SUTDGSA/posts/903648743485009)**
 
 :bell: **[See the details about Singapore Comptetition HERE](https://www.facebook.com/SUTDGSA/posts/963077754208774)**
 
-
+---
 
 ## SUTD Research Fest 2020: Best Research Project Award 
 * Awarded to the top research project among 60 projects presented, in terms of content, clarity
@@ -36,6 +36,8 @@ alt="IMAGE ALT TEXT HERE" width="200" height="180" border="10" /></a>
 
 <img width="505" height="45" src="/images/award2.jpg"> 
 
+---
+
 ## SUTD Graduate Research Sharing Lunchtime Series: Research Talk
 * Presented my work to the SUTD graduate community. (Dec 19)
 :bell: **[See the details HERE](https://www.facebook.com/SUTDGSA/posts/759548147895070)**
@@ -43,11 +45,12 @@ alt="IMAGE ALT TEXT HERE" width="200" height="180" border="10" /></a>
 <img width="405" height="45" src="/images/researchtalk2.jpg"> 
 
 
-:camera: <span style="color:blue">**BONUS: Receiving a token of appreciation :)*</span> 
+:camera: <span style="color:blue">**BONUS: Receiving a token of appreciation :)**</span> 
 
 <img width="405" height="45" src="/images/researchtalk.jpg"> 
 <img width="405" height="45" src="/images/award3.jpg"> 
 
+---
 
 <div>
 <img align="left" width="105" height="45" src="/images/singa.jpg" style="margin-right: 10px"> 
