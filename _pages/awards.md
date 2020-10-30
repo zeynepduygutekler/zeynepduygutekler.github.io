@@ -23,7 +23,7 @@ International 3 Minutes Thesis (3MT) 2020 Competition: First Prize
 " target="_blank"><img src="/images/3MT_video2.PNG"
 alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
       <div>
-  <img width="20" height="20" src="https://www.flaticon.com/svg/static/icons/svg/686/686458.svg"><span style="color:blue ;font-weight: bold" >Check my 3MT video above!</span> 
+  <img width="20" height="20" src="https://www.flaticon.com/svg/static/icons/svg/1179/1179069.svg"><span style="color:blue ;font-weight: bold" >Check my 3MT video above!</span> 
   </div>
   </div>
  
