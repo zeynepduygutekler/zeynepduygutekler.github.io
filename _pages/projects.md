@@ -38,7 +38,7 @@ of the game involves the degraded world around the players.
 :movie_camera: <span style="color:blue">**To check our game video, click the image below**</span> 
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=TEwCk8bUIrY
 " target="_blank"><img src="/images/pear.jpg"
 alt="IMAGE ALT TEXT HERE" width="400" height="180" border="10" /></a>
 
