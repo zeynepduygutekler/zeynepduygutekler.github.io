@@ -39,7 +39,7 @@ alt="IMAGE ALT TEXT HERE" width="200" height="180" border="10" /></a>
 " target="_blank"><img src="/images/3MT_video2.PNG"
 alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
       <div>
-  <img width="10" height="20" src="https://www.flaticon.com/svg/static/icons/svg/686/686458.svg"><span style="color:blue" >**Check my 3MT video above**</span> 
+  <img width="10" height="20" src="https://www.flaticon.com/svg/static/icons/svg/686/686458.svg"><span style="color:blue ;font-weight: bold" >Check my 3MT video above</span> 
   </div>
   </div>
  
