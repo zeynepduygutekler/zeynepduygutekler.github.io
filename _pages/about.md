@@ -19,7 +19,8 @@ Broadly, my research interests are
 * Smart Energy Management Systems
 * Mobile Sensing 
 * Indoor Localisation
-as part of Smart Cities and Sustainable Building Technologies.
+
+as part of **Smart Cities and Sustainable Building Technologies.**
 
 My primary research focuses on applying different concepts from machine learning, data analytics, human behaviour studies, 
 and IoT technology to gain insights into occupant behaviour in office spaces and develop innovative solutions to 
