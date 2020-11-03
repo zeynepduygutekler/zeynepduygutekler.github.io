@@ -11,8 +11,8 @@ author_profile: true
 International 3 Minutes Thesis (3MT) 2020 Competition: First Prize 
 </h2> 
 </div> 
-
-* Winner of the SUTD 3MT Competition and Semi-finalist of the Asia-Pacific 3MT Competition. (Jun 20)
+*Jun 20*
+* Winner of the SUTD 3MT Competition and Semi-finalist of the Asia-Pacific 3MT Competition. 
 
 <div class="grid-container">
   <div class="grid-item item1">
@@ -41,7 +41,8 @@ alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
 
 ## SUTD Research Fest 2020: Best Research Project Award 
 * Awarded to the top research project among 60 projects presented, in terms of content, clarity
- and innovation. (Jan 20)
+ and innovation. 
+ *Jan 20*
 :bell: **[See the details HERE](https://www.facebook.com/photo.php?fbid=10158052075084791&amp;set=p.10158052075084791&amp;type=3)**
 
 <img width="505" height="45" src="/images/award2.jpg"> 
@@ -68,7 +69,8 @@ alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
 Singapore International Graduate Award (SINGA) 
 </h2> 
 </div> 
-* Awarded to international students with a passion for STEM research to purse PhD studies in Singapore. (Sep 17 - Present)
+*Sep 17 - Present
+* Awarded to international students with a passion for STEM research to purse PhD studies in Singapore. 
 
 
 
