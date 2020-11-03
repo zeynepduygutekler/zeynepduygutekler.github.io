@@ -26,7 +26,7 @@ author_profile: true
 ## Manuscript (In-Progress)
 ---
 ### An End-to-End Point of Interest (POI) Conflation Framework
-(with Raymond Low and Lynette Cheah)
+(with Raymond Low and Lynette Cheah) <br/>
 *IEEE Transactions on Knowledge and Data Engineering* :pencil2: [Soon!]
 
 
