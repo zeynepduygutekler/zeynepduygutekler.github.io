@@ -5,9 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 
-
+<!--
 ## Plug-mate: An Occupant-driven Smart Plug Load Management System in Office Spaces 
-<*Sep 17 – Present*
+*Sep 17 – Present*
 * Developing a smart plug load management system that automates the operation of different plug
 loads based on the occupants’ presence information.
 * Used Python to develop a Bluetooth-based indoor localisation system by deploying Raspberry Pi
@@ -21,10 +21,11 @@ using machine learning techniques.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=2Ud_u6VYUVo&ab_channel=LucasNg
 " target="_blank"><img width="70%" height="70%" src="/images/plugmate.png" 
-alt="IMAGE ALT TEXT HERE" width="700" height="180" border="10" /></a>>
+alt="IMAGE ALT TEXT HERE" width="700" height="180" border="10" /></a>
 
 ---
 
+-->
 
 ## Geolocation-based AR Game for Climate Change Awareness and Action 
 *Aug 20-Present*
@@ -45,7 +46,7 @@ of the game involves the degraded world around the players.
 alt="IMAGE ALT TEXT HERE" width="400" height="180" border="10" /></a>
 
 ---
-
+<!--
 ## Plug-mate Interface: A Web-based User Interface for a Smart Plug Load Management System
 *Apr 20 – Sep 20*
 * Designed and developed a web-based user interface for a smart plug load management system
@@ -70,6 +71,7 @@ Click the image to know more about our interview!**</span> :point_down:
 " target="_blank"><img src="/images/team.png"
 alt="IMAGE ALT TEXT HERE" width="400" height="180" border="10" /></a>
 ---
+-->
 
 ## Waste Management Behavioural Framework for Singapore’s Food Manufacturing Industry
 *May 18 – Jan 19* 
