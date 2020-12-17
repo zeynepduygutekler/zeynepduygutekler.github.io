@@ -25,10 +25,15 @@ author_profile: true
 
 ## Manuscript (In-Progress)
 ---
+
+### An IoT Framework for Occupancy-Driven Energy Management Systems in Smart Buildings
+(with Raymond Low, Yuen Chau and  Lucienne Blessing) <br/>
+*IEEE Internet of Things* :pencil2: [Soon!]
+
+
 ### An End-to-End Point of Interest (POI) Conflation Framework
 (with Raymond Low and Lynette Cheah) <br/>
 *IEEE Transactions on Knowledge and Data Engineering* :pencil2: [Soon!]
-
 
 
 ### User Perceptions and Adoption of Plug Load Management Systems in the Workplace

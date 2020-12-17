@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-<!--
+
 ## Plug-mate: An Occupant-driven Smart Plug Load Management System in Office Spaces 
 *Sep 17 – Present*
 * Developing a smart plug load management system that automates the operation of different plug
@@ -46,7 +46,7 @@ of the game involves the degraded world around the players.
 alt="IMAGE ALT TEXT HERE" width="400" height="180" border="10" /></a>
 
 ---
-<!--
+
 ## Plug-mate Interface: A Web-based User Interface for a Smart Plug Load Management System
 *Apr 20 – Sep 20*
 * Designed and developed a web-based user interface for a smart plug load management system
