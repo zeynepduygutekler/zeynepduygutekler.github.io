@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Plug-mate: An Occupant-driven Smart Plug Load Management System in Office Spaces 
+## Plug-mate: An IoT-based Occupant-driven Smart Plug Load Management System in Office Spaces 
 *Sep 17 – Present*
 * Developing a smart plug load management system that automates the operation of different plug
 loads based on the occupants’ presence information.
