@@ -23,12 +23,12 @@ using machine learning techniques.
 " target="_blank"><img width="70%" height="70%" src="/images/plugmate.png" 
 alt="IMAGE ALT TEXT HERE" width="700" height="180" border="10" /></a>
 
----
+
 *Singapore Provisional Patent Application No: 10202101953Q , 2021*<br/>
 *Plug-Mate: An IoT-based Occupancy-driven Smart Energy Management System for Plug Loads*<br/>
 *Zeynep Duygu Tekler, Raymond Low, Lucienne Blessing*
 
-
+---
 
 ## Geolocation-based AR Game for Climate Change Awareness and Action 
 *Aug 20-Present*
@@ -74,7 +74,7 @@ Click the image to know more about our interview!**</span> :point_down:
 " target="_blank"><img src="/images/team.png"
 alt="IMAGE ALT TEXT HERE" width="400" height="180" border="10" /></a>
 ---
--->
+
 
 ## Waste Management Behavioural Framework for Singapore’s Food Manufacturing Industry
 *May 18 – Jan 19* 
