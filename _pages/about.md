@@ -25,9 +25,9 @@ as part of **Smart Cities and Sustainable Building Technologies.**
 My primary research focuses on applying concepts from machine learning, 
 data analytics, mobile sensing, indoor localisation, and IoT technology to gain insights into 
 occupant behaviour in office spaces and develop innovative solutions to reduce energy consumption in the workplace. 
-As part of my thesis, I am currently developing a smart energy management system, 
-which automates the operation of office appliances based on the users' presence information and preferences to 
-reduce their energy consumption.
+As part of my thesis, I am currently developing a smart energy management system, Plug-Mate,
+which automates the operation of office appliances based on the users' presence and preference information to 
+reduce office energy consumption.
 
 
 
