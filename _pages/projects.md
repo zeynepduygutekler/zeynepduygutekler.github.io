@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Plug-mate: An IoT-based Occupant-driven Smart Plug Load Management System in Office Spaces 
-*Sep 17 – Present*
+*Sep 17 – Aug 21*
 * Developing a smart plug load management system that automates the operation of different plug
 loads based on the occupants’ presence information.
 * Used Python to develop a Bluetooth-based indoor localisation system by deploying Raspberry Pi
@@ -31,7 +31,7 @@ alt="IMAGE ALT TEXT HERE" width="700" height="180" border="10" /></a>
 ---
 
 ## Geolocation-based AR Game for Climate Change Awareness and Action 
-*Aug 20-Present*
+*Aug 20-Aug 21*
 
 A mobile game targeting children 8 to 11 years old has been developed by Singapore University of
 Technology and Design (SUTD) with the aim of promoting climate action and encouraging green behaviour

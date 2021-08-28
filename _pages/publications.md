@@ -36,14 +36,18 @@ author_profile: true
 *IEEE Transactions on Knowledge and Data Engineering* :pencil2: [Soon!]
 
 
-### User Perceptions and Adoption of Plug Load Management Systems in the Workplace
-(with Raymond Low, Kenny Tsu Wei Choo and  Lucienne Blessing) <br/>
-*The ACM CHI Conference on Human Factors in Computing Systems, Yokohama, Japan* :pencil2: [Soon!]
-
-
 ###  Perceptions on the Adoption of Smart Energy Management Systems for Plug Loads in the Workplace: Motivations, Concerns and Implications
 (with Raymond Low and Lucienne Blessing) <br/>
 *Energy Policy* :pencil2: [Soon!]
+
+
+# 2021
+___
+
+### User Perceptions and Adoption of Plug Load Management Systems in the Workplace
+(with Raymond Low, Kenny Tsu Wei Choo and  Lucienne Blessing) <br/>
+*The ACM CHI Conference on Human Factors in Computing Systems, Yokohama, Japan* :closed_book: [[View on ResearchGate]](https://www.researchgate.net/publication/351426292_User_Perceptions_and_Adoption_of_Plug_Load_Management_Systems_in_the_Workplace)
+[[PDF]](http://zeynepduygutekler.github.io/files/CHI_Published)
 
 
 # 2020

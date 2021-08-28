@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final year **Ph.D. Candidate** at the **Singapore University of Technology and Design** (SUTD) 
-under the Engineering Product Development pillar and a researcher under the SUTD-MIT International 
-Design Centre. I received my Master's and Bachelor's degrees in Industrial Engineering and Economics 
-as a double major from Isik University, where I was nominated the **Valedictorian and Salutatorian** 
-of my cohort in 2015.
+I am currently holding a Ph.D. Degree in Engineering Product Development from
+Singapore University of Technology and Design (SUTD) under the SUTD-MIT International Design Centre. 
+Prior of my Ph.D, I received my Master's and Bachelor's degrees in Industrial Engineering and Economics 
+as a double major from Isik University, where I was nominated the Valedictorian and Salutatorian of my cohort in 2015.
 
 Broadly, my research interests are
 * IoT Applications
@@ -23,9 +22,9 @@ Broadly, my research interests are
 as part of **Smart Cities and Sustainable Building Technologies.**
 
 My primary research focuses on applying concepts from machine learning, 
-data analytics, mobile sensing, indoor localisation, and IoT technology to gain insights into 
+data analytics, mobile sensing, indoor localisation, and IoT technologies to gain insights into 
 occupant behaviour in office spaces and develop innovative solutions to reduce energy consumption in the workplace. 
-As part of my thesis, I am currently developing a smart energy management system, Plug-Mate,
+As part of my thesis, I developed a smart energy management system, Plug-Mate,
 which automates the operation of office appliances based on the users' presence and preference information to 
 reduce office energy consumption.
 
