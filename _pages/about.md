@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently holding a Ph.D. Degree in Engineering Product Development from
 Singapore University of Technology and Design (SUTD) under the SUTD-MIT International Design Centre. 
-Prior of my Ph.D, I received my Master's and Bachelor's degrees in Industrial Engineering and Economics 
+Prior of my Ph.D., I received my Master's and Bachelor's degrees in Industrial Engineering and Economics 
 as a double major from Isik University, where I was nominated the Valedictorian and Salutatorian of my cohort in 2015.
 
 Broadly, my research interests are
