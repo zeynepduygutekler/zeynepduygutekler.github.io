@@ -17,7 +17,7 @@ Broadly, my research interests are
 * IoT Applications
 * Smart Energy Management Systems
 * Mobile Sensing 
-* Indoor Localisation
+* Indoor Localization
 
 as part of **Smart Cities and Sustainable Building Technologies.**
 
