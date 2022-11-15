@@ -25,21 +25,21 @@ author_profile: true
 # 2022
 ___
 ### ROBOD, room-level occupancy and building operation dataset
-(with Eikichi Ono, Yuzhen Peng, Sicheng Zhan, Bertrand Lasternas and Adrian Chong)
+(with Eikichi Ono, Yuzhen Peng, Sicheng Zhan, Bertrand Lasternas and Adrian Chong) <br/>
 *Building Simulation* :closed_book: [[View on ResearchGate]](https://www.researchgate.net/publication/362716005_ROBOD_room-level_occupancy_and_building_operation_dataset)
 
 
 ### Occupancy prediction using deep learning approaches across multiple space types: A minimum sensing strategy
-(with Adrian Chong)
+(with Adrian Chong) <br/>
 *Building and Environment* :closed_book: [[View on ResearchGate]](https://www.researchgate.net/publication/364468745_Occupancy_prediction_using_deep_learning_approaches_across_multiple_space_types_A_minimum_sensing_strategy)
 
 
 ### Hybrid system controls of natural ventilation and HVAC in mixed-mode buildings: A comprehensive review
-(with Yuzhen Peng, Yue Lei, Nogi Antanuri, Siu-Kit Lau and Adrian Chong)
+(with Yuzhen Peng, Yue Lei, Nogi Antanuri, Siu-Kit Lau and Adrian Chong) <br/>
 *Energy and Buildings* :closed_book: [[View on ResearchGate]](https://www.researchgate.net/publication/364100064_Hybrid_system_controls_of_natural_ventilation_and_HVAC_in_mixed-mode_buildings_A_comprehensive_review)
 
 ### Plug-Mate: An IoT-based occupancy-driven plug load management system in smart buildings
-(with Raymond Low, Chau Yuen and Lucienne Blessing)
+(with Raymond Low, Chau Yuen and Lucienne Blessing) <br/>
 *Building and Environment: Special Issue on AI and IoT Applications of Smart Buildings and Smart Environmental Design, Construction and Maintenance* closed_book: [[View on ResearchGate]](https://www.researchgate.net/publication/362750086_Plug-Mate_An_IoT-based_occupancy-driven_plug_load_management_system_in_smart_buildings)
 
 ### User Perceptions on the Adoption of Smart Energy Management Systems in the Workplace: Design and Policy Implications
@@ -50,7 +50,7 @@ ___
 ___
 
 ### Evaluating the Effectiveness of an Augmented Reality Game Promoting Environmental Action
-(with Kyra Wang, Lynette Cheah, Dorien Herremans and Lucienne Blessing)
+(with Kyra Wang, Lynette Cheah, Dorien Herremans and Lucienne Blessing) <br/>
 *Sustainability* :closed_book: [[View on ResearchGate]](https://www.researchgate.net/publication/357119986_Evaluating_the_Effectiveness_of_an_Augmented_Reality_Game_Promoting_Environmental_Action)
 
 ### An End-to-End Point of Interest (POI) Conflation Framework

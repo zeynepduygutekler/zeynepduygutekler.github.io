@@ -5,10 +5,24 @@ permalink: /projects/
 author_profile: true
 ---
 
+## A Total Building Performance Approach to Real-time Occupant Centric Sensing and Control for Mixed Mode Ventilation in the Tropics 
+*Aug 21 – Present*
+* Developed a hybrid active learning framework for data-driven thermal comfort models.
+* Applied transfer learning to perform occupancy detection in information-poor buildings by using 
+the building operation and occupancy data collected from information-rich buildings.
+* Developed a novel feature selection algorithm for occupancy detection using deep learning approaches 
+to achieve minimum sensing strategy in smart buildings.
+* Performed hardware setup and system integration of various IoT sensors for occupancy sensing.
+* Designed and executed a comprehensive data collection effort for retrieving real-time BMS data for 
+building operations, indoor environmental quality, outdoor weather conditions and energy consumption 
+together with high-resolution occupancy information.
+
+<img width="70%" height="70%" src="/images/MMV.png" 
+alt="IMAGE ALT TEXT HERE" width="700" height="180" border="10" /></a>
 
 ## Plug-mate: An IoT-based Occupant-driven Smart Plug Load Management System in Office Spaces 
 *Sep 17 – Aug 21*
-* Developing a smart plug load management system that automates the operation of different plug
+* Developed a smart plug load management system that automates the operation of different plug
 loads based on the occupants’ presence information.
 * Used Python to develop a Bluetooth-based indoor localisation system by deploying Raspberry Pi
 sensors to detect occupant presence and location using IoT and mobile sensing technologies.
@@ -62,17 +76,16 @@ dashboard.
 <img  width="46%" height="70%" src="/images/dashboard.png"><img  width="50%" height="70%" src="/images/control.png"> 
 
 
-:movie_camera: <span style="color:blue">**To check the Plug-Mate DEMO, click the our logo!**</span> :point_right: <a href="https://plugmate.herokuapp.com/" target="_blank"><img src="/images/logo.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<!---:movie_camera: <span style="color:blue">**To check the Plug-Mate DEMO, click the our logo!**</span> :point_right: <a href="https://plugmate.herokuapp.com/" target="_blank"><img src="/images/logo.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a> -->
 
 
-:camera: <span style="color:blue">**BONUS: Meet my amazing team who I have supervised for this project! 
+<!--- :camera: <span style="color:blue">**BONUS: Meet my amazing team who I have supervised for this project! 
 Click the image to know more about our interview!**</span> :point_down:
-
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6dTeSbOc6V0&ab_channel=ZeynepDuyguTekler
 " target="_blank"><img src="/images/team.png"
-alt="IMAGE ALT TEXT HERE" width="400" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="400" height="180" border="10" /></a> -->
 ---
 
 
