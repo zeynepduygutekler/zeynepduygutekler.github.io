@@ -17,8 +17,8 @@ to achieve minimum sensing strategy in smart buildings.
 building operations, indoor environmental quality, outdoor weather conditions and energy consumption 
 together with high-resolution occupancy information.
 
-<img width="70%" height="70%" src="/images/MMV.png" 
-alt="IMAGE ALT TEXT HERE" width="700" height="180" border="10" /></a>
+<img width="60%" height="60%" src="/images/MMV.png" 
+alt="IMAGE ALT TEXT HERE" width="700" height="180" border="10" />
 
 ## Plug-mate: An IoT-based Occupant-driven Smart Plug Load Management System in Office Spaces 
 *Sep 17 – Aug 21*
