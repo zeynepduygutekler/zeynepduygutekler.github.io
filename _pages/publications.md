@@ -22,30 +22,43 @@ author_profile: true
 -->
 
 
-
-## Manuscript (In-Progress)
----
-
-### An IoT Framework for Occupancy-Driven Energy Management Systems in Smart Buildings
-(with Raymond Low, Yuen Chau and  Lucienne Blessing) <br/>
-*IEEE Internet of Things* :pencil2: [Soon!]
+# 2022
+___
+### ROBOD, room-level occupancy and building operation dataset
+(with Eikichi Ono, Yuzhen Peng, Sicheng Zhan, Bertrand Lasternas and Adrian Chong)
+*Building Simulation* :closed_book: [[View on ResearchGate]](https://www.researchgate.net/publication/362716005_ROBOD_room-level_occupancy_and_building_operation_dataset)
 
 
-### An End-to-End Point of Interest (POI) Conflation Framework
-(with Raymond Low and Lynette Cheah) <br/>
-*IEEE Transactions on Knowledge and Data Engineering* :pencil2: [Soon!]
+### Occupancy prediction using deep learning approaches across multiple space types: A minimum sensing strategy
+(with Adrian Chong)
+*Building and Environment* :closed_book: [[View on ResearchGate]](https://www.researchgate.net/publication/364468745_Occupancy_prediction_using_deep_learning_approaches_across_multiple_space_types_A_minimum_sensing_strategy)
 
 
-###  Perceptions on the Adoption of Smart Energy Management Systems for Plug Loads in the Workplace: Motivations, Concerns and Implications
+### Hybrid system controls of natural ventilation and HVAC in mixed-mode buildings: A comprehensive review
+(with Yuzhen Peng, Yue Lei, Nogi Antanuri, Siu-Kit Lau and Adrian Chong)
+*Energy and Buildings* :closed_book: [[View on ResearchGate]](https://www.researchgate.net/publication/364100064_Hybrid_system_controls_of_natural_ventilation_and_HVAC_in_mixed-mode_buildings_A_comprehensive_review)
+
+### Plug-Mate: An IoT-based occupancy-driven plug load management system in smart buildings
+(with Raymond Low, Chau Yuen and Lucienne Blessing)
+*Building and Environment: Special Issue on AI and IoT Applications of Smart Buildings and Smart Environmental Design, Construction and Maintenance* closed_book: [[View on ResearchGate]](https://www.researchgate.net/publication/362750086_Plug-Mate_An_IoT-based_occupancy-driven_plug_load_management_system_in_smart_buildings)
+
+### User Perceptions on the Adoption of Smart Energy Management Systems in the Workplace: Design and Policy Implications
 (with Raymond Low and Lucienne Blessing) <br/>
-*Energy Policy* :pencil2: [Soon!]
-
+*Energy Research & Social Science* :closed_book: [[View on ResearchGate]](https://www.researchgate.net/publication/358320841_User_perceptions_on_the_adoption_of_smart_energy_management_systems_in_the_workplace_Design_and_policy_implications)
 
 # 2021
 ___
 
+### Evaluating the Effectiveness of an Augmented Reality Game Promoting Environmental Action
+(with Kyra Wang, Lynette Cheah, Dorien Herremans and Lucienne Blessing)
+*Sustainability* :closed_book: [[View on ResearchGate]](https://www.researchgate.net/publication/357119986_Evaluating_the_Effectiveness_of_an_Augmented_Reality_Game_Promoting_Environmental_Action)
+
+### An End-to-End Point of Interest (POI) Conflation Framework
+(with Raymond Low and Lynette Cheah) <br/>
+*ISPRS Internetional Journal of Geo-Information* :closed_book: [[View on ResearchGate]](https://www.researchgate.net/publication/356258989_An_End-to-End_Point_of_Interest_POI_Conflation_Framework)
+
 ### User Perceptions and Adoption of Plug Load Management Systems in the Workplace
-(with Raymond Low, Kenny Tsu Wei Choo and  Lucienne Blessing) <br/>
+(with Raymond Low, Kenny Tsu Wei Choo and Lucienne Blessing) <br/>
 *The ACM CHI Conference on Human Factors in Computing Systems, Yokohama, Japan* :closed_book: [[View on ResearchGate]](https://www.researchgate.net/publication/351426292_User_Perceptions_and_Adoption_of_Plug_Load_Management_Systems_in_the_Workplace)
 [[PDF]](http://zeynepduygutekler.github.io/files/CHI_Published)
 
