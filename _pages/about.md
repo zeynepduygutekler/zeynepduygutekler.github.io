@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 I am currently a postdoctoral research fellow in the [Department of the Built Environment](https://cde.nus.edu.sg/dbe/) at the National University of (NUS). 
-I am part of the [Integrated Data,Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io/) led by Prof. Adrian Chong.
+I am part of the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io/) led by Prof. Adrian Chong.
 
 I am holding a Ph.D. Degree in Engineering Product Development from
 Singapore University of Technology and Design (SUTD) under the SUTD-MIT International Design Centre. 
 Prior of my Ph.D., I received my Master's and Bachelor's degrees in Industrial Engineering and Economics 
 as a double major from Isik University, where I was nominated the Valedictorian and Salutatorian of my cohort in 2015.
 
-Broadly, my research interests are
+Broadly, my research interests are:
 * Internet-of-Things (IoT) Applications
 * Indoor Localization
 * Mobile Sensing
