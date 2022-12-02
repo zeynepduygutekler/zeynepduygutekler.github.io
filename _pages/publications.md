@@ -38,7 +38,7 @@ Y Peng, Y Lei, **ZD Tekler**, N Antanuri, SK Lau, A Chong <br/>
 
 ### Plug-Mate: An IoT-based occupancy-driven plug load management system in smart buildings
 **ZD Tekler**, R Low, C Yuen, L Blessing <br/>
-*Building and Environment: Special Issue on AI and IoT Applications of Smart Buildings and Smart Environmental Design, Construction and Maintenance* closed_book: [[View on ResearchGate]](https://www.researchgate.net/publication/362750086_Plug-Mate_An_IoT-based_occupancy-driven_plug_load_management_system_in_smart_buildings)
+*Building and Environment: Special Issue on AI and IoT Applications of Smart Buildings and Smart Environmental Design, Construction and Maintenance* :closed_book: [[View on ResearchGate]](https://www.researchgate.net/publication/362750086_Plug-Mate_An_IoT-based_occupancy-driven_plug_load_management_system_in_smart_buildings)
 
 ### User Perceptions on the Adoption of Smart Energy Management Systems in the Workplace: Design and Policy Implications
 **ZD Tekler**, R Low, L Blessing <br/>
