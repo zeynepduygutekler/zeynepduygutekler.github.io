@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral research fellow in the [Department of the Built Environment](https://cde.nus.edu.sg/dbe/) at the National University of (NUS). 
+I am currently a postdoctoral research fellow in the [Department of the Built Environment](https://cde.nus.edu.sg/dbe/) at the National University of Singapore (NUS). 
 I am part of the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io/) led by Prof. Adrian Chong.
 
 I am holding a Ph.D. Degree in Engineering Product Development from
@@ -28,9 +28,9 @@ as part of **Smart Cities and Sustainable Building Technologies.**
 My primary research focuses on applying concepts from machine learning, 
 data analytics, mobile sensing, indoor localization, and IoT technologies to gain insights into 
 occupant behaviour and develop innovative solutions to reduce energy consumption while maintaining user comfort. 
-As part of my thesis, I developed a smart energy management system, Plug-Mate, 
-which automates the operation of appliances based on the users' presence and preference information to 
-reduce office energy consumption.
+As part of my thesis, I developed and patented a smart energy management solution, Plug-Mate, 
+which automates the operation of appliances by detecting users' presence through their smartphones' Bluetooth signals to 
+support building automation and reduce energy consumption in office spaces.
 
 
 
