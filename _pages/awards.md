@@ -20,7 +20,7 @@ International 3 Minutes Thesis (3MT) 2020 Competition: First Prize
   </div>
   <div class="grid-item">
   <a href="https://www.youtube.com/watch?v=sZr9oafkFgc&ab_channel=NTUGraduateStudents%27Association
-" target="_blank"><img src="/images/3MT_video3.PNG"
+" target="_blank"><img src="/images/3MT_video3.png"
 alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
       <div>
   <img width="20" height="20" src="https://www.flaticon.com/svg/static/icons/svg/1179/1179069.svg"><span style="color:blue ;font-weight: bold" >Check my 3MT video above!</span> 
