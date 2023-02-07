@@ -22,7 +22,7 @@ International 3 Minutes Thesis (3MT) 2020 Competition: First Prize
   <a href="https://www.youtube.com/watch?v=sZr9oafkFgc&ab_channel=NTUGraduateStudents%27Association" target="_blank"><img src="/images/3MT_video3.png"
 alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
       <div>
-  <img width="20" height="20" src="<https://cdn-icons-png.flaticon.com/512/1827/1827312.png"/>"><span style="color:blue ;font-weight: bold" >Check my 3MT video above!</span> 
+  :bell: <span style="color:blue ;font-weight: bold" >Check my 3MT video above!</span> 
   </div>
   </div>
  
@@ -69,7 +69,7 @@ alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
 Singapore International Graduate Award (SINGA) 
 </h2> 
 </div> 
-*Sep 17 - Sep 21
+Sep 17 - Sep 21
 * Awarded to international students with a passion for STEM research to purse PhD studies in Singapore. 
 
 
