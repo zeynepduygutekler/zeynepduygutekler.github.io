@@ -69,7 +69,7 @@ alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
 Singapore International Graduate Award (SINGA) 
 </h2> 
 </div> 
-*Sep 17 - Present
+*Sep 17 - Sep 21
 * Awarded to international students with a passion for STEM research to purse PhD studies in Singapore. 
 
 
