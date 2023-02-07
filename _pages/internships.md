@@ -14,7 +14,7 @@ Berkeley Education Alliance for Research (SinBerBest)
 </div>
 
 **Location**: Singapore\
-**Period**: Jan 20 to Oct 20 \ (8 months) 
+**Period**: Jan 20 to Nov 20 - (11 months) 
 
 *Visiting Researcher*
 * Developed an occupant-driven smart plug load control system in office spaces using machine learning and IoT approaches.
@@ -28,7 +28,7 @@ Agency for Science Technology and Research (A*STAR)
 </div>
 
 **Location**: Singapore\
-**Period**: Jan 19 to June 19 \ (6 months)
+**Period**: Jun 18 to Jan 19 - (8 months)
 
 *Visiting Researcher, Singapore Institute of Manufacturing Technology*
 * Led an exploratory study to gain insights into food manufacturers’ waste management decision-making 
