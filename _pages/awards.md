@@ -22,7 +22,7 @@ International 3 Minutes Thesis (3MT) 2020 Competition: First Prize
   <a href="https://www.youtube.com/watch?v=sZr9oafkFgc&ab_channel=NTUGraduateStudents%27Association" target="_blank"><img src="/images/3MT_video3.png"
 alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
       <div>
-  <img width="20" height="20" src="<https://img.icons8.com/arcade/64/null/jingle-bell.png"/>"><span style="color:blue ;font-weight: bold" >Check my 3MT video above!</span> 
+  <img width="20" height="20" src="<https://cdn-icons-png.flaticon.com/512/1827/1827312.png"/>"><span style="color:blue ;font-weight: bold" >Check my 3MT video above!</span> 
   </div>
   </div>
  
@@ -31,7 +31,7 @@ alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
        <a href="https://www.facebook.com/SUTDGSA/posts/903648743485009" style="font-weight:bold"><img width="20" height="20" src="https://cdn-icons-png.flaticon.com/512/1827/1827312.png">See the details of SUTD Competition HERE</a>
     </div>
      <div>
-       <a href="https://www.facebook.com/SUTDGSA/posts/963077754208774" style="font-weight:bold"><img width="20" height="20" src="https://www.flaticon.com/svg/static/icons/svg/891/891012.svg">See the details of Singapore Competition HERE</a>
+       <a href="https://www.facebook.com/SUTDGSA/posts/963077754208774" style="font-weight:bold"><img width="20" height="20" src="https://cdn-icons-png.flaticon.com/512/1827/1827312.png">See the details of Singapore Competition HERE</a>
     </div>
  </div>
  </div>
