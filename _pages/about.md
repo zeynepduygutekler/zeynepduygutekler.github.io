@@ -13,7 +13,7 @@ Previously, I held a postdoctoral research fellowship position at the [Integrate
 
 I earned my Ph.D. in Engineering Product Development from **Singapore University of Technology and Design (SUTD) under the SUTD-MIT International Design Centre** :singapore: :us: in 2021. 
 Prior to my doctoral studies, I received my Master's and Bachelor's degrees in Industrial Engineering and Economics 
-as a double major from Isik University :tr: where I was nominated as the Valedictorian in 2015.
+as a double major from Isik University, where I was nominated as the Valedictorian in 2015. :tr: :trophy:
 
 Broadly, my research interests are:
 * Occupant-centric AI-driven Buildings 
