@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral reseacher at EDOL.
+I am a postdoctoral reseacher at EDOL. test
 I was previously a postdoctoral research fellow in the [Department of the Built Environment](https://cde.nus.edu.sg/dbe/) at the National University of Singapore (NUS). 
 I am part of the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io/) led by Prof. Adrian Chong.
 
