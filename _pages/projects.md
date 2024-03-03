@@ -4,9 +4,12 @@ title: "PROJECTS"
 permalink: /projects/
 author_profile: true
 ---
+## The UK Energy Demand Observation and Laboratory (EDOL)
+*Jan 23 – Present*
+* Contributing to the development of Observatory (2,000 representative GB homes) with high resolution, longitudinal, technical and social data disaggregated to the level of activities, appliances, and occupants.
 
-## A Total Building Performance Approach to Real-time Occupant Centric Sensing and Control for Mixed Mode Ventilation in the Tropics 
-*Aug 21 – Present*
+## A Total Building Performance Approach to Real-time Occupant Centric Sensing and Control for Mixed Mode Ventilation in the Tropics
+*Aug 21 – Dec 23*
 * Developed a hybrid active learning framework for data-driven thermal comfort models.
 * Applied transfer learning to perform occupancy detection in information-poor buildings by using 
 the building operation and occupancy data collected from information-rich buildings.
