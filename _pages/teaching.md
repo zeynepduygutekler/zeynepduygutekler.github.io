@@ -16,12 +16,13 @@ Singapore University of Technology and Design, Singapore
 *May 19 - Apr 20*
 
 * [100.09 Digital World](https://academics.sutd.edu.sg/science-math/courses/10009-digital-world) - An Introduction to Computational Thinking 
+* [100.005 Physics II](https://epd.sutd.edu.sg/undergraduate-courses/10005-physics-ii/) - An Introduction to Electromagnetism
 
 ## Undergraduate Teaching
 ___
 
 <div>
-<img align="left" width="105" height="45" src="/images/oxford-logo.png.jpg" style="margin-right: 10px"> 
+<img align="left" width="105" height="45" src="/images/oxford-logo.png" style="margin-right: 10px"> 
 <h3>
 University of Oxford, United Kingdom
 </h3> 
