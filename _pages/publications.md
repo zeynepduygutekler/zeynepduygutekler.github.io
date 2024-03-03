@@ -22,6 +22,30 @@ author_profile: true
 -->
 
 
+# 2024
+___
+### Evaluating different levels of information on the calibration of building energy simulation models
+S Cheng, **ZD Tekler**, H Jia, W Li, A Chong <br/>
+*Building Simulation*  :closed_book: [[View on ResearchGate]](https://www.researchgate.net/publication/378462226_Evaluating_different_levels_of_information_on_the_calibration_of_building_energy_simulation_models)
+
+### Experimental evaluation of thermal adaptation and transient thermal comfort in a tropical mixed-mode ventilation context
+Y Lei, **ZD Tekler**, S Zhan, C Miller, A Chong <br/>
+*Building and Environment*  :closed_book: [[View on ResearchGate]](https://www.researchgate.net/publication/375814403_Experimental_evaluation_of_thermal_adaptation_and_transient_thermal_comfort_in_a_tropical_mixed-mode_ventilation_context)
+
+# 2023
+___
+### Enhancing personalised thermal comfort models with Active Learning for improved HVAC controls
+**ZD Tekler**, Y Lei, X Dai, A Chong <br/>
+*CISBAT Conference* :rocket: [[View on ResearchGate]](https://www.researchgate.net/publication/373977411_Enhancing_personalised_thermal_comfort_models_with_Active_Learning_for_improved_HVAC_controls)
+
+### Data-driven predictive control for smart HVAC system in IoT-integrated buildings with time-series forecasting and reinforcement learning
+D Zhuang, VJL Gan, **ZD Tekler**, A Chong, S Tian, X Shi <br/>
+*Applied Energy* :closed_book: [[View on ResearchGate]](https://www.researchgate.net/publication/369068341_Data-driven_predictive_control_for_smart_HVAC_system_in_IoT-integrated_buildings_with_time-series_forecasting_and_reinforcement_learning)
+
+### A hybrid active learning framework for personal thermal comfort models
+**ZD Tekler**, Y Lei, Y Peng, C Miller, A Chong <br/>
+*Building and Environment* :closed_book: [[View on ResearchGate]](https://www.researchgate.net/publication/368899988_A_hybrid_active_learning_framework_for_personal_thermal_comfort_models)
+
 # 2022
 ___
 ### ROBOD, room-level occupancy and building operation dataset
