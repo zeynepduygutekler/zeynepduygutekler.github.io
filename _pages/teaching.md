@@ -12,9 +12,12 @@ University of Oxford, United Kingdom
 </h3> 
 </div> 
 
-*Dec 23 - Apr 24*
+*2023-2024*
 
-* [A5-Electrical Machines](https://eng.ox.ac.uk/virtual-tour/electrical-lab/)
+* [Electrical Machines](https://eng.ox.ac.uk/virtual-tour/electrical-lab/)
+* Mathematics Tutorials as part of [Oxford UNIQ](https://www.uniq.ox.ac.uk/)
+* Zero-Carbon Energy Buildings Module as part of [Engineering Science](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/engineering-science)
+* Machine Learning Module Practicals as part of [Autonomous Intelligent Machines and Systems] (https://aims.robots.ox.ac.uk/) and [Intelligent Earth](https://intelligent-earth.ox.ac.uk/)
 
 [//]: # (--------------------------------------------------------------------------------)
 
@@ -25,7 +28,7 @@ Singapore University of Technology and Design, Singapore
 </h3> 
 </div>
 
-*May 19 - Apr 20*
+*2019-2020*
 
 * [100.09 Digital World](https://academics.sutd.edu.sg/science-math/courses/10009-digital-world) - An Introduction to Computational Thinking 
 * [100.005 Physics II](https://epd.sutd.edu.sg/undergraduate-courses/10005-physics-ii/) - An Introduction to Electromagnetism
@@ -39,7 +42,7 @@ Isik University, Turkey
 </h3> 
 </div> 
 
-*Jan 15 - Jun 17*
+*2015-2017*
 
 * [INDE 3001: Operations Research I](http://www.isikun.edu.tr/i/content/1014_1_INDE2001-OperationsResearch1.pdf)
 * [INDE 2211: Industrial Production Systems](http://www.isikun.edu.tr/i/content/1014_1_INDE2211-IndustrialProductionSystems.pdf)
