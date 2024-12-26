@@ -20,10 +20,10 @@ as a double major from **Isik University** :tr:, where I was awarded as the Vale
 Broadly, my research interests include:
 * Human-centric AI-driven Built Environment
 * Applied Machine Learning & Data Analytics
-* Internet-of-Things (IoT) & Sensing
+* Internet-of-Things (IoT) & Sensing 
 * Occupancy Detection
 * Personal Thermal Comfort
-* Energy Demand & Smart Energy Systems in Buildings
+* Energy Demand & Smart Energy Systems
 
 as part of Smart Cities and Sustainable Building Technologies.
 

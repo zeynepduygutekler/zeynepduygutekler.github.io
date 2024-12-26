@@ -14,10 +14,10 @@ University of Oxford, United Kingdom
 
 *2023-2024*
 
-* [Electrical Machines](https://eng.ox.ac.uk/virtual-tour/electrical-lab/)
-* Mathematics Tutorials as part of [Oxford UNIQ](https://www.uniq.ox.ac.uk/)
+* Machine Learning Module Practicals as part of [Autonomous Intelligent Machines and Systems](https://aims.robots.ox.ac.uk/) and [Intelligent Earth](https://intelligent-earth.ox.ac.uk/)
 * Zero-Carbon Energy Buildings Module as part of [Engineering Science](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/engineering-science)
-* Machine Learning Module Practicals as part of [Autonomous Intelligent Machines and Systems] (https://aims.robots.ox.ac.uk/) and [Intelligent Earth](https://intelligent-earth.ox.ac.uk/)
+* Mathematics Tutorials as part of [Oxford UNIQ](https://www.uniq.ox.ac.uk/)
+* Electrical Machines as part of [Electrical Lab](https://eng.ox.ac.uk/virtual-tour/electrical-lab/)
 
 [//]: # (--------------------------------------------------------------------------------)
 
