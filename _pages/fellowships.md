@@ -5,7 +5,7 @@ permalink: /fellowships/
 author_profile: true
 ---
 <div>
-  <img align="left" width="45" height="45" src="/images/oxford-logo2.png" style="margin-right: 10px"> 
+  <img align="left" width="35" height="45" src="/images/oxford-logo2.png" style="margin-right: 10px"> 
   <h2>University of Oxford</h2>
 </div>
 
@@ -15,7 +15,7 @@ author_profile: true
 <div style="margin-left: 20px;">
 
 <div style="margin-top: 15px;">
-  <img align="left" width="45" height="45" src="/images/kellogg-logo.svg" style="margin-right: 10px"> 
+  <img align="left" width="35" height="45" src="/images/kellogg-logo.svg" style="margin-right: 10px"> 
   <strong>Junior Research Fellow at Kellogg College, University of Oxford </strong>
   <p style="margin-left: 55px;">
     Selected as a Junior Research Fellow from among over 60 postdoctoral researchers of University of Oxford. This award is granted
@@ -25,7 +25,7 @@ author_profile: true
 </div>
 
 <div style="margin-top: 15px;">
-  <img align="left" width="45" height="45" src="/images/oriel-logo.png" style="margin-right: 10px"> 
+  <img align="left" width="35" height="45" src="/images/oriel-logo.png" style="margin-right: 10px"> 
   <strong>Research Associate at Oriel College, University of Oxford</strong>
   <p style="margin-left: 55px;">
     Nominated by senior members and fellows of Oriel College, based on the potential for continued academic excellence.
@@ -38,7 +38,7 @@ author_profile: true
 ---
 
 <div>
-  <img align="left" width="45" height="45" src="/images/nus-logo.png" style="margin-right: 10px"> 
+  <img align="left" width="35" height="45" src="/images/nus-logo.png" style="margin-right: 10px"> 
   <h2>National University of Singapore</h2>
 </div>
 
