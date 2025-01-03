@@ -33,12 +33,12 @@ author_profile: true
 ---
 
 <div>
-  <img align="left" width="45" height="65" src="/images/sinberbest.jpg" style="margin-right: 10px"> 
+  <img align="left" width="45" height="65" src="/images/nus-logo.png" style="margin-right: 10px"> 
   <h2>National University of Singapore</h2>
 </div>
 
 <strong>Location</strong>: Singapore<br>
-<strong>Period</strong>: August 20 to Dec 20
+<strong>Period</strong>: August 20 to Dec 20<br>
 
 <div style="margin-left: 20px; margin-top: 15px;">
   <strong>Postdoctoral Research Fellow</strong>
@@ -55,7 +55,7 @@ author_profile: true
 </div>
 
 <strong>Location</strong>: Singapore<br>
-<strong>Period</strong>: Jan 20 to Dec 20
+<strong>Period</strong>: Jan 20 to Dec 20<br>
 
 <div style="margin-left: 20px; margin-top: 15px;">
   <strong>Visiting Research Fellow</strong>
@@ -72,7 +72,7 @@ author_profile: true
 </div>
 
 <strong>Location</strong>: Singapore<br>
-<strong>Period</strong>: Jun 18 to Jan 19
+<strong>Period</strong>: Jun 18 to Jan 19<br>
 
 <div style="margin-left: 20px; margin-top: 15px;">
   <strong>Visiting Research Fellow, Singapore Institute of Manufacturing Technology</strong>
