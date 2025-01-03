@@ -13,14 +13,14 @@ I am currently a Postdoctoral Researcher at the [Energy Demand Observatory and L
 
 Previously, I was a Postdoctoral Research Fellow at the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io/) within the Department of the Built Environment at the **National University of Singapore** :singapore: in 2021-2023.
 
-I hold a Ph.D. in Engineering Product Development from **Singapore University of Technology and Design (SUTD) under the SUTD-MIT International Design Centre** :singapore: :us: in 2021. 
+I earned my a Ph.D. in Engineering Product Development from **Singapore University of Technology and Design (SUTD) under the SUTD-MIT International Design Centre** :singapore: :us: in 2021. 
 Prior to my doctoral studies, I received my Master's and Bachelor's degrees in Industrial Engineering and Economics 
 as a double major from **Isik University** :tr:, where I was awarded as the Valedictorian :trophy: in 2015. 
 
 Broadly, my research interests include:
 * Human-centric AI-driven Built Environment
 * Applied Machine Learning & Data Analytics
-* Internet-of-Things (IoT) & Sensing 
+* Internet-of-Things (IoT) & Sensing
 * Occupancy Detection
 * Personal Thermal Comfort
 * Energy Demand & Smart Energy Systems
