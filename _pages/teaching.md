@@ -17,7 +17,7 @@ University of Oxford, United Kingdom
 * Machine Learning Module Practicals as part of [Autonomous Intelligent Machines and Systems](https://aims.robots.ox.ac.uk/) and [Intelligent Earth](https://intelligent-earth.ox.ac.uk/)
 * Zero-Carbon Energy Buildings Module as part of [Engineering Science](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/engineering-science)
 * Mathematics Tutorials as part of [Oxford UNIQ](https://www.uniq.ox.ac.uk/)
-* Electrical Machines as part of [Electrical Lab](https://eng.ox.ac.uk/virtual-tour/electrical-lab/)
+* Electrical Machines Lab as part of [Electrical Lab](https://eng.ox.ac.uk/virtual-tour/electrical-lab/)
 
 [//]: # (--------------------------------------------------------------------------------)
 
@@ -30,7 +30,7 @@ Singapore University of Technology and Design, Singapore
 
 *2019-2020*
 
-* [100.09 Digital World](https://academics.sutd.edu.sg/science-math/courses/10009-digital-world) - An Introduction to Computational Thinking 
+* [100.09 Digital World](https://academics.sutd.edu.sg/science-math/courses/10009-digital-world) - An Introduction to Computational Thinking (Phyton Programming)
 * [100.005 Physics II](https://epd.sutd.edu.sg/undergraduate-courses/10005-physics-ii/) - An Introduction to Electromagnetism
 
 [//]: # (--------------------------------------------------------------------------------)
@@ -44,7 +44,7 @@ Isik University, Turkey
 
 *2015-2017*
 
-* [INDE 3001: Operations Research I](http://www.isikun.edu.tr/i/content/1014_1_INDE2001-OperationsResearch1.pdf)
-* [INDE 2211: Industrial Production Systems](http://www.isikun.edu.tr/i/content/1014_1_INDE2211-IndustrialProductionSystems.pdf)
-* [INDE 4488: Enterprise Resource Planning](http://www.isikun.edu.tr/i/content/1014_1_INDE4488-EnterpriseResourcePlanning(ERP).pdf)
+* [INDE 3001: Operations Research I](https://www.isikun.edu.tr/i/content/3662_1_CP_INDE2001.pdf)
+* [INDE 2211: Industrial Production Systems](https://www.isikun.edu.tr/i/content/3662_1_CP_INDE2211.pdf)
+* [INDE 4488: Enterprise Resource Planning](https://www.isikun.edu.tr/i/content/3662_1_CP_INDE4488.pdf)
 
