@@ -5,11 +5,14 @@ permalink: /projects/
 author_profile: true
 ---
 ## The UK Energy Demand Observation and Laboratory (EDOL)
-*Jan 24 – Present*
+*Sep 23 – Present*
 * Contributing to the development of Observatory (2,000 representative GB homes) with high resolution, longitudinal, technical and social data disaggregated to the level of activities, appliances, and occupants.
 
+<img width="50%" height="50%" src="/images/edol.png" 
+alt="IMAGE ALT TEXT HERE" width="700" height="180" border="10" />
+
 ## A Total Building Performance Approach to Real-time Occupant Centric Sensing and Control for Mixed Mode Ventilation in the Tropics
-*Aug 21 – Dec 23*
+*Aug 21 – Aug 23*
 * Developed a hybrid active learning framework for data-driven thermal comfort models.
 * Applied transfer learning to perform occupancy detection in information-poor buildings by using 
 the building operation and occupancy data collected from information-rich buildings.
@@ -61,7 +64,7 @@ of the game involves the degraded world around the players.
 :movie_camera: <span style="color:blue">**To check our game video, click the image below**</span> 
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=TEwCk8bUIrY
+<a href="https://www.youtube.com/watch?v=pTEdrVSlIcg&ab_channel=SUTDGamelab
 " target="_blank"><img src="/images/pear.jpg"
 alt="IMAGE ALT TEXT HERE" width="400" height="180" border="10" /></a>
 
@@ -94,6 +97,8 @@ alt="IMAGE ALT TEXT HERE" width="400" height="180" border="10" /></a> -->
 
 ## Waste Management Behavioural Framework for Singapore’s Food Manufacturing Industry
 *May 18 – Jan 19* 
-* Developed a waste management behavioral framework for Singapore's food manufacturing industry. 
+* Developed a waste management behavioral framework for Singapore's food manufacturing industry (collaboration with A*STAR SIMTECH) 
+<img width="50%" height="50%" src="/images/waste-management.png" 
+alt="IMAGE ALT TEXT HERE" width="700" height="180" border="10" />
 
 :bell: [Find the details here!](../files/CIRP_Published.pdf)
