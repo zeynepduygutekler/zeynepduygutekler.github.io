@@ -5,12 +5,14 @@ permalink: /fellowships/
 author_profile: true
 ---
 <div>
-  <img align="left" width="45" height="65" src="/images/oxford-logo2.png" style="margin-right: 10px"> 
+  <img align="left" width="45" height="45" src="/images/oxford-logo2.png" style="margin-right: 10px"> 
   <h2>University of Oxford</h2>
 </div>
 
 **Location**: United Kingdom<br>
 **Period**: Sept 23 to Present<br>
+
+<div style="margin-left: 20px;">
 
 <div style="margin-top: 15px;">
   <img align="left" width="45" height="45" src="/images/kellogg-logo.svg" style="margin-right: 10px"> 
@@ -30,10 +32,13 @@ author_profile: true
   </p>
 </div>
 
+</div>
+
+
 ---
 
 <div>
-  <img align="left" width="45" height="65" src="/images/nus-logo.png" style="margin-right: 10px"> 
+  <img align="left" width="45" height="45" src="/images/nus-logo.png" style="margin-right: 10px"> 
   <h2>National University of Singapore</h2>
 </div>
 
