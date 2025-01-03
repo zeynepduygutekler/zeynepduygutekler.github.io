@@ -6,8 +6,8 @@ author_profile: true
 ---
 ## The UK Energy Demand Observation and Laboratory (EDOL)
 *Sep 23 – Present*
-* Contributing to the development of Observatory (2,000 representative GB homes) with high resolution, longitudinal, technical and social data disaggregated to the level of activities, appliances, and occupants.
-* Developed household load profiles (i.e., archetypes) based on energy demand and sociodemographics in the UK. [SOON]
+* Developing innovative and scalable sensing approaches for Observatory & Laboratories to collect high-resolution and longitudinal data of household energy demand, activities and appliances.
+* Analysed household load profiles (i.e., archetypes) based on energy demand and sociodemographics in the UK. [SOON]
 
 <img width="50%" height="50%" src="/images/edol.png" 
 alt="IMAGE ALT TEXT HERE" width="700" height="180" border="10" />
@@ -93,6 +93,7 @@ alt="IMAGE ALT TEXT HERE" width="400" height="180" border="10" /></a> -->
 
 ## Waste Management Behavioural Framework for Singapore’s Food Manufacturing Industry
 *May 18 – Jan 19* 
+
 Developed a waste management behavioral framework for Singapore's food manufacturing industry
 (collaboration with A*STAR SIMTECH) [[PDF]](../files/CIRP_Published.pdf)
 
