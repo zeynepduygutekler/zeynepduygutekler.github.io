@@ -38,7 +38,7 @@ author_profile: true
 </div>
 
 <strong>Location</strong>: Singapore<br>
-<strong>Period</strong>: August 20 to Dec 20<br>
+<strong>Period</strong>: Aug 20 to Dec 20<br>
 
 <div style="margin-left: 20px; margin-top: 15px;">
   <strong>Postdoctoral Research Fellow</strong>
@@ -60,7 +60,7 @@ author_profile: true
 <div style="margin-left: 20px; margin-top: 15px;">
   <strong>Visiting Research Fellow</strong>
   <p style="margin-left: 20px;">
-    Developed an occupant-centric smart plug load control system in office spaces using machine learning and IoT approaches.
+    Developed occupant-centric AI-driven built environment applications including 1) minimum sensing strategy for occupancy detection, 2) data-efficient personal thermal comfort frameworks, and 3) thermal preference-based HVAC control systems. 
   </p>
 </div>
 
@@ -81,6 +81,7 @@ author_profile: true
   </p>
 </div>
 
+---
 
 
 
@@ -90,81 +91,3 @@ author_profile: true
 
 
 
-
-
-[//]: # ()
-[//]: # (<div>)
-
-[//]: # (<img align="left" width="45" height="65" src="/images/sinberbest.jpg" style="margin-right: 10px"> )
-
-[//]: # (<h2>)
-
-[//]: # (National University of Singapore)
-
-[//]: # (</h2> )
-
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (**Location**: Singapore\)
-
-[//]: # (**Period**: August 20 to Dec 20)
-
-[//]: # ()
-[//]: # (*Postdoctoral Research Fellow*)
-
-[//]: # (* Developed an occupant-centric smart plug load control system in office spaces using machine learning and IoT approaches.)
-
-[//]: # ()
-[//]: # (---)
-
-[//]: # ()
-[//]: # (<div>)
-
-[//]: # (<img align="left" width="45" height="65" src="/images/sinberbest.jpg" style="margin-right: 10px"> )
-
-[//]: # (<h2>)
-
-[//]: # (Berkeley Education Alliance for Research &#40;SinBerBest&#41;)
-
-[//]: # (</h2> )
-
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (**Location**: Singapore\)
-
-[//]: # (**Period**: Jan 20 to Dec 20)
-
-[//]: # ()
-[//]: # (*Visiting Research Fellow*)
-
-[//]: # (* Developed an occupant-centric smart plug load control system in office spaces using machine learning and IoT approaches.)
-
-[//]: # ()
-[//]: # (---)
-
-[//]: # ()
-[//]: # (<div>)
-
-[//]: # (<img align="left" width="45" height="45" src="/images/astar.jpg" style="margin-right: 10px"> )
-
-[//]: # (<h2>)
-
-[//]: # (Agency for Science Technology and Research &#40;A*STAR&#41;)
-
-[//]: # (</h2> )
-
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (**Location**: Singapore\)
-
-[//]: # (**Period**: Jun 18 to Jan 19)
-
-[//]: # ()
-[//]: # (*Visiting Research Fellow, Singapore Institute of Manufacturing Technology*)
-
-[//]: # (* Led an exploratory study to gain insights into food manufacturers’ waste management decision-making )
-
-[//]: # (process and used statistical analysis to translate these insights into a behaviour framework.)
