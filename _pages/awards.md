@@ -7,7 +7,7 @@ author_profile: true
 ----
 
 ## Oxford University-SSEN Energy Hackathon for Net-Zero: Runner Up Award 
-* Awarded second place in a university-wide energy hackathon for developing innovative, data-driven solutions to improve load
+* Awarded second place in a university-wide energy hackathon for developing an innovative and data-driven solution to improve load
 monitoring and forecasting in energy and power systems. 
  *Nov 24*
 
