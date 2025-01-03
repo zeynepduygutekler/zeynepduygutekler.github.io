@@ -55,7 +55,7 @@ author_profile: true
 ---
 
 <div>
-  <img align="left" width="45" height="65" src="/images/sinberbest.jpg" style="margin-right: 10px"> 
+  <img align="left" width="45" height="65" src="/images/berkeley-logo.jpeg" style="margin-right: 10px"> 
   <h2>Berkeley Education Alliance for Research (SinBerBest)</h2>
 </div>
 
