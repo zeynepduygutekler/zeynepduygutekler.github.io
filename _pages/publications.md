@@ -24,6 +24,14 @@ author_profile: true
 
 # 2024
 ___
+### Data-efficient comfort modeling: Active transfer learning for predicting personal thermal comfort using limited data
+**ZD Tekler**, Y Lei, A Chong <br/>
+*Energy and Buildings*  :closed_book: [[View on ResearchGate]](https://www.researchgate.net/publication/381979966_Data-efficient_Comfort_Modeling_Active_Transfer_Learning_for_Predicting_Personal_Thermal_Comfort_using_Limited_Data)
+
+### Evaluating the sensitivity and robustness of occupancy models for building energy simulation during design
+E Ono, **ZD Tekler**, KP Lam, J Lin, D Yan, A Chong <br/>
+*Building and Environment*  :closed_book: [[View on ResearchGate]](https://www.researchgate.net/publication/381381178_Evaluating_the_sensitivity_and_robustness_of_occupancy_models_for_building_energy_simulation_during_design)
+
 ### Evaluating different levels of information on the calibration of building energy simulation models
 S Cheng, **ZD Tekler**, H Jia, W Li, A Chong <br/>
 *Building Simulation*  :closed_book: [[View on ResearchGate]](https://www.researchgate.net/publication/378462226_Evaluating_different_levels_of_information_on_the_calibration_of_building_energy_simulation_models)
