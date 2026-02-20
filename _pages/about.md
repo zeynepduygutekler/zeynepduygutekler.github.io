@@ -29,7 +29,7 @@ as part of Smart and Sustainable Building Technologies.
 My primary research focuses on applying concepts from machine learning, data mining, and IoT sensing technologies to understand occupant behaviour and develop intelligent systems that reduce energy consumption while maintaining occupant comfort in the built environment. 
 As part of my thesis, I developed and patented **Plug-Mate**, a smart energy management system that detects user presence via smartphones’ Bluetooth signals to automatically control appliances, enabling smarter building automation and reducing energy use in office spaces.
 
-
+If you'd like to know more about my journey: [Here's my Oxford Interview](https://eng.ox.ac.uk/about/researchers/researcher-profiles/career-case-study-zeynep-tekler)
 
 
 

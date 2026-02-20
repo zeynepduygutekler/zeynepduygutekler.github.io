@@ -4,7 +4,7 @@ title: "PROJECTS"
 permalink: /projects/
 author_profile: true
 ---
-## OpenBES: The Open-Source Building energy Simulation Tool
+## OpenBES: The Open-Source Building Energy Simulation Tool
 *Apr 25 – Present*
 * Contributing to the development of an open-source building energy simulation platform aimed at enabling early-decision making and cost-effective building interventions to support the transition to net-zero. 
 * Contributing to the development of low-cost all-in-one indoor air quality sensing kit for accurate thermal comfort and indoor air quality measurements.
