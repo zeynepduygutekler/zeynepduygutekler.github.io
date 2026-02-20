@@ -22,6 +22,7 @@ author_profile: true
 -->
 
 :books: For my latest publications, see my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=VYSfvtcAAAAJ&view_op=list_works&sortby=pubdate)
+
 :studio_microphone: For my latest interview on designing smart buildings with humans in mind, see my [interview with REHVA Journal](https://www.rehva.eu/rehva-journal/chapter/designing-smart-buildings-with-humans-in-mind-a-conversation-on-machine-learning-personal-comfort-and-intelligent-control-in-the-built-environment)
 
 # 2024

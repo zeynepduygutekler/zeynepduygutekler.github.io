@@ -16,6 +16,8 @@ Previously, I was a Postdoctoral Research Fellow in the Department of the Built 
 I earned my Ph.D. in Engineering Product Development from **Singapore University of Technology and Design (SUTD) under the SUTD-MIT International Design Centre** in 2021. 
 Prior to my doctoral studies, I received both my Master's and Bachelor's degrees in Industrial Engineering, and Economics as a double major from **Isik University**, where I was awarded as the Valedictorian :trophy: in 2015. 
 
+:herb: If you'd like to know more about my journey, here's [my Oxford interview](https://eng.ox.ac.uk/about/researchers/researcher-profiles/career-case-study-zeynep-tekler)
+
 Broadly, my research interests include:
 * Occupant-centric Built Environment
 * Applied Machine Learning & Data Analytics
@@ -29,7 +31,7 @@ as part of Smart and Sustainable Building Technologies.
 My primary research focuses on applying concepts from machine learning, data mining, and IoT sensing technologies to understand occupant behaviour and develop intelligent systems that reduce energy consumption while maintaining occupant comfort in the built environment. 
 As part of my thesis, I developed and patented **Plug-Mate**, a smart energy management system that detects user presence via smartphones’ Bluetooth signals to automatically control appliances, enabling smarter building automation and reducing energy use in office spaces.
 
-:herb: If you'd like to know more about my journey, here's [my Oxford interview](https://eng.ox.ac.uk/about/researchers/researcher-profiles/career-case-study-zeynep-tekler)
+
 
 
 
