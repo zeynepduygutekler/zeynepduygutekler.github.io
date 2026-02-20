@@ -21,9 +21,8 @@ author_profile: true
 <i>Recommended citation: Tekler, Z. D., Low, R., Chung, S. Y., Low, J. S. C., & Blessing, L. (2019). A Waste Management Behavioural Framework of Singapore’s Food Manufacturing Industry using Factor Analysis. Procedia CIRP, 80, 578-583. </i> 
 -->
 
-For my latest publications, see my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=VYSfvtcAAAAJ&view_op=list_works&sortby=pubdate)
-
-For my latest interview on designing smart buildings with humans in mind, see my [interview with REHVA Journal](https://www.rehva.eu/rehva-journal/chapter/designing-smart-buildings-with-humans-in-mind-a-conversation-on-machine-learning-personal-comfort-and-intelligent-control-in-the-built-environment)
+:books: For my latest publications, see my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=VYSfvtcAAAAJ&view_op=list_works&sortby=pubdate)
+:studio_microphone: For my latest interview on designing smart buildings with humans in mind, see my [interview with REHVA Journal](https://www.rehva.eu/rehva-journal/chapter/designing-smart-buildings-with-humans-in-mind-a-conversation-on-machine-learning-personal-comfort-and-intelligent-control-in-the-built-environment)
 
 # 2024
 ___
