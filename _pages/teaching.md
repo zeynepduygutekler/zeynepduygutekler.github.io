@@ -14,8 +14,9 @@ University of Oxford, United Kingdom
 </h3> 
 </div> 
 
-*2023-2024*
+*2023-2026*
 
+* Deep Learning Tutorials as part of [Engineering Science, C-19](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/engineering-science)
 * Machine Learning Module Practicals as part of [Autonomous Intelligent Machines and Systems](https://aims.robots.ox.ac.uk/) and [Intelligent Earth](https://intelligent-earth.ox.ac.uk/)
 * Zero-Carbon Energy Buildings Module as part of [Engineering Science](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/engineering-science)
 * Mathematics in Engineering Applications Tutorials as part of [Oxford UNIQ](https://www.uniq.ox.ac.uk/)
@@ -32,8 +33,8 @@ Singapore University of Technology and Design, Singapore
 
 *2019-2020*
 
-* [100.09 Digital World](https://academics.sutd.edu.sg/science-math/courses/10009-digital-world) - An Introduction to Computational Thinking (Phyton Programming)
-* [100.005 Physics II](https://epd.sutd.edu.sg/undergraduate-courses/10005-physics-ii/) - An Introduction to Electromagnetism
+* 100.09 Digital World - An Introduction to Computational Thinking (Phyton Programming)
+* 100.005 Physics II - An Introduction to Electromagnetism
 
 [//]: # (--------------------------------------------------------------------------------)
 
@@ -46,7 +47,7 @@ Isik University, Turkey
 
 *2015-2017*
 
-* [INDE 3001: Operations Research I](https://www.isikun.edu.tr/i/content/3662_1_CP_INDE2001.pdf)
-* [INDE 2211: Industrial Production Systems](https://www.isikun.edu.tr/i/content/3662_1_CP_INDE2211.pdf)
-* [INDE 4488: Enterprise Resource Planning](https://www.isikun.edu.tr/i/content/3662_1_CP_INDE4488.pdf)
+* INDE 3001: Operations Research I
+* INDE 2211: Industrial Production Systems
+* INDE 4488: Enterprise Resource Planning
 
