@@ -4,10 +4,16 @@ title: "PROJECTS"
 permalink: /projects/
 author_profile: true
 ---
+## OpenBES: The Open-Source Building energy Simulation Tool
+*Apr 25 – Present*
+* Contributing to the development of an open-source building energy simulation platform aimed at enabling early-decision making and cost-effective building interventions to support the transition to net-zero. 
+* Contributing to the development of low-cost all-in-one indoor air quality sensing kit for accurate thermal comfort and indoor air quality measurements.
+
+
 ## The UK Energy Demand Observation and Laboratory (EDOL)
-*Sep 23 – Present*
-* Developing innovative and scalable sensing approaches for Observatory & Laboratories to collect high-resolution and longitudinal data of household energy demand, activities and appliances.
-* Analysed household load profiles (i.e., archetypes) based on energy demand and sociodemographics in the UK. [SOON]
+*Sep 23 – Apr 25*
+* Developed innovative and scalable sensing approaches for Observatory & Laboratories to collect high-resolution and longitudinal data of household energy demand, activities and appliances.
+* Analysed household load profiles (i.e., archetypes) based on energy demand and sociodemographics in the UK [PDF](https://ora.ox.ac.uk/objects/uuid:f9c6c089-5188-4169-8aa6-6b018f2cb3ea)
 
 <img width="50%" height="50%" src="/images/edol.png" 
 alt="IMAGE ALT TEXT HERE" width="700" height="180" border="10" />
