@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+I am a Fellow of the Higher Education Academy (FHEA) in the UK.
+
 <div>
 <img align="left" width="105" height="45" src="/images/oxford-logo.png" style="margin-right: 10px"> 
 <h3>
