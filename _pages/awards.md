@@ -10,8 +10,8 @@ author_profile: true
 * Development and teaching of the Zero-Carbon Energy Buildings module as part of the ZERO Institute at the University of Oxford, received the 2025 CIBSE Building Performance Learning and Development & ASHRAE Zero Carbon Education Awards.
 
 <p>
-  <img width="400" height="45" src="/images/cibse-awards.JPG" style="display:inline-block; vertical-align:middle;" />
-  <img width="400" height="45" src="/images/cibse-awards2.jpg" style="display:inline-block; vertical-align:middle;" />
+  <img width="450" height="45" src="/images/cibse-awards.JPG" style="display:inline-block; vertical-align:middle;" />
+  <img width="400" height="35" src="/images/cibse-awards2.jpg" style="display:inline-block; vertical-align:middle;" />
 </p>
 
 
@@ -25,10 +25,9 @@ monitoring and forecasting in energy and power systems.
 <div>
 <img align="left" width="105" height="45" src="/images/3MT.jpg" style="margin-right: 10px"> 
 <h2>
-International 3 Minutes Thesis (3MT) 2020 Competition: First Prize 
+International 3 Minutes Thesis (3MT) Competition: First Prize (2020)
 </h2> 
 </div> 
-*Jun 20*
 * Winner of the SUTD 3MT Competition and Semi-finalist of the Asia-Pacific 3MT Competition. 
 
 <div class="grid-container">
@@ -55,7 +54,7 @@ alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
  
  ----
 
-## SUTD Research Fest 2020: Best Research Project Award 
+## SUTD Research Fest: Best Research Project Award (2020)
 * Awarded to the top research project among 60 projects presented, in terms of content, clarity
  and innovation.
 :bell: **[See the details HERE](https://www.facebook.com/photo.php?fbid=10158052075084791&amp;set=p.10158052075084791&amp;type=3)**
