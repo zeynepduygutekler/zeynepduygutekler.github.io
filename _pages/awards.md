@@ -5,10 +5,19 @@ permalink: /awards/
 author_profile: true
 ---
 ----
-## Oxford University-SSEN Energy Hackathon for Net-Zero: Runner Up Award 
+
+## CIBSE Learning and Development & ASHRAE Zero Carbon Education Awards (2025)
+* Development and teaching of the Zero-Carbon Energy Buildings module as part of the ZERO Institute at the University of Oxford, received the 2025 CIBSE Building Performance Learning and Development & ASHRAE Zero Carbon Education Awards.
+
+<p>
+  <img width="400" height="45" src="/images/cibse-awards.JPG" style="display:inline-block; vertical-align:middle;" />
+  <img width="400" height="45" src="/images/cibse-awards2.jpg" style="display:inline-block; vertical-align:middle;" />
+</p>
+
+
+## Oxford University-SSEN Energy Hackathon for Net-Zero: Runner Up Award (2024)
 * Awarded first runner up in a university-wide energy hackathon for developing an innovative and data-driven solution to improve load
 monitoring and forecasting in energy and power systems.
- *Oct 24*
 
 <img width="505" height="45" src="/images/hackathon.png"> 
 
@@ -48,17 +57,16 @@ alt="IMAGE ALT TEXT HERE" width="400" height="200" border="10" /></a>
 
 ## SUTD Research Fest 2020: Best Research Project Award 
 * Awarded to the top research project among 60 projects presented, in terms of content, clarity
- and innovation. 
- *Jan 20*
+ and innovation.
 :bell: **[See the details HERE](https://www.facebook.com/photo.php?fbid=10158052075084791&amp;set=p.10158052075084791&amp;type=3)**
 
 <img width="505" height="45" src="/images/award2.jpg"> 
 
 ---
 
-## SUTD Graduate Research Sharing Lunchtime Series: Research Talk
+## SUTD Graduate Research Sharing Lunchtime Series: Research Talk (2019)
 * Presented my work to the SUTD graduate community.
-*Dec 19*
+
 :bell: **[See the details HERE](https://www.facebook.com/SUTDGSA/posts/759548147895070)**
 
 <img width="405" height="45" src="/images/researchtalk2.jpg"> 
