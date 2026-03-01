@@ -5,18 +5,18 @@ permalink: /projects/
 author_profile: true
 ---
 ## SMART-DRI: Scenario Modelling and Assessment for Research Transition in Digital Research Infrastructure
-PI, University of Oxford | Mar 26 – Present*
+PI, University of Oxford | Mar 26 – Present
 * Developing data-driven green scheduling methods that minimise carbon emissions and operational costs in digital research infrastructure.
 ---
 
 ## OpenBES: The Open-Source Building Energy Simulation Tool
-Co-I, University of Oxford | Apr 25 – Present*
+Co-I, University of Oxford | Apr 25 – Present
 * Contributing to the development of an open-source building energy simulation platform aimed at enabling early-decision making and cost-effective building interventions to support the transition to net-zero. 
 * Contributing to the development of low-cost all-in-one indoor air quality sensing kit for accurate thermal comfort and indoor air quality measurements.
 
 
 ## The UK Energy Demand Observation and Laboratory (EDOL)
-Member, University of Oxford | Sep 23 – Apr 25*
+Member, University of Oxford | Sep 23 – Apr 25
 * Developed innovative and scalable sensing approaches for Observatory & Laboratories to collect high-resolution and longitudinal data of household energy demand, activities and appliances.
 * Analysed household load profiles (i.e., archetypes) based on energy demand and sociodemographics in the UK [PDF](https://ora.ox.ac.uk/objects/uuid:f9c6c089-5188-4169-8aa6-6b018f2cb3ea)
 
@@ -24,7 +24,7 @@ Member, University of Oxford | Sep 23 – Apr 25*
 alt="IMAGE ALT TEXT HERE" width="700" height="180" border="10" />
 
 ## A Total Building Performance Approach to Real-time Occupant Centric Sensing and Control for Mixed Mode Ventilation in the Tropics
-Member, National University of Singapore | Aug 21 – Aug 23*
+Member, National University of Singapore | Aug 21 – Aug 23
 * Developed a hybrid active transfer learning framework for data-efficient personal thermal comfort models using limited data. [[PDF]](../files/ATL-thermalcomfort.pdf)
 * Developed a novel feature selection algorithm for occupancy detection using deep learning approaches 
 to achieve minimum sensing strategy in smart buildings. [[PDF]](../files/minsensing-occupancy.pdf)
@@ -36,7 +36,7 @@ together with high-resolution occupancy information. [[PDF]](../files/robod.pdf)
 alt="IMAGE ALT TEXT HERE" width="700" height="180" border="10" />
 
 ## Plug-mate: An IoT-based Occupant-driven Smart Plug Load Management System in Office Spaces
-PI, Singapore University of Technology and Design, SUTD-MIT International Design Centre | Sep 17 – Aug 21*
+PI, Singapore University of Technology and Design, SUTD-MIT International Design Centre | Sep 17 – Aug 21
 * Developed a smart plug load management system that automates the operation of different plug
 loads based on the occupants’ presence information. [[PDF]](../files/plug-mate.pdf)
 * Used Python to develop a Bluetooth-based indoor localisation system by deploying Raspberry Pi
@@ -59,7 +59,7 @@ alt="IMAGE ALT TEXT HERE" width="700" height="180" border="10" /></a>
 ---
 
 ## Geolocation-based AR Game for Climate Change Awareness and Action
-Member, Singapore University of Technology and Design, SUTD-MIT International Design Centre | Aug 20 – Aug 21*
+Member, Singapore University of Technology and Design, SUTD-MIT International Design Centre | Aug 20 – Aug 21
 
 A mobile game targeting children 8 to 11 years old has been developed by Singapore University of
 Technology and Design (SUTD) with the aim of promoting climate action and encouraging green behaviour
@@ -79,7 +79,7 @@ alt="IMAGE ALT TEXT HERE" width="400" height="180" border="10" /></a>
 ---
 
 ## Plug-mate Interface: A Web-based User Interface for a Smart Plug Load Management System
-PI, Singapore University of Technology and Design, SUTD-MIT International Design Centre | Apr 20 – Sep 20*
+PI, Singapore University of Technology and Design, SUTD-MIT International Design Centre | Apr 20 – Sep 20
 * Designed and developed a web-based user interface for a smart plug load management system
 using the Django Web Framework, HTML, CSS and Javascript.
 * Integrated Dash-Plotly applications to visualise the user’s energy consumption on a smart energy
