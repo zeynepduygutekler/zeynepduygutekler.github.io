@@ -5,9 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 ## SMART-DRI: Scenario Modelling and Assessment for Research Transition in Digital Research Infrastructure
-PI, University of Oxford | Mar 26 – Present
+PI, University of Oxford |Mar 26 – Present
 * Developing data-driven green scheduling methods that minimise carbon emissions and operational costs in digital research infrastructure.
----
+
 
 ## OpenBES: The Open-Source Building Energy Simulation Tool
 Co-I, University of Oxford | Apr 25 – Present
