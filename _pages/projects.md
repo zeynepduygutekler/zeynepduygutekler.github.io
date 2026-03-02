@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 ## SMART-DRI: Scenario Modelling and Assessment for Research Transition in Digital Research Infrastructure
-PI, University of Oxford |Mar 26 – Present
+PI, University of Oxford | Mar 26 – Present
 * Developing data-driven green scheduling methods that minimise carbon emissions and operational costs in digital research infrastructure.
 
 
@@ -103,7 +103,7 @@ alt="IMAGE ALT TEXT HERE" width="400" height="180" border="10" /></a> -->
 
 
 ## Waste Management Behavioural Framework for Singapore’s Food Manufacturing Industry
-*May 18 – Jan 19* 
+Member, A*STAR Singapore Institute of Manufacturing Technology | May 18 – Jan 19
 
 Developed a waste management behavioral framework for Singapore's food manufacturing industry
 (collaboration with A*STAR SIMTECH) [[PDF]](../files/CIRP_Published.pdf)
