@@ -17,7 +17,7 @@ Co-I, University of Oxford | Apr 25 – Present
 
 ## The UK Energy Demand Observation and Laboratory (EDOL)
 Member, University of Oxford | Sep 23 – Apr 25
-* Developed innovative and scalable sensing approaches for Observatory & Laboratories to collect high-resolution and longitudinal data of household energy demand, activities and appliances.
+* Contributed to the development of scalable sensing approaches for observatory & laboratories to collect high-resolution and longitudinal data of household energy demand, activities and occupancy.
 * Analysed household load profiles (i.e., archetypes) based on energy demand and sociodemographics in the UK [PDF](https://ora.ox.ac.uk/objects/uuid:f9c6c089-5188-4169-8aa6-6b018f2cb3ea)
 
 <img width="50%" height="50%" src="/images/edol.png" 
