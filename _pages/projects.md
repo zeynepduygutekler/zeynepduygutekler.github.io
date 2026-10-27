@@ -82,7 +82,7 @@ a.pdf-btn:hover { background: #6d0000; }
   </p>
   <div class="project-body">
     <div class="project-img">
-      <img src="/images/bl-building.jpg" alt="Agentic Buildings">
+      <img src="/images/bl-building.jpg" alt="Agentic Buildings" style="height:130px; object-fit:cover; object-position:center;">
     </div>
     <div class="project-content">
       <ul>
@@ -102,7 +102,7 @@ a.pdf-btn:hover { background: #6d0000; }
   </p>
   <div class="project-body">
     <div class="project-img">
-      <img src="/images/bl-thrust-2.jpg" alt="VITALS NHS Occupancy">
+      <img src="/images/comfortsense-dash.jpg" alt="VITALS NHS Occupancy">
     </div>
     <div class="project-content">
       <ul>
