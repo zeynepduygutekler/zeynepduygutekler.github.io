@@ -40,6 +40,19 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* Active page indicator in top navigation */
+.greedy-nav .greedy-nav__link {
+  position: relative;
+}
+.greedy-nav .greedy-nav__link.active::after {
+  content: '';
+  position: absolute;
+  bottom: -4px; left: 0; right: 0;
+  height: 3px;
+  background: #2a9d8f;
+  border-radius: 2px;
+}
+
 .grid-container {
   display: grid;
   grid-template-columns: auto auto;

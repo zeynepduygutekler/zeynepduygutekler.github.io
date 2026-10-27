@@ -31,7 +31,7 @@ Singapore University of Technology and Design, Singapore
 </h3> 
 </div>
 
-*2019-2020*
+*2019-2021*
 
 * 100.09 Digital World - An Introduction to Computational Thinking (Phyton Programming)
 * 100.005 Physics II - An Introduction to Electromagnetism
