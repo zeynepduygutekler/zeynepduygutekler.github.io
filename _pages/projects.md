@@ -82,7 +82,7 @@ a.pdf-btn:hover { background: #6d0000; }
   </p>
   <div class="project-body">
     <div class="project-img">
-      <img src="/images/baselab-smart.jpg" alt="Agentic Buildings">
+      <img src="/images/bl-building.jpg" alt="Agentic Buildings">
     </div>
     <div class="project-content">
       <ul>
@@ -102,7 +102,7 @@ a.pdf-btn:hover { background: #6d0000; }
   </p>
   <div class="project-body">
     <div class="project-img">
-      <img src="/images/bl-solar.jpg" alt="VITALS NHS Energy">
+      <img src="/images/bl-thrust-2.jpg" alt="VITALS NHS Occupancy">
     </div>
     <div class="project-content">
       <ul>
