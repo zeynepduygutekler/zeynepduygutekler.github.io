@@ -76,6 +76,36 @@ a.pdf-btn:hover { background: #6d0000; }
 ## Current Projects
 
 <div class="project-card">
+  <h2>From Smart to Agentic Buildings: Human-Centric AI for Personalised and Energy-Efficient Building Systems</h2>
+  <p class="project-meta">
+    <span class="project-badge">PI</span> Nanyang Technological University &nbsp;|&nbsp; Oct 2026 – Present &nbsp;|&nbsp; Funded by NTU Startup Grant
+  </p>
+  <div class="project-content">
+    <ul>
+      <li>Developing a human-centric agentic AI system integrating multimodal sensing, LLMs, and specialised predictive and control tools to enable autonomous, personalised, and energy-efficient building operations.</li>
+      <li>Personalised AI agents learn and adapt to individual and collective occupant preferences, reasoning across environmental conditions and operational constraints to support intelligent, context-aware building control.</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+<div class="project-card">
+  <h2>VITALS: Variational Inference of Trust-level Activity from Load Signatures in NHS Hospitals</h2>
+  <p class="project-meta">
+    <span class="project-badge">PI / Fellow</span> Loughborough University &nbsp;|&nbsp; Oct 2026 – Present &nbsp;|&nbsp; <strong>£39,998</strong> &nbsp;|&nbsp; Funded by UK Energy Systems Catapult (SENSE Research Grant)
+  </p>
+  <div class="project-content">
+    <ul>
+      <li>Developing a deep-learning framework using variational Transformers to infer trust-level occupancy and activity proxies from half-hourly energy data across 25 NHS Trusts, bridging the gap between BMS operation and actual building use.</li>
+      <li>Uses active transfer learning across NHS sites and compact language models to generate plain-language summaries of energy-activity patterns for estates teams.</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+<div class="project-card">
   <h2>SMART-DRI: Scenario Modelling and Assessment for Research Transition in Digital Research Infrastructure</h2>
   <p class="project-meta">
     <span class="project-badge">PI</span> University of Oxford &nbsp;|&nbsp; Mar 2026 – Present &nbsp;|&nbsp; <strong>£101,743</strong> &nbsp;|&nbsp; Funded by UK Research and Innovation (NERC)
