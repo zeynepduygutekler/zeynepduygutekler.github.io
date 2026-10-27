@@ -224,12 +224,12 @@ html, body { overflow-x: hidden; }
 
 <!-- MISSION -->
 <div class="bl-breakout bl-mission">
-  <div class="bl-section-head">
-    <div class="bl-bar"></div>
-    <h2>Our Mission</h2>
-  </div>
   <div class="bl-mission-grid">
     <div class="bl-mission-text">
+      <div class="bl-section-head">
+        <div class="bl-bar"></div>
+        <h2>Our Mission</h2>
+      </div>
       <p>BASE Lab develops intelligent and adaptive systems that enable built environments to <span class="bl-hl">sense</span>, <span class="bl-hl">learn</span>, <span class="bl-hl">predict</span>, and <span class="bl-hl">respond</span> to the needs of people and changing environmental conditions.</p>
       <p>We work at the intersection of artificial intelligence, building science, and human-centred approaches to translate data-driven research into real-world building applications. Our research aims to improve building performance, energy efficiency, and occupant wellbeing, creating more <strong>responsive and sustainable built environments</strong>.</p>
     </div>
