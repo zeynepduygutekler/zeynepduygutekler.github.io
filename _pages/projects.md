@@ -126,7 +126,7 @@ a.pdf-btn:hover { background: #6d0000; }
     </div>
     <div class="project-content">
       <ul>
-        <li>Developing data-driven green scheduling methods that minimise carbon emissions and operational costs in digital research infrastructure.</li>
+        <li>Developing data-driven green scheduling methods that minimise carbon emissions and operational costs in digital research infrastructure. <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=VYSfvtcAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=VYSfvtcAAAAJ:dTyEYWd-f8wC" class="pdf-btn" target="_blank">PDF</a></li>
       </ul>
     </div>
   </div>
@@ -265,7 +265,7 @@ a.pdf-btn:hover { background: #6d0000; }
     </div>
     <div class="project-content">
       <ul>
-        <li>Developed a scalable Bluetooth Low Energy (BLE) system for non-intrusive occupancy detection and profile identification in office spaces.</li>
+        <li>Developed a scalable Bluetooth Low Energy (BLE) system for non-intrusive occupancy detection and profile identification in office spaces. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360132320300391" class="pdf-btn" target="_blank">PDF</a></li>
       </ul>
     </div>
   </div>
@@ -284,7 +284,7 @@ a.pdf-btn:hover { background: #6d0000; }
       <p style="font-size:0.82em; margin-top:5px; text-align:center;">&#127909; <a href="https://www.youtube.com/watch?v=pTEdrVSlIcg&ab_channel=SUTDGamelab" target="_blank">Watch Video</a></p>
     </div>
     <div class="project-content">
-      <p style="margin:0 0 8px;">A mobile game for children (ages 8–11) developed at SUTD using augmented reality and geolocation to promote climate action and green behaviour.</p>
+      <p style="margin:0 0 8px;">A mobile game for children (ages 8–11) developed at SUTD using augmented reality and geolocation to promote climate action and green behaviour. <a href="https://www.mdpi.com/2071-1050/13/24/13912" class="pdf-btn" target="_blank">PDF</a></p>
     </div>
   </div>
 </div>
