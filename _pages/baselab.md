@@ -82,7 +82,7 @@ html, body { overflow-x: hidden; }
   display: grid; grid-template-columns: 1fr 340px;
   gap: 48px; align-items: start;
 }
-.bl-mission-text { padding-right: 84px; }
+.bl-mission-text { padding-right: 84px; padding-top: 24px; }
 .bl-mission-text p { font-size: 1.02em; color: #333; line-height: 1.85; margin: 0 0 16px; }
 .bl-mission-text p:last-child { margin: 0; }
 .bl-hl { color: #2a9d8f; font-weight: 700; }
