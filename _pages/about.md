@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-<p style="line-height:1.75;">I am an Assistant Professor in the <a href="https://dr.ntu.edu.sg/entities/person/Zeynep-Duygu-Tekler">School of Mechanical and Aerospace Engineering</a> at Nanyang Technological University (NTU), Singapore. My research focuses on developing AI-driven approaches for intelligent, sustainable, and occupant-centric buildings, with applications in building operations, energy management, and occupant comfort and wellbeing.</p>
+<p style="line-height:1.75;">I am an <a href="https://dr.ntu.edu.sg/entities/person/Zeynep-Duygu-Tekler">Assistant Professor</a> in the <a href="https://www.ntu.edu.sg/mae">School of Mechanical and Aerospace Engineering</a> at Nanyang Technological University (NTU), Singapore. My research focuses on developing AI-driven approaches for intelligent, sustainable, and occupant-centric buildings, with applications in building operations, energy management, and occupant comfort and wellbeing.</p>
 
-<p style="line-height:1.75;">Prior to joining NTU, I was an Assistant Professor in AI for the Built Environment at Loughborough University, and a Principal Investigator and Senior Research Associate in the <a href="https://eng.ox.ac.uk/people/zeynep-duygu-tekler/">Department of Engineering Science</a> at the University of Oxford, where I was affiliated with the <a href="https://zero.ox.ac.uk/people/zeynep-tekler/">ZERO Institute</a>. I also held a <a href="https://www.kellogg.ox.ac.uk/our-people/zey-nep/">Junior Research Fellowship at Kellogg College</a> at the University of Oxford. Before moving to the UK, I was a Postdoctoral Research Fellow at the National University of Singapore. I earned my Ph.D. in Engineering Product Development from the Singapore University of Technology and Design (SUTD) under the SUTD–MIT International Design Centre.</p>
+<p style="line-height:1.75;">Prior to joining NTU, I was an Assistant Professor in AI for the Built Environment at Loughborough University, and a Principal Investigator and Senior Research Associate in the <a href="https://eng.ox.ac.uk/people/zeynep-duygu-tekler/">Department of Engineering Science</a> at the University of Oxford, where I was affiliated with the <a href="https://zero.ox.ac.uk/people/zeynep-tekler/">ZERO Institute</a>. I also held a <a href="https://www.kellogg.ox.ac.uk/people/dr-zeynep-tekler/">Junior Research Fellowship at Kellogg College</a> at the University of Oxford. Before moving to the UK, I was a Postdoctoral Research Fellow at the National University of Singapore. I earned my Ph.D. in Engineering Product Development from the Singapore University of Technology and Design (SUTD) under the SUTD–MIT International Design Centre.</p>
 
 
 <div style="background:linear-gradient(135deg,#fff8f8 0%,#f5f0f0 100%); border:1px solid #d9b0b0; border-left:4px solid #8B0000; border-radius:6px; padding:16px 22px; margin:24px 0; display:flex; align-items:center; gap:16px; flex-wrap:wrap;">
   <i class="fas fa-users" style="color:#8B0000; font-size:1.6em; flex-shrink:0;"></i>
   <div style="flex:1; min-width:200px;">
     <div style="font-weight:600; color:#222; margin-bottom:4px;">Join the Lab</div>
-    <div style="font-size:0.95em; color:#444; line-height:1.5;">I am building my research group at NTU and am looking for highly motivated PhD students, postdoctoral researchers, and visiting students.</div>
+    <div style="font-size:0.95em; color:#444; line-height:1.5;">I am building my research group, BASE Lab at NTU and am looking for highly motivated PhD students, postdoctoral researchers, and visiting students.</div>
   </div>
   <a href="/joinus/" style="display:inline-block; background:#8B0000; color:#fff; padding:8px 18px; border-radius:4px; font-weight:600; font-size:0.9em; text-decoration:none; white-space:nowrap; flex-shrink:0;">Join Us →</a>
 </div>
