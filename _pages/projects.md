@@ -80,11 +80,16 @@ a.pdf-btn:hover { background: #6d0000; }
   <p class="project-meta">
     <span class="project-badge">PI</span> Nanyang Technological University &nbsp;|&nbsp; Oct 2026 – Present &nbsp;|&nbsp; Funded by NTU Startup Grant
   </p>
-  <div class="project-content">
-    <ul>
-      <li>Developing a human-centric agentic AI system integrating multimodal sensing, LLMs, and specialised predictive and control tools to enable autonomous, personalised, and energy-efficient building operations.</li>
-      <li>Personalised AI agents learn and adapt to individual and collective occupant preferences, reasoning across environmental conditions and operational constraints to support intelligent, context-aware building control.</li>
-    </ul>
+  <div class="project-body">
+    <div class="project-img">
+      <img src="/images/baselab-smart.jpg" alt="Agentic Buildings">
+    </div>
+    <div class="project-content">
+      <ul>
+        <li>Developing a human-centric agentic AI system integrating multimodal sensing, LLMs, and specialised predictive and control tools to enable autonomous, personalised, and energy-efficient building operations.</li>
+        <li>Personalised AI agents learn and adapt to individual and collective occupant preferences, reasoning across environmental conditions and operational constraints to support intelligent, context-aware building control.</li>
+      </ul>
+    </div>
   </div>
 </div>
 
@@ -95,11 +100,16 @@ a.pdf-btn:hover { background: #6d0000; }
   <p class="project-meta">
     <span class="project-badge">PI / Fellow</span> Loughborough University &nbsp;|&nbsp; Oct 2026 – Present &nbsp;|&nbsp; <strong>£39,998</strong> &nbsp;|&nbsp; Funded by UK Energy Systems Catapult (SENSE Research Grant)
   </p>
-  <div class="project-content">
-    <ul>
-      <li>Developing a deep-learning framework using variational Transformers to infer trust-level occupancy and activity proxies from half-hourly energy data across 25 NHS Trusts, bridging the gap between BMS operation and actual building use.</li>
-      <li>Uses active transfer learning across NHS sites and compact language models to generate plain-language summaries of energy-activity patterns for estates teams.</li>
-    </ul>
+  <div class="project-body">
+    <div class="project-img">
+      <img src="/images/bl-solar.jpg" alt="VITALS NHS Energy">
+    </div>
+    <div class="project-content">
+      <ul>
+        <li>Developing a deep-learning framework using variational Transformers to infer trust-level occupancy and activity proxies from half-hourly energy data across 25 NHS Trusts, bridging the gap between BMS operation and actual building use.</li>
+        <li>Uses active transfer learning across NHS sites and compact language models to generate plain-language summaries of energy-activity patterns for estates teams.</li>
+      </ul>
+    </div>
   </div>
 </div>
 
