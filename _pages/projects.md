@@ -102,7 +102,7 @@ a.pdf-btn:hover { background: #6d0000; }
   </p>
   <div class="project-body">
     <div class="project-img">
-      <img src="/images/comfortsense-dash.jpg" alt="VITALS NHS Occupancy">
+      <img src="/images/vitals-hospital.jpg" alt="VITALS NHS Occupancy">
     </div>
     <div class="project-content">
       <ul>
