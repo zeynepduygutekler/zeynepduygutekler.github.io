@@ -40,17 +40,23 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Active page indicator in top navigation */
-.greedy-nav .greedy-nav__link {
-  position: relative;
+/* Remove active box/highlight from top nav links */
+.greedy-nav a.active,
+.greedy-nav .greedy-nav__link.active {
+  background: none !important;
+  color: #7a8288 !important;
+  font-weight: normal !important;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  border-radius: 0 !important;
 }
+.greedy-nav a.active::after,
 .greedy-nav .greedy-nav__link.active::after {
-  content: '';
-  position: absolute;
-  bottom: -4px; left: 0; right: 0;
-  height: 3px;
-  background: #2a9d8f;
-  border-radius: 2px;
+  display: none !important;
+}
+.greedy-nav a:focus {
+  outline: none;
 }
 
 .grid-container {
