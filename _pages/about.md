@@ -60,7 +60,7 @@ redirect_from:
       <li style="margin-bottom:14px; display:flex; align-items:flex-start; gap:10px;">
         <i class="fas fa-graduation-cap" style="color:#8B0000; width:18px; margin-top:3px; flex-shrink:0;"></i>
         <div>
-          <div style="font-weight:600; color:#222; line-height:1.3;">Senior Research Associate &amp; PI</div>
+          <div style="font-weight:600; color:#222; line-height:1.3;">PI &amp; Senior Research Associate</div>
           <div style="font-size:0.88em; color:#666; margin-top:2px;">University of Oxford, 2023–2026</div>
         </div>
       </li>
