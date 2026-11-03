@@ -301,7 +301,7 @@ html, body { overflow-x: hidden; }
             </div>
           </details>
           <p style="font-size:0.79em; font-weight:700; color:#0d2244; margin:16px 0 5px; text-transform:uppercase; letter-spacing:0.06em;">Self-Funded &amp; Part-Time PhD</p>
-          <p style="font-size:0.79em; color:#666; line-height:1.6; margin:0;">Self-funded applicants are welcome to apply. Part-time PhD study may be available to working professionals, subject to NTU's admission requirements. Please contact me to discuss your circumstances and suitability before applying.</p>
+          <p style="font-size:0.79em; color:#666; line-height:1.6; margin:0;">Self-funded and externally funded applicants are welcome to apply. Part-time PhD study may be available to working professionals, subject to NTU's admission requirements. Please contact me to discuss your circumstances and suitability before applying.</p>
         </div>
 
       </div>
