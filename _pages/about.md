@@ -30,25 +30,25 @@ redirect_from:
       <li style="margin-bottom:12px; display:flex; align-items:flex-start; gap:10px;">
         <i class="fas fa-brain" style="color:#8B0000; width:18px; margin-top:3px; flex-shrink:0;"></i>
         <div>
-          <div style="font-weight:600; color:#222; line-height:1.3;">Artificial Intelligence and Data-Driven Building Systems</div>
+          <div style="color:#222; line-height:1.3;">Artificial Intelligence and Data-Driven Building Systems</div>
         </div>
       </li>
       <li style="margin-bottom:12px; display:flex; align-items:flex-start; gap:10px;">
         <i class="fas fa-brain" style="color:#8B0000; width:18px; margin-top:3px; flex-shrink:0;"></i>
         <div>
-          <div style="font-weight:600; color:#222; line-height:1.3;">Occupant Behaviour, Comfort, Health and Wellbeing</div>
+          <div style="color:#222; line-height:1.3;">Occupant Behaviour, Comfort, Health and Wellbeing</div>
         </div>
       </li>
       <li style="margin-bottom:12px; display:flex; align-items:flex-start; gap:10px;">
         <i class="fas fa-brain" style="color:#8B0000; width:18px; margin-top:3px; flex-shrink:0;"></i>
         <div>
-          <div style="font-weight:600; color:#222; line-height:1.3;">Intelligent Building Operations, Automation and HVAC Control</div>
+          <div style="color:#222; line-height:1.3;">Intelligent Building Operations, Automation and HVAC Control</div>
         </div>
       </li>
       <li style="margin-bottom:12px; display:flex; align-items:flex-start; gap:10px;">
         <i class="fas fa-brain" style="color:#8B0000; width:18px; margin-top:3px; flex-shrink:0;"></i>
         <div>
-          <div style="font-weight:600; color:#222; line-height:1.3;">Smart Energy Systems and Decarbonisation</div>
+          <div style="color:#222; line-height:1.3;">Smart Energy Systems and Decarbonisation</div>
         </div>
       </li>
     </ul>
