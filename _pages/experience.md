@@ -142,7 +142,7 @@ author_profile: true
       <span style="color:#bbb; margin:0 5px;">—</span>
       <a href="https://www.ntu.edu.sg/mae" class="exp-uni">Nanyang Technological University</a>, Singapore
     </div>
-    <div class="exp-date">2025–Present</div>
+    <div class="exp-date">2026–Present</div>
   </div>
 </div>
 
@@ -255,6 +255,7 @@ author_profile: true
     <div class="service-box-title"><i class="fas fa-user-graduate" style="margin-right:5px;"></i>PhD Students</div>
     <ul>
       <li>Davoud Khatermohammadi — Loughborough University (2026–Present)</li>
+      <li>Boran Zhou — Loughborough University (Incoming)</li>
     </ul>
   </div>
 
