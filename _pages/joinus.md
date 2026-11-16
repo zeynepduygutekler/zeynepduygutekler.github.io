@@ -455,7 +455,7 @@ html, body { overflow-x: hidden; }
 
 <div class="ju-note">
   <strong><i class="fas fa-envelope" style="color:#2a9d8f; margin-right:7px;"></i>A Note on Enquiries</strong><br>
-  I review every application carefully, but due to the high volume of applications only shortlisted candidates will be contacted. I encourage applications that demonstrate a strong research background and a clear alignment with BASE Lab's research interests. I look forward to hearing from motivated researchers who are excited to contribute to our work at BASE Lab.
+  I review every application carefully but due to the high volume of applications, only shortlisted candidates will be contacted. I particularly welcome applications from candidates with a strong research background, a demonstrated record of publications in reputable journals, and research interests that align closely with the work of BASE Lab. I look forward to hearing from motivated researchers who are eager to contribute to our ongoing research at BASE Lab.
 </div>
 
 </div>
