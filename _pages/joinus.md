@@ -392,7 +392,7 @@ html, body { overflow-x: hidden; }
       <div class="ju-req-ic"><i class="fas fa-brain"></i></div>
       <div class="ju-req-body">
         <strong>Research Experience &amp; Domain Interest</strong>
-        <span>A strong background in AI, sensing, sustainable built environments, or energy systems. Prior research experience and thesis work are advantageous for PhD applicants; publications are a plus. Postdoctoral candidates should have a strong publication record and demonstrated ability to lead independent research.</span>
+        <span>A strong background in AI, sensing, sustainable built environments, or energy systems. Prior research experience and thesis work are advantageous for PhD applicants; publications in reputable journals are a plus. Postdoctoral candidates should have a strong publication record and demonstrated ability to lead independent research.</span>
       </div>
     </div>
     <div class="ju-req">
