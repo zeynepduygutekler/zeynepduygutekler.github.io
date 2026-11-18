@@ -293,9 +293,21 @@ html, body { overflow-x: hidden; }
                   <a href="https://www.a-star.edu.sg/Scholarships" target="_blank" style="color:#2a9d8f;font-weight:600;font-size:0.88em;">Singapore International Graduate Award (SINGA)</a>
                   <span style="display:block;font-size:0.85em;color:#444;font-style:normal;margin-top:2px;">For international students. Joint A*STAR–NTU PhD programme. Covers full tuition, monthly stipend, and a one-time airfare grant.</span>
                 </li>
-                <li style="margin-bottom:4px; line-height:1.5;">
+                <li style="margin-bottom:10px; line-height:1.5;">
                   <a href="https://www.ntu.edu.sg/graduate-college/admissions/scholarships/yunqi-phd-scholarship-in-science-and-technology" target="_blank" style="color:#2a9d8f;font-weight:600;font-size:0.88em;">Yunqi PhD Scholarship in Science &amp; Technology</a>
                   <span style="display:block;font-size:0.85em;color:#444;font-style:normal;margin-top:2px;">Open to all nationalities. Covers full tuition and a monthly stipend for PhD candidates in science and technology at NTU.</span>
+                </li>
+                <li style="margin-bottom:10px; line-height:1.5;">
+                  <a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships" target="_blank" style="color:#2a9d8f;font-weight:600;font-size:0.88em;">LPDP–NTU Graduate Scholarship</a>
+                  <span style="display:block;font-size:0.85em;color:#444;font-style:normal;margin-top:2px;">For Indonesian citizens. Indonesia's prestigious government scholarship (Lembaga Pengelola Dana Pendidikan) for doctoral study abroad. Covers full tuition, monthly stipend, and research support. NTU is a supported partner institution.</span>
+                </li>
+                <li style="margin-bottom:10px; line-height:1.5;">
+                  <a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships" target="_blank" style="color:#2a9d8f;font-weight:600;font-size:0.88em;">VinGroup Graduate Scholarship</a>
+                  <span style="display:block;font-size:0.85em;color:#444;font-style:normal;margin-top:2px;">For Vietnamese citizens. Funded by Vietnam's VinGroup to support talented researchers in STEM fields pursuing PhD study at NTU. Covers tuition and a monthly stipend.</span>
+                </li>
+                <li style="margin-bottom:4px; line-height:1.5;">
+                  <a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships" target="_blank" style="color:#2a9d8f;font-weight:600;font-size:0.88em;">EDB Industrial Postgraduate Programme (IPP)</a>
+                  <span style="display:block;font-size:0.85em;color:#444;font-style:normal;margin-top:2px;">For Singapore citizens and PRs. Industry-linked PhD programme co-funded by EDB and an industry partner. Supports applied research with real-world impact, relevant for energy, built environment, and AI applications.</span>
                 </li>
               </ul>
             </div>
