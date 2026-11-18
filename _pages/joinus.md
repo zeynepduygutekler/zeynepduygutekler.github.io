@@ -294,6 +294,10 @@ html, body { overflow-x: hidden; }
                   <span style="display:block;font-size:0.85em;color:#444;font-style:normal;margin-top:2px;">For international students. Joint A*STAR–NTU PhD programme. Covers full tuition, monthly stipend, and a one-time airfare grant.</span>
                 </li>
                 <li style="margin-bottom:10px; line-height:1.5;">
+                  <a href="https://www.csc.edu.cn/studyabroad" target="_blank" style="color:#2a9d8f;font-weight:600;font-size:0.88em;">China Scholarship Council (CSC)</a>
+                  <span style="display:block;font-size:0.85em;color:#444;font-style:normal;margin-top:2px;">For Chinese citizens. China's government scholarship for doctoral study at overseas universities including NTU. Covers tuition, monthly stipend, one round-trip airfare, and health insurance. Students apply to CSC and NTU separately.</span>
+                </li>
+                <li style="margin-bottom:10px; line-height:1.5;">
                   <a href="https://www.ntu.edu.sg/graduate-college/admissions/scholarships/yunqi-phd-scholarship-in-science-and-technology" target="_blank" style="color:#2a9d8f;font-weight:600;font-size:0.88em;">Yunqi PhD Scholarship in Science &amp; Technology</a>
                   <span style="display:block;font-size:0.85em;color:#444;font-style:normal;margin-top:2px;">Open to all nationalities. Covers full tuition and a monthly stipend for PhD candidates in science and technology at NTU.</span>
                 </li>
