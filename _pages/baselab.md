@@ -287,10 +287,12 @@ html, body { overflow-x: hidden; }
         <div class="bl-thrust-tagline">Developing data-driven intelligence to understand and anticipate building performance and changing conditions.</div>
         <div class="bl-al">Research Areas</div>
         <ul class="bl-areas">
-          <li>Machine learning and predictive analytics</li>
-          <li>Multimodal sensing and data fusion</li>
-          <li>Building performance forecasting and fault diagnostics</li>
-          <li>Digital twins and intelligent building models</li>
+          <li>Machine learning, deep learning and predictive analytics</li>
+          <li>Multimodal sensing, IoT and data fusion</li>
+          <li>Time-series modelling and forecasting</li>
+          <li>Digital twins and data-driven building models</li>
+          <li>Agentic AI and autonomous decision making</li>
+          <li>Building automation and fault diagnostics</li>
         </ul>
       </div>
     </div>
@@ -311,7 +313,7 @@ html, body { overflow-x: hidden; }
           <li>Occupant behaviour, preferences and occupancy</li>
           <li>Personalised thermal comfort</li>
           <li>Indoor environmental quality, health and wellbeing</li>
-          <li>Human-building interaction</li>
+          <li>Human-building interaction and occupant-centric strategies</li>
         </ul>
       </div>
     </div>
@@ -352,8 +354,8 @@ html, body { overflow-x: hidden; }
         <ul class="bl-areas">
           <li>Building energy efficiency and management</li>
           <li>Demand response and energy flexibility</li>
-          <li>Renewable energy integration and building-to-grid interaction</li>
           <li>Net-zero buildings and decarbonisation strategies</li>
+          <li>Sustainable AI, green scheduling and carbon-aware computing</li>
         </ul>
       </div>
     </div>
