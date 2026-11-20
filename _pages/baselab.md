@@ -291,8 +291,6 @@ html, body { overflow-x: hidden; }
           <li>Multimodal sensing, IoT and data fusion</li>
           <li>Time-series modelling and forecasting</li>
           <li>Digital twins and data-driven building models</li>
-          <li>Agentic AI and autonomous decision making</li>
-          <li>Building automation and fault diagnostics</li>
         </ul>
       </div>
     </div>
@@ -333,8 +331,8 @@ html, body { overflow-x: hidden; }
         <ul class="bl-areas">
           <li>Predictive and adaptive control strategies</li>
           <li>HVAC and indoor climate optimisation</li>
-          <li>Building automation and integration</li>
-          <li>Fault-tolerant and self-correcting systems</li>
+          <li>Agentic AI and autonomous decision making</li>
+          <li>Building automation and fault diagnostics</li>
         </ul>
       </div>
     </div>
