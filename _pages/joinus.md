@@ -217,6 +217,7 @@ html, body { overflow-x: hidden; }
 <!-- ── Intro ── -->
 <div style="margin-bottom:36px; padding-bottom:28px; border-bottom:1px solid #eaecf0;">
   <p style="font-size:1.0em; color:#2a3a4a; line-height:1.82; margin:0 0 12px;"><strong>BASE Lab @ NTU Singapore</strong> welcomes motivated researchers interested in advancing AI-driven solutions for intelligent and sustainable built environments. We offer opportunities for PhD students, postdoctoral researchers, and visiting researchers to pursue impactful research, develop new ideas, and contribute to real-world applications.</p>
+  <p style="font-size:1.0em; color:#2a3a4a; line-height:1.82; margin:0 0 12px;">Our team is also actively engaged in international research collaborations with leading researchers and institutions worldwide, including the University of Oxford and Loughborough University in the United Kingdom.</p>
   <p style="font-size:0.92em; color:#6a7a8a; line-height:1.72; margin:0;"><strong>Explore our current openings and find the right opportunity for you below.</strong></p>
 </div>
 
