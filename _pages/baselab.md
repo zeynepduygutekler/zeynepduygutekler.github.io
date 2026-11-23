@@ -88,7 +88,7 @@ html, body { overflow-x: hidden; }
 .bl-hl { color: #2a9d8f; font-weight: 700; }
 
 /* ── Orbit diagram ── */
-.bl-diagram { width: 300px; height: 300px; flex-shrink: 0; position: relative; }
+.bl-diagram { width: 300px; height: 300px; flex-shrink: 0; position: relative; padding-top: 32px; }
 .bl-orb-ring { position: absolute; inset: 0; width: 100%; height: 100%; }
 .bl-orb-center {
   position: absolute; top: 50%; left: 50%;
