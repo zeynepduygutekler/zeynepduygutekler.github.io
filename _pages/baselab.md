@@ -314,7 +314,7 @@ html, body { overflow-x: hidden; }
           <li>Occupant behaviour, preferences and occupancy</li>
           <li>Personalised thermal comfort</li>
           <li>Indoor environmental quality, health and wellbeing</li>
-          <li>Human-building interaction and occupant-centric strategies</li>
+          <li>Human-building interaction</li>
         </ul>
       </div>
     </div>
