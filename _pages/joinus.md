@@ -373,7 +373,12 @@ html, body { overflow-x: hidden; }
   <details class="ju-acc ju-slate">
     <summary><i class="fas fa-book-open ju-acc-icon"></i><span class="ju-acc-title">Master's Students (NTU)</span><i class="fas fa-chevron-down ju-acc-arrow"></i></summary>
     <div class="ju-acc-body">
-      <p style="font-size:0.83em; color:#444; line-height:1.62; margin:12px 0 0;">NTU MSc and MEng students interested in dissertations or collaborative research in AI, sensing, building systems, or energy are welcome to reach out. Please attach your academic transcript and a short paragraph on your area of interest.</p>
+      <p style="font-size:0.83em; color:#444; line-height:1.62; margin:12px 0 8px;">We welcome NTU Master's students interested in research on AI, sensing, building systems, occupant behaviour, or energy. Two routes are available:</p>
+      <p style="font-size:0.82em; font-weight:700; color:#0d2244; margin:10px 0 3px; text-transform:uppercase; letter-spacing:0.06em;">MSc / MEng by Research</p>
+      <p style="font-size:0.83em; color:#444; line-height:1.62; margin:0 0 8px;">NTU offers two annual intakes (August and January). Applications are typically due 4–6 months before the intended start date. If you are interested, please get in touch well ahead of the deadline. Send your CV, academic transcript, and a short cover letter describing your research interests and why you would like to join BASE Lab.</p>
+      <p style="font-size:0.82em; font-weight:700; color:#0d2244; margin:10px 0 3px; text-transform:uppercase; letter-spacing:0.06em;">MSc by Coursework (Dissertation / Independent Project)</p>
+      <p style="font-size:0.83em; color:#444; line-height:1.62; margin:0 0 8px;">If you are already enrolled in an NTU MSc programme and are looking for a dissertation supervisor or an independent research project, please get in touch at the start of each semester to discuss available topics and project fit.</p>
+      <p style="font-size:0.79em; color:#888; line-height:1.6; margin:10px 0 0;"><i class="fas fa-info-circle" style="color:#457b9d; margin-right:4px;"></i>Master's programmes are self-funded. BASE Lab does not provide tuition fee support or a stipend for Master's students unless a specific funded project is available.</p>
     </div>
   </details>
 
@@ -381,7 +386,14 @@ html, body { overflow-x: hidden; }
   <details class="ju-acc ju-slate">
     <summary><i class="fas fa-user-graduate ju-acc-icon"></i><span class="ju-acc-title">Undergraduate Researchers (NTU)</span><i class="fas fa-chevron-down ju-acc-arrow"></i></summary>
     <div class="ju-acc-body">
-      <p style="font-size:0.83em; color:#444; line-height:1.62; margin:12px 0 0;">NTU undergraduates interested in <strong>Final Year Projects (FYP)</strong> or <strong>URECA</strong> research are encouraged to reach out. Please include your transcript and a sentence or two on which research topic interests you most.</p>
+      <p style="font-size:0.83em; color:#444; line-height:1.62; margin:12px 0 8px;">NTU undergraduates are welcome to get involved in research through the following programmes:</p>
+      <p style="font-size:0.82em; font-weight:700; color:#0d2244; margin:10px 0 3px; text-transform:uppercase; letter-spacing:0.06em;">Final Year Project (FYP)</p>
+      <p style="font-size:0.83em; color:#444; line-height:1.62; margin:0 0 8px;">We offer FYP topics in areas such as AI for building energy management, occupant sensing and behaviour modelling, agentic systems for smart buildings, and data-driven HVAC optimisation. If you are interested, reach out early — project slots are limited and filled on a first-come basis.</p>
+      <p style="font-size:0.82em; font-weight:700; color:#0d2244; margin:10px 0 3px; text-transform:uppercase; letter-spacing:0.06em;">URECA (Undergraduate Research Experience on Campus)</p>
+      <p style="font-size:0.83em; color:#444; line-height:1.62; margin:0 0 8px;">URECA provides a funded research opportunity for high-achieving undergraduates to work on live research projects alongside the team. We welcome applications from motivated students who can commit consistently to the project.</p>
+      <p style="font-size:0.82em; font-weight:700; color:#0d2244; margin:10px 0 3px; text-transform:uppercase; letter-spacing:0.06em;">Independent Research Project (IRP) &amp; Summer Research</p>
+      <p style="font-size:0.83em; color:#444; line-height:1.62; margin:0 0 8px;">Students interested in short-term or summer research attachments are welcome to get in touch. Please note that BASE Lab cannot provide financial support for self-funded summer research at this time.</p>
+      <p style="font-size:0.79em; color:#888; line-height:1.6; margin:10px 0 0;"><i class="fas fa-paper-plane" style="color:#457b9d; margin-right:4px;"></i>To apply for any of the above, email me with your CV, academic transcript, and a short paragraph on the research area that interests you most and why.</p>
     </div>
   </details>
 </div>
