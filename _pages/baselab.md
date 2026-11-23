@@ -231,8 +231,10 @@ html, body { overflow-x: hidden; }
         <h2>Our Mission</h2>
       </div>
       <p>BASE Lab develops intelligent and adaptive systems that enable built environments to <span class="bl-hl">sense</span>, <span class="bl-hl">learn</span>, <span class="bl-hl">predict</span>, and <span class="bl-hl">respond</span> to the needs of people and changing environmental conditions.</p>
-      <p>We work at the intersection of artificial intelligence, building science, and human-centred approaches to translate data-driven research into real-world building applications. Our research aims to improve building performance, energy efficiency, and occupant wellbeing for responsive and sustainable built environments.</p>
-      <p style="margin-top:20px;">We are growing our team — <a href="/joinus/" style="color:#2a9d8f; font-weight:600;">Join Us →</a></p>
+      <p>We work at the intersection of artificial intelligence, building science, and human-centred approaches to translate data-driven research into real-world building applications. Our research aims to improve building performance, energy efficiency, and occupant wellbeing for <strong>responsive and sustainable built environments</strong>.</p>
+      <div style="margin-top:24px;">
+        <a href="/joinus/" style="display:inline-block; padding:11px 26px; background:#2a9d8f; color:#fff; font-weight:600; font-size:0.92em; border-radius:5px; text-decoration:none; letter-spacing:0.03em;">Interested in joining BASE Lab? &nbsp;→</a>
+      </div>
     </div>
     <div class="bl-diagram">
       <svg class="bl-orb-ring" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
