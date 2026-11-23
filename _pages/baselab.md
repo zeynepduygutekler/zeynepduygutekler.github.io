@@ -335,7 +335,7 @@ html, body { overflow-x: hidden; }
           <li>Predictive, adaptive and learning-based control</li>
           <li>HVAC and indoor climate optimisation</li>
           <li>Building automation and systems integration</li>
-          <li>Fault detection, diagnostics and resilient operations</li>
+          <li>Fault diagnostics and resilient operations</li>
         </ul>
       </div>
     </div>
