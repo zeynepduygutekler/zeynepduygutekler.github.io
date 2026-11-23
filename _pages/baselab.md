@@ -290,7 +290,7 @@ html, body { overflow-x: hidden; }
         <div class="bl-thrust-tagline">Developing data-driven intelligence to understand and anticipate building performance and changing conditions.</div>
         <div class="bl-al">Research Areas</div>
         <ul class="bl-areas">
-          <li>Machine learning and time-series analytics</li>
+          <li>Machine learning, deep learning and time-series analytics</li>
           <li>Multimodal sensing, IoT and data fusion</li>
           <li>Agentic AI and multi-agent systems</li>
           <li>Digital twins and data-driven modelling</li>
