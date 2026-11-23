@@ -80,7 +80,7 @@ html, body { overflow-x: hidden; }
 .bl-mission { padding-top: 32px; padding-bottom: 44px; padding-right: 80px; border-bottom: 1px solid #eaecf0; }
 .bl-mission-grid {
   display: grid; grid-template-columns: 1fr 340px;
-  gap: 48px; align-items: start;
+  gap: 48px; align-items: center;
 }
 .bl-mission-text { padding-right: 84px; padding-top: 24px; }
 .bl-mission-text p { font-size: 1.02em; color: #333; line-height: 1.85; margin: 0 0 16px; }
