@@ -258,104 +258,112 @@ html, body { overflow-x: hidden; }
     <summary><i class="fas fa-graduation-cap ju-acc-icon"></i><span class="ju-acc-title">PhD Students</span><span class="ju-acc-badge">Actively Recruiting · Aug 2027</span><i class="fas fa-chevron-down ju-acc-arrow"></i></summary>
     <div class="ju-acc-body">
       <p style="font-size:0.83em; color:#444; line-height:1.62; margin:12px 0 10px;">Open to Singaporeans, Singapore PRs, and international students with a strong background in engineering, computer science, data science, or a related field. Actively recruiting for the <strong>August 2027 intake</strong>.</p>
-      <div style="display:grid; grid-template-columns: 1fr 1fr; gap: 12px 36px; margin-top:10px;">
+      <div style="margin-top:10px;">
 
-        <div style="border-right: 1px solid #eaecf0; padding-right: 32px; min-width: 0;">
-          <p style="font-size:0.79em; font-weight:700; color:#0d2244; margin:0 0 6px; text-transform:uppercase; letter-spacing:0.07em;"><i class="fas fa-university" style="color:#2a9d8f; margin-right:5px;"></i>NTU MAE PhD Programme</p>
-          <p style="font-size:0.82em; color:#444; margin:0 0 10px; line-height:1.62;">The primary route for PhD admission at NTU. Successful applicants are considered for the <strong>NTU Research Scholarship (RSS)</strong> and <strong>Provost's Graduate Award (PGA)</strong> — covering tuition and a monthly stipend.</p>
-          <div style="background:#f0f8f7; border:1px solid #c8e6e2; border-radius:7px; padding:12px 15px; margin-bottom:12px;">
-            <p style="font-size:0.79em; font-weight:700; color:#0d2244; margin:0 0 7px;">How it works</p>
-            <ul style="margin:0; padding-left:16px;">
-              <li style="font-size:0.82em; color:#444; margin-bottom:5px;">Contact me first — email your CV and a research statement. See <a href="#how-to-apply" style="color:#2a9d8f;font-weight:600;">How to Apply</a> below.</li>
-              <li style="font-size:0.82em; color:#444; margin-bottom:5px;">Apply via the <a href="https://www.ntu.edu.sg/education/graduate-programme/mae-phd" target="_blank" style="color:#2a9d8f;font-weight:600;">NTU graduate admissions portal</a></li>
-              <li style="font-size:0.82em; color:#444;">Shortlisted candidates will be invited for an interview</li>
-            </ul>
-          </div>
-          <p style="font-size:0.79em; font-weight:700; color:#0d2244; margin:0 0 5px;">Intake Deadlines</p>
-          <ul style="margin:0 0 8px; padding-left:17px;">
-            <li style="font-size:0.82em; color:#444; margin-bottom:4px;">August 2027 Intake: deadline <strong>31 January</strong> (portal opens 1 Oct 2026)</li>
-            <li style="font-size:0.82em; color:#444; margin-bottom:4px;">January 2028 Intake: deadline <strong>31 July</strong> (portal opens 1 Jun 2027)</li>
+        <p style="font-size:0.79em; font-weight:700; color:#0d2244; margin:0 0 6px; text-transform:uppercase; letter-spacing:0.07em;"><i class="fas fa-university" style="color:#2a9d8f; margin-right:5px;"></i>NTU MAE PhD Programme</p>
+        <p style="font-size:0.82em; color:#444; margin:0 0 10px; line-height:1.62;">The primary route for PhD admission at NTU. Successful applicants are considered for the <strong>NTU Research Scholarship (RSS)</strong> and <strong>Provost's Graduate Award (PGA)</strong> — covering tuition and a monthly stipend.</p>
+        <div style="background:#f0f8f7; border:1px solid #c8e6e2; border-radius:7px; padding:12px 15px; margin-bottom:12px;">
+          <p style="font-size:0.79em; font-weight:700; color:#0d2244; margin:0 0 7px;">How it works</p>
+          <ul style="margin:0; padding-left:16px;">
+            <li style="font-size:0.82em; color:#444; margin-bottom:5px;">Contact me first — email your CV and a research statement. See <a href="#how-to-apply" style="color:#2a9d8f;font-weight:600;">How to Apply</a> below.</li>
+            <li style="font-size:0.82em; color:#444; margin-bottom:5px;">Apply via the <a href="https://www.ntu.edu.sg/education/graduate-programme/mae-phd" target="_blank" style="color:#2a9d8f;font-weight:600;">NTU graduate admissions portal</a></li>
+            <li style="font-size:0.82em; color:#444;">Shortlisted candidates will be invited for an interview</li>
           </ul>
-          <p style="font-size:0.79em; color:#555; margin:0; line-height:1.65;">Before starting this process, please read through the <a href="https://www.ntu.edu.sg/admissions/graduate/radmissionguide?utm" target="_blank" style="color:#2a9d8f;font-weight:600;">NTU Graduate Admission Guidelines</a> carefully to understand the full process, eligibility, and document requirements.</p>
         </div>
+        <p style="font-size:0.79em; font-weight:700; color:#0d2244; margin:0 0 5px;">Intake Deadlines</p>
+        <ul style="margin:0 0 8px; padding-left:17px;">
+          <li style="font-size:0.82em; color:#444; margin-bottom:4px;">August 2027 Intake: deadline <strong>31 January</strong> (portal opens 1 Oct 2026)</li>
+          <li style="font-size:0.82em; color:#444; margin-bottom:4px;">January 2028 Intake: deadline <strong>31 July</strong> (portal opens 1 Jun 2027)</li>
+        </ul>
+        <p style="font-size:0.79em; color:#555; margin:0 0 20px; line-height:1.65;">Before starting this process, please read through the <a href="https://www.ntu.edu.sg/admissions/graduate/radmissionguide?utm" target="_blank" style="color:#2a9d8f;font-weight:600;">NTU Graduate Admission Guidelines</a> carefully to understand the full process, eligibility, and document requirements.</p>
 
-        <div style="min-width: 0;">
-          <p style="font-size:0.79em; font-weight:700; color:#0d2244; margin:0 0 6px; text-transform:uppercase; letter-spacing:0.07em;"><i class="fas fa-award" style="color:#2a9d8f; margin-right:5px;"></i>Other PhD Scholarships</p>
-          <p style="font-size:0.79em; color:#666; margin:0 0 10px; line-height:1.55;">The following scholarships are either <strong>university-funded</strong> (awarded by NTU) or <strong>externally funded</strong> (by Singapore government agencies or international bodies), and require separate applications with their own deadlines. Please check each official website for current deadlines and eligibility. If you are interested, email me your CV and indicate your intended scholarship.</p>
-          <details class="ju-sub-acc">
-            <summary><i class="fas fa-list" style="color:#2a9d8f;"></i> View scholarships <i class="fas fa-chevron-down ju-sub-arrow"></i></summary>
-            <div class="ju-sub-acc-body">
-              <div class="ju-scholar-wrap">
-                <table class="ju-scholar-table">
-                  <thead>
-                    <tr>
-                      <th>Scholarship</th>
-                      <th>Eligibility</th>
-                      <th>Typical Deadline</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr><td colspan="3" class="ju-st-cat">NTU / UNIVERSITY-FUNDED</td></tr>
-                    <tr>
-                      <td><a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/npgs" target="_blank" class="ju-st-name">NPGS</a><span class="ju-st-sub">Nanyang President's Graduate Scholarship</span></td>
-                      <td>All nationalities</td>
-                      <td>Nomination by NTU — no direct application</td>
-                    </tr>
-                    <tr>
-                      <td><a href="https://www.ntu.edu.sg/graduate-college/admissions/scholarships/yunqi-phd-scholarship-in-science-and-technology" target="_blank" class="ju-st-name">Yunqi PhD Scholarship</a><span class="ju-st-sub">Science &amp; Technology</span></td>
-                      <td>All nationalities</td>
-                      <td>Check <a href="https://www.ntu.edu.sg/graduate-college/admissions/scholarships/yunqi-phd-scholarship-in-science-and-technology" target="_blank" style="color:#2a9d8f;">NTU portal</a></td>
-                    </tr>
-                    <tr><td colspan="3" class="ju-st-cat ext">SINGAPORE GOVERNMENT / AGENCY</td></tr>
-                    <tr>
-                      <td><a href="https://aisingapore.org/research/phd-fellowship-programme/" target="_blank" class="ju-st-name">AISG PhD Fellowship</a><span class="ju-st-sub">AI Singapore</span></td>
-                      <td>All nationalities (SG/PR/ASEAN encouraged)</td>
-                      <td>Annual — check <a href="https://aisingapore.org/research/phd-fellowship-programme/" target="_blank" style="color:#2a9d8f;">AISG website</a></td>
-                    </tr>
-                    <tr>
-                      <td><a href="https://www.a-star.edu.sg/scholarships/home/scholarships/ags--scholarship" target="_blank" class="ju-st-name">A*STAR Graduate Scholarship (AGS)</a><span class="ju-st-sub">A*STAR</span></td>
-                      <td>All nationalities</td>
-                      <td>Twice yearly (~Mar &amp; Sep)</td>
-                    </tr>
-                    <tr>
-                      <td><a href="https://www.a-star.edu.sg/Scholarships" target="_blank" class="ju-st-name">SINGA</a><span class="ju-st-sub">Singapore International Graduate Award</span></td>
-                      <td>International students</td>
-                      <td>Annual (~Jun for Jan intake)</td>
-                    </tr>
-                    <tr>
-                      <td><a href="https://www.psc.gov.sg/scholarships/postgraduate-scholarships/lee-kuan-yew-scholarship" target="_blank" class="ju-st-name">Lee Kuan Yew Scholarship</a><span class="ju-st-sub">Public Service Commission</span></td>
-                      <td>Singapore citizens only</td>
-                      <td>Annual — check <a href="https://www.psc.gov.sg/scholarships/postgraduate-scholarships/lee-kuan-yew-scholarship" target="_blank" style="color:#2a9d8f;">PSC website</a></td>
-                    </tr>
-                    <tr>
-                      <td><a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships" target="_blank" class="ju-st-name">EDB Industrial Postgraduate Programme (IPP)</a><span class="ju-st-sub">EDB + Industry Partner</span></td>
-                      <td>Singapore citizens &amp; PRs</td>
-                      <td>Ongoing — check <a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships" target="_blank" style="color:#2a9d8f;">NTU portal</a></td>
-                    </tr>
-                    <tr><td colspan="3" class="ju-st-cat ext">INTERNATIONAL / COUNTRY-SPECIFIC</td></tr>
-                    <tr>
-                      <td><a href="https://www.csc.edu.cn/studyabroad" target="_blank" class="ju-st-name">China Scholarship Council (CSC)</a><span class="ju-st-sub">Chinese Government</span></td>
-                      <td>Chinese citizens</td>
-                      <td>Annual (~Mar–Apr); apply to CSC and NTU separately</td>
-                    </tr>
-                    <tr>
-                      <td><a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships" target="_blank" class="ju-st-name">LPDP–NTU Graduate Scholarship</a><span class="ju-st-sub">Indonesian Government</span></td>
-                      <td>Indonesian citizens</td>
-                      <td>Multiple rounds — check <a href="https://www.lpdp.kemenkeu.go.id" target="_blank" style="color:#2a9d8f;">LPDP website</a></td>
-                    </tr>
-                    <tr>
-                      <td><a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships" target="_blank" class="ju-st-name">VinGroup Graduate Scholarship</a><span class="ju-st-sub">VinGroup (Vietnam)</span></td>
-                      <td>Vietnamese citizens</td>
-                      <td>Annual — check <a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships" target="_blank" style="color:#2a9d8f;">NTU portal</a></td>
-                    </tr>
-                  </tbody>
-                </table>
-              </div>
+        <p style="font-size:0.79em; font-weight:700; color:#0d2244; margin:0 0 6px; text-transform:uppercase; letter-spacing:0.07em;"><i class="fas fa-award" style="color:#2a9d8f; margin-right:5px;"></i>Other PhD Scholarships</p>
+        <p style="font-size:0.79em; color:#666; margin:0 0 10px; line-height:1.55;">The following scholarships are either <strong>university-funded</strong> (awarded by NTU) or <strong>externally funded</strong> (by Singapore government agencies or international bodies), and require separate applications with their own deadlines. Please check each official website for current deadlines and eligibility. If you are interested, email me your CV and indicate your intended scholarship.</p>
+        <details class="ju-sub-acc">
+          <summary><i class="fas fa-list" style="color:#2a9d8f;"></i> View scholarships <i class="fas fa-chevron-down ju-sub-arrow"></i></summary>
+          <div class="ju-sub-acc-body">
+            <div class="ju-scholar-wrap">
+              <table class="ju-scholar-table">
+                <thead>
+                  <tr>
+                    <th>Scholarship</th>
+                    <th>Eligibility</th>
+                    <th>Typical Deadline</th>
+                    <th>Details</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr><td colspan="4" class="ju-st-cat">NTU / UNIVERSITY-FUNDED</td></tr>
+                  <tr>
+                    <td><a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/npgs" target="_blank" class="ju-st-name">NPGS</a><span class="ju-st-sub">Nanyang President's Graduate Scholarship</span></td>
+                    <td>All nationalities</td>
+                    <td>Nomination by NTU — no direct application</td>
+                    <td>Full tuition, monthly stipend, and annual conference allowance. Highly competitive; NTU nominates candidates internally.</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://www.ntu.edu.sg/graduate-college/admissions/scholarships/yunqi-phd-scholarship-in-science-and-technology" target="_blank" class="ju-st-name">Yunqi PhD Scholarship</a><span class="ju-st-sub">Science &amp; Technology</span></td>
+                    <td>All nationalities</td>
+                    <td>Check <a href="https://www.ntu.edu.sg/graduate-college/admissions/scholarships/yunqi-phd-scholarship-in-science-and-technology" target="_blank" style="color:#2a9d8f;">NTU portal</a></td>
+                    <td>Full tuition and monthly stipend for PhD candidates in science and technology at NTU.</td>
+                  </tr>
+                  <tr><td colspan="4" class="ju-st-cat ext">SINGAPORE GOVERNMENT / AGENCY</td></tr>
+                  <tr>
+                    <td><a href="https://aisingapore.org/research/phd-fellowship-programme/" target="_blank" class="ju-st-name">AISG PhD Fellowship</a><span class="ju-st-sub">AI Singapore</span></td>
+                    <td>All nationalities (SG/PR/ASEAN encouraged)</td>
+                    <td>Annual — check <a href="https://aisingapore.org/research/phd-fellowship-programme/" target="_blank" style="color:#2a9d8f;">AISG website</a></td>
+                    <td>Full tuition, monthly stipend, and conference travel support. Focused on AI fundamental research. Nomination-based.</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://www.a-star.edu.sg/scholarships/home/scholarships/ags--scholarship" target="_blank" class="ju-st-name">A*STAR Graduate Scholarship (AGS)</a><span class="ju-st-sub">A*STAR</span></td>
+                    <td>All nationalities</td>
+                    <td>Twice yearly (~Mar &amp; Sep)</td>
+                    <td>Full tuition, monthly stipend, and overseas research attachment support. International awardees commit to 3 years of work in Singapore post-graduation.</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://www.a-star.edu.sg/Scholarships" target="_blank" class="ju-st-name">SINGA</a><span class="ju-st-sub">Singapore International Graduate Award</span></td>
+                    <td>International students</td>
+                    <td>Annual (~Jun for Jan intake)</td>
+                    <td>Full tuition, monthly stipend, and one-time airfare grant. Joint A*STAR–NTU PhD programme.</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://www.psc.gov.sg/scholarships/postgraduate-scholarships/lee-kuan-yew-scholarship" target="_blank" class="ju-st-name">Lee Kuan Yew Scholarship</a><span class="ju-st-sub">Public Service Commission</span></td>
+                    <td>Singapore citizens only</td>
+                    <td>Annual — check <a href="https://www.psc.gov.sg/scholarships/postgraduate-scholarships/lee-kuan-yew-scholarship" target="_blank" style="color:#2a9d8f;">PSC website</a></td>
+                    <td>Full tuition and generous annual allowance for up to 5 years. Highly competitive; no bond requirement.</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships" target="_blank" class="ju-st-name">EDB Industrial Postgraduate Programme (IPP)</a><span class="ju-st-sub">EDB + Industry Partner</span></td>
+                    <td>Singapore citizens &amp; PRs</td>
+                    <td>Ongoing — check <a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships" target="_blank" style="color:#2a9d8f;">NTU portal</a></td>
+                    <td>Industry co-funded PhD with an EDB industry partner. Applied research focus relevant to energy, built environment, and AI.</td>
+                  </tr>
+                  <tr><td colspan="4" class="ju-st-cat ext">INTERNATIONAL / COUNTRY-SPECIFIC</td></tr>
+                  <tr>
+                    <td><a href="https://www.csc.edu.cn/studyabroad" target="_blank" class="ju-st-name">China Scholarship Council (CSC)</a><span class="ju-st-sub">Chinese Government</span></td>
+                    <td>Chinese citizens</td>
+                    <td>Annual (~Mar–Apr); apply to CSC and NTU separately</td>
+                    <td>Covers tuition, monthly stipend, one round-trip airfare, and health insurance. Students apply to CSC and NTU independently.</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships" target="_blank" class="ju-st-name">LPDP–NTU Graduate Scholarship</a><span class="ju-st-sub">Indonesian Government</span></td>
+                    <td>Indonesian citizens</td>
+                    <td>Multiple rounds — check <a href="https://www.lpdp.kemenkeu.go.id" target="_blank" style="color:#2a9d8f;">LPDP website</a></td>
+                    <td>Full tuition, monthly stipend, and research support. Indonesia's prestigious government scholarship; NTU is a supported partner institution.</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships" target="_blank" class="ju-st-name">VinGroup Graduate Scholarship</a><span class="ju-st-sub">VinGroup (Vietnam)</span></td>
+                    <td>Vietnamese citizens</td>
+                    <td>Annual — check <a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships" target="_blank" style="color:#2a9d8f;">NTU portal</a></td>
+                    <td>Tuition and monthly stipend for STEM PhD students at NTU. Funded by Vietnam's VinGroup foundation.</td>
+                  </tr>
+                </tbody>
+              </table>
             </div>
-          </details>
-          <p style="font-size:0.79em; font-weight:700; color:#0d2244; margin:16px 0 5px; text-transform:uppercase; letter-spacing:0.06em;">Self-Funded &amp; Part-Time PhD</p>
-          <p style="font-size:0.79em; color:#666; line-height:1.6; margin:0;">Self-funded and externally funded applicants are welcome to apply. Part-time PhD study may be available to working professionals, subject to NTU's admission requirements. Please contact me to discuss your circumstances and suitability before applying.</p>
-        </div>
+          </div>
+        </details>
+
+        <p style="font-size:0.79em; font-weight:700; color:#0d2244; margin:20px 0 5px; text-transform:uppercase; letter-spacing:0.06em;">Self-Funded &amp; Part-Time PhD</p>
+        <p style="font-size:0.79em; color:#666; line-height:1.6; margin:0;">Self-funded and externally funded applicants are welcome to apply. Part-time PhD study may be available to working professionals, subject to NTU's admission requirements. Please contact me to discuss your circumstances and suitability before applying.</p>
 
       </div>
     </div>
