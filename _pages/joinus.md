@@ -344,7 +344,7 @@ html, body { overflow-x: hidden; }
                     <td>Industry co-funded PhD with an EDB industry partner. Applied research focus relevant to energy, built environment, and AI.</td>
                   </tr>
                   <tr>
-                    <td><a href="https://www.csc.edu.cn/studyabroad" target="_blank" class="ju-st-name">China Scholarship Council (CSC)</a><span class="ju-st-sub">Chinese Government</span></td>
+                    <td><a href="https://www.chinesescholarshipcouncil.com/" target="_blank" class="ju-st-name">China Scholarship Council (CSC)</a><span class="ju-st-sub">Chinese Government</span></td>
                     <td>Chinese citizens</td>
                     <td>Annual (~Mar–Apr); apply to CSC and NTU separately</td>
                     <td>Covers tuition, monthly stipend, one round-trip airfare, and health insurance. Students apply to CSC and NTU independently.</td>
