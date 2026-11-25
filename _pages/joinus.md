@@ -406,12 +406,6 @@ html, body { overflow-x: hidden; }
               <tbody>
                 <tr><td colspan="4" class="ju-st-cat ext">NTU-BASED</td></tr>
                 <tr>
-                  <td><a href="https://www.ntu.edu.sg/research/research-careers" target="_blank" class="ju-st-name">NTU Postdoctoral Fellowship</a><span class="ju-st-sub">Nanyang Technological University</span></td>
-                  <td>All nationalities; within 3 years of PhD</td>
-                  <td>Annual — check <a href="https://www.ntu.edu.sg/research/research-careers" target="_blank" style="color:#2a9d8f;">NTU website</a></td>
-                  <td>Competitive internal fellowship. Covers full salary and a research budget.</td>
-                </tr>
-                <tr>
                   <td><a href="https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-(lkypdf)" target="_blank" class="ju-st-name">Lee Kuan Yew Postdoctoral Fellowship</a><span class="ju-st-sub">Nanyang Technological University</span></td>
                   <td>All nationalities; early-career researchers</td>
                   <td>25 Nov – 10 Feb — check <a href="https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-(lkypdf)" target="_blank" style="color:#2a9d8f;">NTU website</a></td>
