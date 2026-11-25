@@ -404,7 +404,6 @@ html, body { overflow-x: hidden; }
                 </tr>
               </thead>
               <tbody>
-                <tr><td colspan="4" class="ju-st-cat ext">NTU-BASED</td></tr>
                 <tr>
                   <td><a href="https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-(lkypdf)" target="_blank" class="ju-st-name">Lee Kuan Yew Postdoctoral Fellowship</a><span class="ju-st-sub">Nanyang Technological University</span></td>
                   <td>All nationalities; early-career researchers</td>
