@@ -414,25 +414,25 @@ html, body { overflow-x: hidden; }
                 <tr>
                   <td><a href="https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-(lkypdf)" target="_blank" class="ju-st-name">Lee Kuan Yew Postdoctoral Fellowship</a><span class="ju-st-sub">Nanyang Technological University</span></td>
                   <td>All nationalities; early-career researchers</td>
-                  <td>Annual — check <a href="https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-(lkypdf)" target="_blank" style="color:#2a9d8f;">NTU website</a></td>
+                  <td>25 Nov – 10 Feb — check <a href="https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-(lkypdf)" target="_blank" style="color:#2a9d8f;">NTU website</a></td>
                   <td>Prestigious NTU fellowship for outstanding early-career researchers. Covers full salary, research allowances, and travel support.</td>
                 </tr>
                 <tr>
                   <td><a href="https://www.ntu.edu.sg/research/research-careers/presidential-postdoctoral-fellowship-(ppf)" target="_blank" class="ju-st-name">Presidential Postdoctoral Fellowship (PPF)</a><span class="ju-st-sub">Nanyang Technological University</span></td>
                   <td>All nationalities; within 5 years of PhD</td>
-                  <td>Annual (~Jan–Feb) — check <a href="https://www.ntu.edu.sg/research/research-careers/presidential-postdoctoral-fellowship-(ppf)" target="_blank" style="color:#2a9d8f;">NTU website</a></td>
+                  <td>Varies by scheme (~31 Dec for Wallenberg) — check <a href="https://www.ntu.edu.sg/research/research-careers/presidential-postdoctoral-fellowship-(ppf)" target="_blank" style="color:#2a9d8f;">NTU website</a></td>
                   <td>Competitive salary, up to SGD $100,000/year research grant, and housing support. Includes Wallenberg-NTU PPF (AI &amp; autonomous systems) and SP Group–NTU PPF (energy &amp; power systems) schemes.</td>
                 </tr>
                 <tr>
                   <td><a href="https://www.ntu.edu.sg/research/research-careers/the-eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship" target="_blank" class="ju-st-name">Schmidt AI in Science Fellowship</a><span class="ju-st-sub">Eric &amp; Wendy Schmidt / NTU</span></td>
                   <td>All nationalities; within 3 years of PhD; AI applied to engineering or natural sciences</td>
-                  <td>Annual — check <a href="https://www.ntu.edu.sg/research/research-careers/the-eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship" target="_blank" style="color:#2a9d8f;">NTU website</a></td>
+                  <td>Annual (deadline 31 Dec) — check <a href="https://www.ntu.edu.sg/research/research-careers/the-eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship" target="_blank" style="color:#2a9d8f;">NTU website</a></td>
                   <td>Two-year fellowship covering salary, travel, and AI training. Research cannot be in computer science itself.</td>
                 </tr>
                 <tr>
                   <td><a href="https://www.ntu.edu.sg/research/research-careers/ntu-ai-for-x-postdoctoral-fellowship" target="_blank" class="ju-st-name">NTU AI-for-X Postdoctoral Fellowship (AI4X)</a><span class="ju-st-sub">Nanyang Technological University</span></td>
                   <td>All nationalities; early-career researchers</td>
-                  <td>Annual — check <a href="https://www.ntu.edu.sg/research/research-careers/ntu-ai-for-x-postdoctoral-fellowship" target="_blank" style="color:#2a9d8f;">NTU website</a></td>
+                  <td>Annual (deadline ~30 Oct) — check <a href="https://www.ntu.edu.sg/research/research-careers/ntu-ai-for-x-postdoctoral-fellowship" target="_blank" style="color:#2a9d8f;">NTU website</a></td>
                   <td>Fellowship for early-career researchers applying AI to diverse domains. Supports independent AI-driven research.</td>
                 </tr>
                 <tr>
