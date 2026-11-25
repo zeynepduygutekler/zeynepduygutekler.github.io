@@ -257,7 +257,7 @@ html, body { overflow-x: hidden; }
   <details class="ju-acc">
     <summary><i class="fas fa-graduation-cap ju-acc-icon"></i><span class="ju-acc-title">PhD Students</span><span class="ju-acc-badge">Actively Recruiting · Aug 2027</span><i class="fas fa-chevron-down ju-acc-arrow"></i></summary>
     <div class="ju-acc-body">
-      <p style="font-size:0.83em; color:#444; line-height:1.62; margin:12px 0 10px;">Open to Singaporeans, Singapore PRs, and international students with a strong background in engineering, computer science, data science, or a related field. Actively recruiting for the <strong>August 2027 intake</strong>.</p>
+      <p style="font-size:0.83em; color:#444; line-height:1.62; margin:12px 0 10px;">Open to Singaporeans, Singapore PRs, and international students with a strong background in engineering, data science, built environment, or a related field. Actively recruiting for the <strong>August 2027 intake</strong>.</p>
       <div style="margin-top:10px;">
 
         <p style="font-size:0.79em; font-weight:700; color:#0d2244; margin:0 0 6px; text-transform:uppercase; letter-spacing:0.07em;"><i class="fas fa-university" style="color:#2a9d8f; margin-right:5px;"></i>NTU MAE PhD Programme</p>
@@ -393,17 +393,77 @@ html, body { overflow-x: hidden; }
       <details class="ju-sub-acc">
         <summary><i class="fas fa-list" style="color:#2a9d8f;"></i> View fellowship opportunities <i class="fas fa-chevron-down ju-sub-arrow"></i></summary>
         <div class="ju-sub-acc-body">
-          <ul style="margin:6px 0 0; padding-left:17px;">
-            <li style="font-size:0.86em; color:#444; margin-bottom:8px; line-height:1.6;"><a href="https://www.ntu.edu.sg/research/research-careers" target="_blank" style="color:#2a9d8f;font-weight:600;">NTU Postdoctoral Fellowship</a> — NTU's competitive internal fellowship for researchers within 3 years of their PhD. Covers full salary and a research budget.</li>
-            <li style="font-size:0.86em; color:#444; margin-bottom:8px; line-height:1.6;"><a href="https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-(lkypdf)" target="_blank" style="color:#2a9d8f;font-weight:600;">Lee Kuan Yew Postdoctoral Fellowship</a> — NTU's prestigious fellowship for outstanding early-career researchers. Covers full salary, research allowances, and travel support.</li>
-            <li style="font-size:0.86em; color:#444; margin-bottom:8px; line-height:1.6;"><a href="https://www.ntu.edu.sg/research/research-careers/presidential-postdoctoral-fellowship-(ppf)" target="_blank" style="color:#2a9d8f;font-weight:600;">Presidential Postdoctoral Fellowship (PPF)</a> — NTU fellowship for early-career researchers within 5 years of their PhD. Provides a competitive salary, up to SGD $100,000/year research grant, and housing support. Includes specialised schemes such as the Wallenberg-NTU PPF (AI and autonomous systems) and the SP Group–NTU PPF (energy and power systems).</li>
-            <li style="font-size:0.86em; color:#444; margin-bottom:8px; line-height:1.6;"><a href="https://www.ntu.edu.sg/research/research-careers/the-eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship" target="_blank" style="color:#2a9d8f;font-weight:600;">Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship</a> — Two-year NTU fellowship for researchers within 3 years of their PhD applying AI to engineering or the natural sciences. Covers salary, travel, and AI training. Research cannot be in computer science itself.</li>
-            <li style="font-size:0.86em; color:#444; margin-bottom:8px; line-height:1.6;"><a href="https://www.nrf.gov.sg/grants/nrff/" target="_blank" style="color:#2a9d8f;font-weight:600;">NRF Fellowship (Singapore)</a> — Highly competitive national fellowship supporting early-career researchers in establishing an independent research programme in Singapore. Comes with a substantial 5-year grant.</li>
-            <li style="font-size:0.86em; color:#444; margin-bottom:8px; line-height:1.6;"><a href="https://www.a-star.edu.sg/Scholarships" target="_blank" style="color:#2a9d8f;font-weight:600;">A*STAR Research Fellowship Singapore</a> — For Singapore citizens and PRs. Supports postdoctoral research at A*STAR institutes or local universities, with a focus on applied research.</li>
-            <li style="font-size:0.86em; color:#444; margin-bottom:8px; line-height:1.6;"><a href="https://marie-sklodowska-curie-actions.ec.europa.eu/" target="_blank" style="color:#2a9d8f;font-weight:600;">Marie Skłodowska-Curie Actions (MSCA)</a> — EU Horizon programme open to researchers of any nationality. Supports international mobility with salary, travel, and research cost allowances.</li>
-            <li style="font-size:0.86em; color:#444; margin-bottom:8px; line-height:1.6;"><a href="https://www.humboldt-foundation.de/" target="_blank" style="color:#2a9d8f;font-weight:600;">Alexander von Humboldt Research Fellowship</a> — Internationally recognised fellowship for researchers outside Germany to conduct extended research stays. Open to all career stages and nationalities.</li>
-            <li style="font-size:0.86em; color:#444; line-height:1.6;"><a href="https://www.ntu.edu.sg/research/research-careers/ntu-ai-for-x-postdoctoral-fellowship" target="_blank" style="color:#2a9d8f;font-weight:600;">NTU AI-for-X Postdoctoral Fellowship (AI4X)</a> — NTU fellowship for early-career researchers applying AI to diverse domains. Supports independent research with a focus on AI-driven applications.</li>
-          </ul>
+          <div class="ju-scholar-wrap">
+            <table class="ju-scholar-table">
+              <thead>
+                <tr>
+                  <th>Fellowship</th>
+                  <th>Eligibility</th>
+                  <th>Typical Deadline</th>
+                  <th>Details</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr><td colspan="4" class="ju-st-cat ext">NTU-BASED</td></tr>
+                <tr>
+                  <td><a href="https://www.ntu.edu.sg/research/research-careers" target="_blank" class="ju-st-name">NTU Postdoctoral Fellowship</a><span class="ju-st-sub">Nanyang Technological University</span></td>
+                  <td>All nationalities; within 3 years of PhD</td>
+                  <td>Annual — check <a href="https://www.ntu.edu.sg/research/research-careers" target="_blank" style="color:#2a9d8f;">NTU website</a></td>
+                  <td>Competitive internal fellowship. Covers full salary and a research budget.</td>
+                </tr>
+                <tr>
+                  <td><a href="https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-(lkypdf)" target="_blank" class="ju-st-name">Lee Kuan Yew Postdoctoral Fellowship</a><span class="ju-st-sub">Nanyang Technological University</span></td>
+                  <td>All nationalities; early-career researchers</td>
+                  <td>Annual — check <a href="https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-(lkypdf)" target="_blank" style="color:#2a9d8f;">NTU website</a></td>
+                  <td>Prestigious NTU fellowship for outstanding early-career researchers. Covers full salary, research allowances, and travel support.</td>
+                </tr>
+                <tr>
+                  <td><a href="https://www.ntu.edu.sg/research/research-careers/presidential-postdoctoral-fellowship-(ppf)" target="_blank" class="ju-st-name">Presidential Postdoctoral Fellowship (PPF)</a><span class="ju-st-sub">Nanyang Technological University</span></td>
+                  <td>All nationalities; within 5 years of PhD</td>
+                  <td>Annual (~Jan–Feb) — check <a href="https://www.ntu.edu.sg/research/research-careers/presidential-postdoctoral-fellowship-(ppf)" target="_blank" style="color:#2a9d8f;">NTU website</a></td>
+                  <td>Competitive salary, up to SGD $100,000/year research grant, and housing support. Includes Wallenberg-NTU PPF (AI &amp; autonomous systems) and SP Group–NTU PPF (energy &amp; power systems) schemes.</td>
+                </tr>
+                <tr>
+                  <td><a href="https://www.ntu.edu.sg/research/research-careers/the-eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship" target="_blank" class="ju-st-name">Schmidt AI in Science Fellowship</a><span class="ju-st-sub">Eric &amp; Wendy Schmidt / NTU</span></td>
+                  <td>All nationalities; within 3 years of PhD; AI applied to engineering or natural sciences</td>
+                  <td>Annual — check <a href="https://www.ntu.edu.sg/research/research-careers/the-eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship" target="_blank" style="color:#2a9d8f;">NTU website</a></td>
+                  <td>Two-year fellowship covering salary, travel, and AI training. Research cannot be in computer science itself.</td>
+                </tr>
+                <tr>
+                  <td><a href="https://www.ntu.edu.sg/research/research-careers/ntu-ai-for-x-postdoctoral-fellowship" target="_blank" class="ju-st-name">NTU AI-for-X Postdoctoral Fellowship (AI4X)</a><span class="ju-st-sub">Nanyang Technological University</span></td>
+                  <td>All nationalities; early-career researchers</td>
+                  <td>Annual — check <a href="https://www.ntu.edu.sg/research/research-careers/ntu-ai-for-x-postdoctoral-fellowship" target="_blank" style="color:#2a9d8f;">NTU website</a></td>
+                  <td>Fellowship for early-career researchers applying AI to diverse domains. Supports independent AI-driven research.</td>
+                </tr>
+                <tr><td colspan="4" class="ju-st-cat ext">SINGAPORE NATIONAL</td></tr>
+                <tr>
+                  <td><a href="https://www.nrf.gov.sg/grants/nrff/" target="_blank" class="ju-st-name">NRF Fellowship</a><span class="ju-st-sub">National Research Foundation, Singapore</span></td>
+                  <td>All nationalities; early-career researchers</td>
+                  <td>Annual (~Aug–Sep) — check <a href="https://www.nrf.gov.sg/grants/nrff/" target="_blank" style="color:#2a9d8f;">NRF website</a></td>
+                  <td>Highly competitive national fellowship for establishing an independent research programme. Comes with a substantial 5-year grant.</td>
+                </tr>
+                <tr>
+                  <td><a href="https://www.a-star.edu.sg/Scholarships" target="_blank" class="ju-st-name">A*STAR Research Fellowship Singapore</a><span class="ju-st-sub">Agency for Science, Technology and Research</span></td>
+                  <td>Singapore citizens &amp; PRs</td>
+                  <td>Annual — check <a href="https://www.a-star.edu.sg/Scholarships" target="_blank" style="color:#2a9d8f;">A*STAR website</a></td>
+                  <td>Supports postdoctoral research at A*STAR institutes or local universities, with a focus on applied research.</td>
+                </tr>
+                <tr><td colspan="4" class="ju-st-cat ext">INTERNATIONAL</td></tr>
+                <tr>
+                  <td><a href="https://marie-sklodowska-curie-actions.ec.europa.eu/" target="_blank" class="ju-st-name">Marie Skłodowska-Curie Actions (MSCA)</a><span class="ju-st-sub">European Commission</span></td>
+                  <td>All nationalities</td>
+                  <td>Annual (~Sep–Nov) — check <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/" target="_blank" style="color:#2a9d8f;">EU website</a></td>
+                  <td>EU Horizon programme supporting international mobility. Covers salary, travel, and research cost allowances.</td>
+                </tr>
+                <tr>
+                  <td><a href="https://www.humboldt-foundation.de/" target="_blank" class="ju-st-name">Alexander von Humboldt Research Fellowship</a><span class="ju-st-sub">Alexander von Humboldt Foundation</span></td>
+                  <td>All nationalities; researchers based outside Germany</td>
+                  <td>Rolling — apply at any time</td>
+                  <td>Internationally recognised fellowship for extended research stays. Open to all career stages; covers salary and research costs.</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
         </div>
       </details>
       <p style="font-size:0.80em; color:#6a7a8a; line-height:1.62; margin:12px 0 0; border-top:1px solid #f0f3f7; padding-top:10px;"><i class="fas fa-clock" style="color:#457b9d; margin-right:5px;"></i><strong>Timeline:</strong> The hiring process of international candidates typically takes 3–5 months from initial contact to start date, depending on administrative and visa requirements. Singaporeans and SPRs may have a shorter lead time.</p>
