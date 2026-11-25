@@ -435,7 +435,6 @@ html, body { overflow-x: hidden; }
                   <td>Annual — check <a href="https://www.ntu.edu.sg/research/research-careers/ntu-ai-for-x-postdoctoral-fellowship" target="_blank" style="color:#2a9d8f;">NTU website</a></td>
                   <td>Fellowship for early-career researchers applying AI to diverse domains. Supports independent AI-driven research.</td>
                 </tr>
-                <tr><td colspan="4" class="ju-st-cat ext">SINGAPORE NATIONAL</td></tr>
                 <tr>
                   <td><a href="https://www.nrf.gov.sg/grants/nrff/" target="_blank" class="ju-st-name">NRF Fellowship</a><span class="ju-st-sub">National Research Foundation, Singapore</span></td>
                   <td>All nationalities; early-career researchers</td>
@@ -448,7 +447,6 @@ html, body { overflow-x: hidden; }
                   <td>Annual — check <a href="https://www.a-star.edu.sg/Scholarships" target="_blank" style="color:#2a9d8f;">A*STAR website</a></td>
                   <td>Supports postdoctoral research at A*STAR institutes or local universities, with a focus on applied research.</td>
                 </tr>
-                <tr><td colspan="4" class="ju-st-cat ext">INTERNATIONAL</td></tr>
                 <tr>
                   <td><a href="https://marie-sklodowska-curie-actions.ec.europa.eu/" target="_blank" class="ju-st-name">Marie Skłodowska-Curie Actions (MSCA)</a><span class="ju-st-sub">European Commission</span></td>
                   <td>All nationalities</td>
