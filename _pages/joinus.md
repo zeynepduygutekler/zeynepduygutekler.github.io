@@ -595,7 +595,7 @@ html, body { overflow-x: hidden; }
 </div>
 
 <div class="ju-note">
-  <strong><i class="fas fa-envelope" style="color:#2a9d8f; margin-right:7px;"></i>A Note on Enquiries</strong><br>
+  <strong><i class="fas fa-envelope" style="color:#2a9d8f; margin-right:7px;"></i>A Note on Applications</strong><br>
   I review every application carefully, however due to the high volume of applications, only shortlisted candidates will be contacted. I particularly welcome applications from candidates with a strong research background, a proven track record of publications in reputable journals, and research interests that closely align with the work of BASE Lab. I look forward to hearing from motivated researchers who are eager to contribute to our ongoing research.
 </div>
 
