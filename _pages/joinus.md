@@ -413,7 +413,11 @@ html, body { overflow-x: hidden; }
                 <tr>
                   <td><a href="https://www.ntu.edu.sg/research/research-careers/presidential-postdoctoral-fellowship-(ppf)" target="_blank" class="ju-st-name">Presidential Postdoctoral Fellowship (PPF)</a><span class="ju-st-sub">Nanyang Technological University</span></td>
                   <td>All nationalities; within 5 years of PhD</td>
-                  <td>Varies by scheme (~31 Dec for Wallenberg) — check <a href="https://www.ntu.edu.sg/research/research-careers/presidential-postdoctoral-fellowship-(ppf)" target="_blank" style="color:#2a9d8f;">NTU website</a></td>
+                  <td><ul style="margin:0 0 5px; padding-left:13px;">
+                    <li style="font-size:0.9em; margin-bottom:3px;">Wallenberg-NTU PPF: 31 Dec <span style="display:inline-block; background:#2a9d8f; color:#fff; font-size:0.72em; font-weight:700; padding:1px 6px; border-radius:3px; margin-left:3px; vertical-align:middle;">OPEN</span></li>
+                    <li style="font-size:0.9em; margin-bottom:3px;">SP Group–NTU PPF: ~31 May</li>
+                    <li style="font-size:0.9em;">NTU PPF: ~Feb–May</li>
+                  </ul><a href="https://www.ntu.edu.sg/research/research-careers/presidential-postdoctoral-fellowship-(ppf)" target="_blank" style="color:#2a9d8f; font-size:0.82em;">NTU website ↗</a></td>
                   <td>Competitive salary, up to SGD $100,000/year research grant, and housing support. Includes Wallenberg-NTU PPF (AI &amp; autonomous systems) and SP Group–NTU PPF (energy &amp; power systems) schemes.</td>
                 </tr>
                 <tr>
