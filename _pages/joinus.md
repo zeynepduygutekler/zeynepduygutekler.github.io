@@ -288,7 +288,7 @@ html, body { overflow-x: hidden; }
                   <tr>
                     <th>Scholarship</th>
                     <th>Eligibility</th>
-                    <th>Typical Deadline</th>
+                    <th>Deadlines</th>
                     <th>Details</th>
                   </tr>
                 </thead>
@@ -297,32 +297,32 @@ html, body { overflow-x: hidden; }
                   <tr>
                     <td><a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/npgs" target="_blank" class="ju-st-name">NPGS</a><span class="ju-st-sub">Nanyang President's Graduate Scholarship</span></td>
                     <td>All nationalities</td>
-                    <td>Nomination only (1 Nov – 31 Dec)</td>
+                    <td>Nomination only (1 Nov – 31 Dec) <span style="display:inline-block;background:#2a9d8f;color:#fff;font-size:0.72em;font-weight:700;padding:1px 6px;border-radius:3px;margin-left:3px;vertical-align:middle;">OPEN</span></td>
                     <td>Full tuition, monthly stipend, and annual conference allowance. Outstanding academic record and research potential; Highest Distinction or equivalent.</td>
                   </tr>
                   <tr>
                     <td><a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/pga" target="_blank" class="ju-st-name">PGA</a><span class="ju-st-sub">Provost's Graduate Award</span></td>
                     <td>All nationalities</td>
-                    <td>Nomination only (~1 Nov – 31 Dec)</td>
+                    <td>Nomination only (~1 Nov – 31 Dec) <span style="display:inline-block;background:#2a9d8f;color:#fff;font-size:0.72em;font-weight:700;padding:1px 6px;border-radius:3px;margin-left:3px;vertical-align:middle;">OPEN</span></td>
                     <td>Additional monthly allowance on top of RSS. Highest Distinction or equivalent; exceptional research potential.</td>
                   </tr>
                   <tr>
                     <td><a href="https://www.ntu.edu.sg/graduate-college/admissions/scholarships/yunqi-phd-scholarship-in-science-and-technology" target="_blank" class="ju-st-name">Yunqi PhD Scholarship</a><span class="ju-st-sub">Science &amp; Technology</span></td>
                     <td>All nationalities</td>
-                    <td>Aligns with NTU PhD intake deadlines (31 Jan for Aug; 31 Jul for Jan) — check <a href="https://www.ntu.edu.sg/graduate-college/admissions/scholarships/yunqi-phd-scholarship-in-science-and-technology" target="_blank" style="color:#2a9d8f;">NTU portal</a></td>
+                    <td>Aligns with NTU PhD intake deadlines (31 Jan for Aug; 31 Jul for Jan) <span style="display:inline-block;background:#2a9d8f;color:#fff;font-size:0.72em;font-weight:700;padding:1px 6px;border-radius:3px;margin-left:3px;vertical-align:middle;">OPEN</span></td>
                     <td>Full tuition and monthly stipend for PhD candidates in science and technology at NTU.</td>
                   </tr>
                   <tr><td colspan="4" class="ju-st-cat ext">EXTERNALLY FUNDED</td></tr>
                   <tr>
                     <td><a href="https://aisingapore.org/research/phd-fellowship-programme/" target="_blank" class="ju-st-name">AISG PhD Fellowship</a><span class="ju-st-sub">AI Singapore</span></td>
                     <td>All nationalities (SG/PR/ASEAN encouraged)</td>
-                    <td>Annual (~Oct) — nomination by supervisor; check <a href="https://aisingapore.org/research/phd-fellowship-programme/" target="_blank" style="color:#2a9d8f;">AISG website</a></td>
+                    <td>Annual (~Oct) — nomination by supervisor</td>
                     <td>Full tuition, monthly stipend, and conference travel support. Focused on AI fundamental research. Nomination-based.</td>
                   </tr>
                   <tr>
                     <td><a href="https://www.a-star.edu.sg/scholarships/home/scholarships/ags--scholarship" target="_blank" class="ju-st-name">A*STAR Graduate Scholarship (AGS)</a><span class="ju-st-sub">A*STAR</span></td>
                     <td>All nationalities</td>
-                    <td>Round 1: 1 Nov–1 Feb &nbsp;|&nbsp; Round 2: 1 Jun–10 Aug</td>
+                    <td>Round 1: 1 Nov–1 Feb <span style="display:inline-block;background:#2a9d8f;color:#fff;font-size:0.72em;font-weight:700;padding:1px 6px;border-radius:3px;margin-left:3px;vertical-align:middle;">OPEN</span> &nbsp;|&nbsp; Round 2: 1 Jun–10 Aug</td>
                     <td>Full tuition, monthly stipend, and overseas research attachment support. International awardees commit to 3 years of work in Singapore post-graduation.</td>
                   </tr>
                   <tr>
@@ -334,13 +334,13 @@ html, body { overflow-x: hidden; }
                   <tr>
                     <td><a href="https://www.psc.gov.sg/scholarships/postgraduate-scholarships/lee-kuan-yew-scholarship" target="_blank" class="ju-st-name">Lee Kuan Yew Scholarship</a><span class="ju-st-sub">Public Service Commission</span></td>
                     <td>Singapore citizens only</td>
-                    <td>Annual (~Jan–Mar) — check <a href="https://www.psc.gov.sg/scholarships/postgraduate-scholarships/lee-kuan-yew-scholarship" target="_blank" style="color:#2a9d8f;">PSC website</a></td>
+                    <td>Annual (~Jan–Mar)</td>
                     <td>Full tuition and generous annual allowance for up to 5 years. Highly competitive; no bond requirement.</td>
                   </tr>
                   <tr>
                     <td><a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships" target="_blank" class="ju-st-name">EDB Industrial Postgraduate Programme (IPP)</a><span class="ju-st-sub">EDB + Industry Partner</span></td>
                     <td>Singapore citizens &amp; PRs</td>
-                    <td>Ongoing — check <a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships" target="_blank" style="color:#2a9d8f;">NTU portal</a></td>
+                    <td>Ongoing <span style="display:inline-block;background:#2a9d8f;color:#fff;font-size:0.72em;font-weight:700;padding:1px 6px;border-radius:3px;margin-left:3px;vertical-align:middle;">OPEN</span></td>
                     <td>Industry co-funded PhD with an EDB industry partner. Applied research focus relevant to energy, built environment, and AI.</td>
                   </tr>
                   <tr>
@@ -352,26 +352,26 @@ html, body { overflow-x: hidden; }
                   <tr>
                     <td><a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships" target="_blank" class="ju-st-name">LPDP–NTU Graduate Scholarship</a><span class="ju-st-sub">Indonesian Government</span></td>
                     <td>Indonesian citizens</td>
-                    <td>Multiple rounds (~Feb, Jun, Oct) — check <a href="https://www.lpdp.kemenkeu.go.id" target="_blank" style="color:#2a9d8f;">LPDP website</a></td>
+                    <td>Multiple rounds (~Feb, Jun, Oct)</td>
                     <td>Full tuition, monthly stipend, and research support. Indonesia's prestigious government scholarship; NTU is a supported partner institution.</td>
                   </tr>
                   <tr>
                     <td><a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships" target="_blank" class="ju-st-name">VinGroup Graduate Scholarship</a><span class="ju-st-sub">VinGroup (Vietnam)</span></td>
                     <td>Vietnamese citizens</td>
-                    <td>Annual — check <a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships" target="_blank" style="color:#2a9d8f;">NTU portal</a></td>
+                    <td>Annual</td>
                     <td>Tuition and monthly stipend for STEM PhD students at NTU. Funded by Vietnam's VinGroup foundation.</td>
                   </tr>
                   <tr><td colspan="4" class="ju-st-cat ext">SELF-FUNDED / PART-TIME</td></tr>
                   <tr>
                     <td><span class="ju-st-name" style="color:#444; cursor:default;">Self-Funded PhD</span><span class="ju-st-sub">All nationalities</span></td>
                     <td>All nationalities</td>
-                    <td>Apply at any time</td>
+                    <td>Apply at any time <span style="display:inline-block;background:#2a9d8f;color:#fff;font-size:0.72em;font-weight:700;padding:1px 6px;border-radius:3px;margin-left:3px;vertical-align:middle;">OPEN</span></td>
                     <td>Self-funded applicants are welcome and should note this clearly in their cover letter. Please contact me to discuss your circumstances before applying.</td>
                   </tr>
                   <tr>
                     <td><span class="ju-st-name" style="color:#444; cursor:default;">Part-Time PhD</span><span class="ju-st-sub">Working professionals</span></td>
                     <td>Subject to NTU eligibility</td>
-                    <td>Apply at any time</td>
+                    <td>Apply at any time <span style="display:inline-block;background:#2a9d8f;color:#fff;font-size:0.72em;font-weight:700;padding:1px 6px;border-radius:3px;margin-left:3px;vertical-align:middle;">OPEN</span></td>
                     <td>Part-time PhD study may be available to working professionals, subject to NTU's admission requirements. Please contact me to discuss suitability.</td>
                   </tr>
                 </tbody>
@@ -399,7 +399,7 @@ html, body { overflow-x: hidden; }
                 <tr>
                   <th>Fellowship</th>
                   <th>Eligibility</th>
-                  <th>Typical Deadline</th>
+                  <th>Deadlines</th>
                   <th>Details</th>
                 </tr>
               </thead>
@@ -407,7 +407,7 @@ html, body { overflow-x: hidden; }
                 <tr>
                   <td><a href="https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-(lkypdf)" target="_blank" class="ju-st-name">Lee Kuan Yew Postdoctoral Fellowship</a><span class="ju-st-sub">Nanyang Technological University</span></td>
                   <td>All nationalities; early-career researchers</td>
-                  <td>25 Nov – 10 Feb — check <a href="https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-(lkypdf)" target="_blank" style="color:#2a9d8f;">NTU website</a></td>
+                  <td>25 Nov – 10 Feb <span style="display:inline-block;background:#2a9d8f;color:#fff;font-size:0.72em;font-weight:700;padding:1px 6px;border-radius:3px;margin-left:3px;vertical-align:middle;">OPEN</span></td>
                   <td>Prestigious NTU fellowship for outstanding early-career researchers. Covers full salary, research allowances, and travel support.</td>
                 </tr>
                 <tr>
@@ -417,43 +417,43 @@ html, body { overflow-x: hidden; }
                     <li style="font-size:0.9em; margin-bottom:3px;">Wallenberg-NTU PPF: 31 Dec <span style="display:inline-block; background:#2a9d8f; color:#fff; font-size:0.72em; font-weight:700; padding:1px 6px; border-radius:3px; margin-left:3px; vertical-align:middle;">OPEN</span></li>
                     <li style="font-size:0.9em; margin-bottom:3px;">SP Group–NTU PPF: ~31 May</li>
                     <li style="font-size:0.9em;">NTU PPF: ~Feb–May</li>
-                  </ul><a href="https://www.ntu.edu.sg/research/research-careers/presidential-postdoctoral-fellowship-(ppf)" target="_blank" style="color:#2a9d8f; font-size:0.82em;">NTU website ↗</a></td>
+                  </ul></td>
                   <td>Competitive salary, up to SGD $100,000/year research grant, and housing support. Includes Wallenberg-NTU PPF (AI &amp; autonomous systems) and SP Group–NTU PPF (energy &amp; power systems) schemes.</td>
                 </tr>
                 <tr>
                   <td><a href="https://www.ntu.edu.sg/research/research-careers/the-eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship" target="_blank" class="ju-st-name">Schmidt AI in Science Fellowship</a><span class="ju-st-sub">Eric &amp; Wendy Schmidt / NTU</span></td>
                   <td>All nationalities; within 3 years of PhD; AI applied to engineering or natural sciences</td>
-                  <td>Annual (deadline 31 Dec) — check <a href="https://www.ntu.edu.sg/research/research-careers/the-eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship" target="_blank" style="color:#2a9d8f;">NTU website</a></td>
+                  <td>Annual (deadline 31 Dec) <span style="display:inline-block;background:#2a9d8f;color:#fff;font-size:0.72em;font-weight:700;padding:1px 6px;border-radius:3px;margin-left:3px;vertical-align:middle;">OPEN</span></td>
                   <td>Two-year fellowship covering salary, travel, and AI training. Research cannot be in computer science itself.</td>
                 </tr>
                 <tr>
                   <td><a href="https://www.ntu.edu.sg/research/research-careers/ntu-ai-for-x-postdoctoral-fellowship" target="_blank" class="ju-st-name">NTU AI-for-X Postdoctoral Fellowship (AI4X)</a><span class="ju-st-sub">Nanyang Technological University</span></td>
                   <td>All nationalities; early-career researchers</td>
-                  <td>Annual (deadline ~30 Oct) — check <a href="https://www.ntu.edu.sg/research/research-careers/ntu-ai-for-x-postdoctoral-fellowship" target="_blank" style="color:#2a9d8f;">NTU website</a></td>
+                  <td>Annual (deadline ~30 Oct)</td>
                   <td>Fellowship for early-career researchers applying AI to diverse domains. Supports independent AI-driven research.</td>
                 </tr>
                 <tr>
                   <td><a href="https://www.nrf.gov.sg/grants/nrff/" target="_blank" class="ju-st-name">NRF Fellowship</a><span class="ju-st-sub">National Research Foundation, Singapore</span></td>
                   <td>All nationalities; early-career researchers</td>
-                  <td>Annual (~Aug–Sep) — check <a href="https://www.nrf.gov.sg/grants/nrff/" target="_blank" style="color:#2a9d8f;">NRF website</a></td>
+                  <td>Annual (~Aug–Sep)</td>
                   <td>Highly competitive national fellowship for establishing an independent research programme. Comes with a substantial 5-year grant.</td>
                 </tr>
                 <tr>
                   <td><a href="https://www.a-star.edu.sg/Scholarships" target="_blank" class="ju-st-name">A*STAR Research Fellowship Singapore</a><span class="ju-st-sub">Agency for Science, Technology and Research</span></td>
                   <td>Singapore citizens &amp; PRs</td>
-                  <td>Annual — check <a href="https://www.a-star.edu.sg/Scholarships" target="_blank" style="color:#2a9d8f;">A*STAR website</a></td>
+                  <td>Annual</td>
                   <td>Supports postdoctoral research at A*STAR institutes or local universities, with a focus on applied research.</td>
                 </tr>
                 <tr>
                   <td><a href="https://marie-sklodowska-curie-actions.ec.europa.eu/" target="_blank" class="ju-st-name">Marie Skłodowska-Curie Actions (MSCA)</a><span class="ju-st-sub">European Commission</span></td>
                   <td>All nationalities</td>
-                  <td>Annual (~Sep–Nov) — check <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/" target="_blank" style="color:#2a9d8f;">EU website</a></td>
+                  <td>Annual (~Sep–Nov)</td>
                   <td>EU Horizon programme supporting international mobility. Covers salary, travel, and research cost allowances.</td>
                 </tr>
                 <tr>
                   <td><a href="https://www.humboldt-foundation.de/" target="_blank" class="ju-st-name">Alexander von Humboldt Research Fellowship</a><span class="ju-st-sub">Alexander von Humboldt Foundation</span></td>
                   <td>All nationalities; researchers based outside Germany</td>
-                  <td>Rolling — apply at any time</td>
+                  <td>Rolling — apply at any time <span style="display:inline-block;background:#2a9d8f;color:#fff;font-size:0.72em;font-weight:700;padding:1px 6px;border-radius:3px;margin-left:3px;vertical-align:middle;">OPEN</span></td>
                   <td>Internationally recognised fellowship for extended research stays. Open to all career stages; covers salary and research costs.</td>
                 </tr>
               </tbody>
